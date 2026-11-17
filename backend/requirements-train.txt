@@ -1,0 +1,7 @@
+# extra packages to rebuild the data files and retrain the models (see README)
+-r requirements.txt
+pandas>=2.1
+scikit-learn>=1.4
+shapely>=2.0
+onnx>=1.15
+pytest>=8.0

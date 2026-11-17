@@ -1,0 +1,284 @@
+{
+ "trained_on": {
+  "rows": 247398,
+  "districts": 699,
+  "crops": 29,
+  "years": [
+   1997,
+   2019
+  ]
+ },
+ "cleaning_steps": [
+  [
+   "Raw rows",
+   326846
+  ],
+  [
+   "Rows for the crops we cover",
+   255193
+  ],
+  [
+   "Rows whose district is on the map",
+   254866
+  ],
+  [
+   "Rows with at least 1 ha and some production",
+   253791
+  ],
+  [
+   "Rows after removing extreme yields",
+   251329
+  ],
+  [
+   "Clean rows (1997-2019)",
+   247398
+  ]
+ ],
+ "test": {
+  "method": "trained on 1997-2016, scored on 2017-2019",
+  "rows": 37842,
+  "models": {
+   "National average for the crop": {
+    "median_error_pct": 33.2,
+    "within_25_pct": 38.0,
+    "r2_log": 0.793
+   },
+   "District's own average of its last 5 records": {
+    "median_error_pct": 15.1,
+    "within_25_pct": 68.7,
+    "r2_log": 0.925
+   },
+   "Gradient boosting (used in the app)": {
+    "median_error_pct": 14.7,
+    "within_25_pct": 68.0,
+    "r2_log": 0.924
+   }
+  },
+  "by_history": {
+   "3+ earlier records in the district": {
+    "model": {
+     "median_error_pct": 14.2,
+     "within_25_pct": 69.2,
+     "r2_log": 0.927
+    },
+    "district_average": {
+     "median_error_pct": 14.9,
+     "within_25_pct": 69.8,
+     "r2_log": 0.93
+    },
+    "share_of_test_pct": 89.5
+   },
+   "fewer than 3 earlier records": {
+    "model": {
+     "median_error_pct": 19.9,
+     "within_25_pct": 57.5,
+     "r2_log": 0.897
+    },
+    "district_average": {
+     "median_error_pct": 18.2,
+     "within_25_pct": 59.9,
+     "r2_log": 0.882
+    },
+    "share_of_test_pct": 10.5
+   }
+  },
+  "range_80_coverage_pct": 81.7,
+  "range_method": "band = 10th-90th percentile of an earlier model's misses on 2014-2016, checked on 2017-2019",
+  "per_crop": {
+   "bajra": {
+    "median_error_pct": 17.8,
+    "within_25_pct": 60.7,
+    "r2_log": 0.529,
+    "rows": 1197
+   },
+   "banana": {
+    "median_error_pct": 9.9,
+    "within_25_pct": 86.9,
+    "r2_log": 0.894,
+    "rows": 666
+   },
+   "barley": {
+    "median_error_pct": 9.1,
+    "within_25_pct": 78.2,
+    "r2_log": 0.78,
+    "rows": 770
+   },
+   "castor": {
+    "median_error_pct": 20.9,
+    "within_25_pct": 58.3,
+    "r2_log": 0.39,
+    "rows": 580
+   },
+   "chilli": {
+    "median_error_pct": 12.3,
+    "within_25_pct": 74.5,
+    "r2_log": 0.699,
+    "rows": 1001
+   },
+   "coriander": {
+    "median_error_pct": 14.9,
+    "within_25_pct": 66.1,
+    "r2_log": 0.384,
+    "rows": 699
+   },
+   "cotton": {
+    "median_error_pct": 25.0,
+    "within_25_pct": 50.1,
+    "r2_log": 0.312,
+    "rows": 945
+   },
+   "garlic": {
+    "median_error_pct": 14.5,
+    "within_25_pct": 73.8,
+    "r2_log": 0.669,
+    "rows": 805
+   },
+   "gram": {
+    "median_error_pct": 14.9,
+    "within_25_pct": 71.1,
+    "r2_log": 0.336,
+    "rows": 1399
+   },
+   "groundnut": {
+    "median_error_pct": 15.5,
+    "within_25_pct": 66.6,
+    "r2_log": 0.487,
+    "rows": 1804
+   },
+   "jowar": {
+    "median_error_pct": 21.2,
+    "within_25_pct": 55.9,
+    "r2_log": 0.169,
+    "rows": 1351
+   },
+   "jute": {
+    "median_error_pct": 7.8,
+    "within_25_pct": 79.7,
+    "r2_log": 0.814,
+    "rows": 237
+   },
+   "maize": {
+    "median_error_pct": 14.3,
+    "within_25_pct": 70.0,
+    "r2_log": 0.447,
+    "rows": 2878
+   },
+   "masoor": {
+    "median_error_pct": 13.9,
+    "within_25_pct": 69.4,
+    "r2_log": 0.412,
+    "rows": 1029
+   },
+   "moong": {
+    "median_error_pct": 18.1,
+    "within_25_pct": 60.7,
+    "r2_log": 0.414,
+    "rows": 2498
+   },
+   "mustard": {
+    "median_error_pct": 13.1,
+    "within_25_pct": 71.2,
+    "r2_log": 0.759,
+    "rows": 1567
+   },
+   "onion": {
+    "median_error_pct": 13.2,
+    "within_25_pct": 71.6,
+    "r2_log": 0.755,
+    "rows": 1748
+   },
+   "potato": {
+    "median_error_pct": 11.6,
+    "within_25_pct": 76.3,
+    "r2_log": 0.761,
+    "rows": 1595
+   },
+   "ragi": {
+    "median_error_pct": 17.5,
+    "within_25_pct": 65.5,
+    "r2_log": 0.716,
+    "rows": 710
+   },
+   "rice": {
+    "median_error_pct": 10.6,
+    "within_25_pct": 78.4,
+    "r2_log": 0.624,
+    "rows": 2782
+   },
+   "safflower": {
+    "median_error_pct": 33.3,
+    "within_25_pct": 36.6,
+    "r2_log": 0.078,
+    "rows": 224
+   },
+   "sesame": {
+    "median_error_pct": 19.8,
+    "within_25_pct": 58.7,
+    "r2_log": 0.58,
+    "rows": 1929
+   },
+   "soybean": {
+    "median_error_pct": 19.1,
+    "within_25_pct": 59.3,
+    "r2_log": 0.181,
+    "rows": 859
+   },
+   "sugarcane": {
+    "median_error_pct": 11.6,
+    "within_25_pct": 80.7,
+    "r2_log": 0.811,
+    "rows": 1511
+   },
+   "sunflower": {
+    "median_error_pct": 23.1,
+    "within_25_pct": 51.5,
+    "r2_log": 0.268,
+    "rows": 843
+   },
+   "tur": {
+    "median_error_pct": 20.1,
+    "within_25_pct": 57.5,
+    "r2_log": 0.241,
+    "rows": 1589
+   },
+   "turmeric": {
+    "median_error_pct": 13.1,
+    "within_25_pct": 77.6,
+    "r2_log": 0.842,
+    "rows": 731
+   },
+   "urad": {
+    "median_error_pct": 17.2,
+    "within_25_pct": 62.2,
+    "r2_log": 0.252,
+    "rows": 2378
+   },
+   "wheat": {
+    "median_error_pct": 8.5,
+    "within_25_pct": 83.1,
+    "r2_log": 0.815,
+    "rows": 1517
+   }
+  }
+ },
+ "features": [
+  "crop_code",
+  "season_code",
+  "state_code",
+  "year",
+  "lat",
+  "lng",
+  "rain_annual",
+  "rain_monsoon",
+  "rain_postmonsoon",
+  "rain_winter",
+  "rain_summer",
+  "hist5",
+  "hist_all",
+  "hist_last",
+  "n_hist",
+  "state_hist",
+  "nat_hist",
+  "area_share"
+ ]
+}

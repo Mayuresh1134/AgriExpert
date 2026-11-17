@@ -1,0 +1,2160 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+"Andhra Pradesh",Chittor,Tirupati,Banana,Bhushavali(Pacha),Small,16/04/2025,7500,10000,8500
+"Andhra Pradesh",Guntur,Pidugurala(Palnadu),"Dry Chillies","1st Sort",FAQ,16/04/2025,7500,11500,11000
+Bihar,Bhojpur,Aarah,Potato,Jyoti,FAQ,16/04/2025,1500,1700,1600
+Gujarat,Amreli,Damnagar,"Green Chilli","Green Chilly",FAQ,16/04/2025,1650,2550,2000
+Gujarat,Amreli,Damnagar,Guar,Gwar,FAQ,16/04/2025,2000,3050,2550
+Gujarat,Amreli,Damnagar,Tomato,Local,Non-FAQ,16/04/2025,650,1550,1200
+Gujarat,Banaskanth,Dhanera,"Cummin Seed(Jeera)",Other,FAQ,16/04/2025,15510,24500,21050
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Carrot,Carrot,FAQ,16/04/2025,200,1000,600
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Cauliflower,Cauliflower,FAQ,16/04/2025,300,900,600
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Tomato,Tomato,FAQ,16/04/2025,100,1200,650
+Gujarat,Sabarkantha,Khedbrahma,Mustard,Other,FAQ,16/04/2025,5150,5500,5325
+Gujarat,Sabarkantha,Khedbrahma,Wheat,Other,FAQ,16/04/2025,2450,2750,2600
+Gujarat,Sabarkantha,Modasa(Tintoi),"Castor Seed","Castor seed",FAQ,16/04/2025,5700,5965,5965
+Gujarat,Surat,Bardoli(Katod),Brinjal,Other,FAQ,16/04/2025,1000,1650,1450
+Gujarat,Surat,Surat,"Bitter gourd",Other,FAQ,16/04/2025,2500,4500,3500
+Gujarat,Surat,Surat,Cabbage,Other,FAQ,16/04/2025,500,2000,1250
+Gujarat,Surat,Surat,Carrot,Other,FAQ,16/04/2025,900,2000,1450
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,16/04/2025,1500,3500,2500
+Gujarat,Surat,Surat,Ginger(Green),Other,FAQ,16/04/2025,1600,2800,2200
+Gujarat,Surat,Surat,Pumpkin,Other,FAQ,16/04/2025,500,1200,850
+Gujarat,Surat,Surat,"Surat Beans (Papadi)",Other,FAQ,16/04/2025,4000,8000,6000
+Gujarat,Surat,Surat,Tomato,Other,FAQ,16/04/2025,700,1500,1100
+Haryana,Gurgaon,Gurgaon,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,800,1200,1000
+Haryana,Gurgaon,Gurgaon,Tomato,Other,Non-FAQ,16/04/2025,800,1000,900
+Haryana,Gurgaon,Gurgaon,"Water Melon",Other,Large,16/04/2025,1000,1200,1100
+Haryana,Hissar,Uklana,Capsicum,Capsicum,FAQ,16/04/2025,1200,1200,1200
+Haryana,Hissar,Uklana,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,700,1000,1000
+Haryana,Hissar,Uklana,Grapes,Other,Medium,16/04/2025,4000,4500,4500
+Haryana,Hissar,Uklana,"Water Melon",Other,Medium,16/04/2025,1800,1800,1800
+Haryana,Mahendragarh-Narnaul,Narnaul,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2500,4000,3500
+Haryana,Mahendragarh-Narnaul,Narnaul,"Green Chilli","Green Chilly",FAQ,16/04/2025,1500,4000,3000
+Haryana,Mewat,FerozpurZirkha(Nagina),Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1600,2000,1800
+Haryana,Mewat,FerozpurZirkha(Nagina),Tomato,Other,FAQ,16/04/2025,600,800,700
+Haryana,Rohtak,Meham,Banana,Other,Medium,16/04/2025,1700,1700,1700
+Haryana,Rohtak,Meham,Cabbage,Cabbage,FAQ,16/04/2025,700,700,700
+Haryana,Rohtak,Meham,Grapes,Other,Medium,16/04/2025,6000,6000,6000
+Haryana,Sonipat,Gohana,Apple,Apple,Large,16/04/2025,10000,12000,11000
+Haryana,Sonipat,Gohana,"Banana - Green",Other,FAQ,16/04/2025,2000,3000,2500
+Haryana,Sonipat,Gohana,Brinjal,Other,FAQ,16/04/2025,1500,3000,2000
+Haryana,Sonipat,Gohana,Grapes,Other,Large,16/04/2025,5000,7000,6000
+Haryana,Sonipat,Gohana,Potato,Other,Non-FAQ,16/04/2025,600,2000,900
+Haryana,"Yamuna Nagar",Chhachrauli,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,500,700,500
+Haryana,"Yamuna Nagar",Chhachrauli,Potato,Potato,FAQ,16/04/2025,800,1400,800
+Haryana,"Yamuna Nagar",Chhachrauli,Pumpkin,Pumpkin,FAQ,16/04/2025,500,600,500
+"Himachal Pradesh",Bilaspur,Bilaspur,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,4500,5500,5000
+"Himachal Pradesh",Bilaspur,Bilaspur,"Karbuja(Musk Melon)",Other,Medium,16/04/2025,2500,3500,3000
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1800,2300,2000
+"Himachal Pradesh",Kangra,Kangra(Baijnath),"Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,3000,3500,3200
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Raddish,Other,FAQ,16/04/2025,1700,1800,1700
+"Himachal Pradesh",Kangra,Kangra(Baijnath),"Water Melon",Other,Medium,16/04/2025,2100,2200,2200
+"Himachal Pradesh",Kangra,Palampur,Cucumbar(Kheera),Other,FAQ,16/04/2025,1600,2000,1800
+"Himachal Pradesh",Kangra,Palampur,Ginger(Green),Other,FAQ,16/04/2025,6000,6500,6200
+"Himachal Pradesh",Kangra,Palampur,Mashrooms,Other,FAQ,16/04/2025,12000,15000,13500
+"Himachal Pradesh",Kangra,Palampur,"Mousambi(Sweet Lime)",Other,Medium,16/04/2025,5500,5800,5600
+"Jammu and Kashmir",Anantnag,Kulgam,Lemon,Lemon,FAQ,16/04/2025,7500,8500,8000
+"Jammu and Kashmir",Anantnag,Kulgam,"Water Melon","Water Melon",Large,16/04/2025,2400,2500,2450
+Karnataka,Bangalore,Ramanagara,Beans,"Beans (Whole)",FAQ,16/04/2025,5000,7200,6400
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,16/04/2025,1400,1800,1600
+Karnataka,Bangalore,Ramanagara,Cauliflower,Cauliflower,FAQ,16/04/2025,2000,2800,2500
+Karnataka,Bangalore,Ramanagara,Snakeguard,Snakeguard,FAQ,16/04/2025,2300,3000,2800
+Karnataka,Madikeri(Kodagu),Madikeri,Arecanut(Betelnut/Supari),Raw,FAQ,16/04/2025,25000,41142,25000
+Karnataka,Madikeri(Kodagu),Madikeri,"Black pepper",Malabar,FAQ,16/04/2025,30026,49346,49029
+Karnataka,Shimoga,Shimoga,Beans,"Beans (Whole)",FAQ,16/04/2025,6000,7000,6500
+Karnataka,Shimoga,Shimoga,"Bengal Gram(Gram)(Whole)",Jawari/Local,FAQ,16/04/2025,5600,6300,5950
+Karnataka,Shimoga,Shimoga,Drumstick,Drumstick,FAQ,16/04/2025,1000,1200,1100
+Karnataka,Shimoga,Shimoga,"Kulthi(Horse Gram)","Horse gram (Whole)",FAQ,16/04/2025,3600,5200,4400
+Kerala,Alappuzha,Aroor,Ashgourd,Other,FAQ,16/04/2025,2500,2700,2600
+Kerala,Alappuzha,Aroor,Beetroot,Other,FAQ,16/04/2025,4800,5000,4900
+Kerala,Alappuzha,Aroor,Cucumbar(Kheera),Other,FAQ,16/04/2025,3700,3900,3800
+Kerala,Alappuzha,Aroor,Drumstick,Other,FAQ,16/04/2025,4000,4200,4100
+Kerala,Alappuzha,Aroor,Garlic,Other,FAQ,16/04/2025,13400,13600,13500
+Kerala,Alappuzha,Aroor,"Green Chilli",Other,FAQ,16/04/2025,4500,4700,4600
+Kerala,Alappuzha,Aroor,Pumpkin,Other,FAQ,16/04/2025,2500,2700,2600
+Kerala,Alappuzha,Harippad,Brinjal,Other,FAQ,16/04/2025,4000,4500,4000
+Kerala,Ernakulam,Piravam,Cauliflower,Other,FAQ,16/04/2025,4000,6000,5000
+Kerala,Ernakulam,Piravam,Coriander(Leaves),Other,FAQ,16/04/2025,22000,24000,23000
+Kerala,Ernakulam,Piravam,Cowpea(Veg),Other,FAQ,16/04/2025,5000,6000,5500
+Kerala,Ernakulam,Piravam,Ginger(Green),Other,FAQ,16/04/2025,6000,8000,7000
+Kerala,Ernakulam,Piravam,"Little gourd (Kundru)",Other,FAQ,16/04/2025,4000,6000,5000
+Kerala,Ernakulam,Piravam,Mango,Other,Large,16/04/2025,5000,6000,5500
+Kerala,Ernakulam,Piravam,Onion,Big,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,"Water Melon","Water Melon",Large,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Thrippunithura,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,6500,8000,6700
+Kerala,Ernakulam,Thrippunithura,Cabbage,Cabbage,FAQ,16/04/2025,3000,4000,3200
+Kerala,Ernakulam,Thrippunithura,Capsicum,Capsicum,FAQ,16/04/2025,7000,10000,8000
+Kerala,Ernakulam,Thrippunithura,Carrot,Carrot,FAQ,16/04/2025,4000,5000,4200
+Kerala,Ernakulam,Thrippunithura,Drumstick,Drumstick,FAQ,16/04/2025,4000,6000,4500
+Kerala,Ernakulam,Thrippunithura,Lemon,Other,FAQ,16/04/2025,12000,16000,12500
+Kerala,Kannur,"Koodali  VFPCK",Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2000,2000
+Kerala,Kannur,Payyannur,Arecanut(Betelnut/Supari),Other,FAQ,16/04/2025,37000,39000,38000
+Kerala,Kannur,Payyannur,Banana,Other,Large,16/04/2025,5700,5900,5800
+Kerala,Kasargod,Manjeswaram,Arecanut(Betelnut/Supari),Other,FAQ,16/04/2025,35000,37000,36000
+Kerala,Kasargod,Manjeswaram,"Banana - Green",Other,FAQ,16/04/2025,7000,8000,7500
+Kerala,Kasargod,Manjeswaram,Beetroot,Beetroot,FAQ,16/04/2025,4000,5500,4750
+Kerala,Kasargod,Manjeswaram,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,9000,10000,9500
+Kerala,Kasargod,Manjeswaram,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,2000,3500,2750
+Kerala,Kasargod,Manjeswaram,"Coconut Seed",Other,FAQ,16/04/2025,5000,5600,5300
+Kerala,Kasargod,Manjeswaram,Copra,Copra,FAQ,16/04/2025,14000,16000,15000
+Kerala,Kasargod,Manjeswaram,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kollam,Anchal,Banana,Palayamthodan,Medium,16/04/2025,3500,3700,3600
+Kerala,Kollam,Anchal,Banana,Poovan,Medium,16/04/2025,7500,7700,7600
+Kerala,Kollam,Anchal,Cabbage,Other,FAQ,16/04/2025,4500,4700,4600
+Kerala,Kollam,Anchal,Tomato,Hybrid,FAQ,16/04/2025,2500,2700,2600
+Kerala,Kottayam,Athirampuzha,Ashgourd,Ashgourd,FAQ,16/04/2025,1500,1700,1600
+Kerala,Kottayam,Athirampuzha,Banana,"Banana - Ripe",Medium,16/04/2025,5900,6100,6000
+Kerala,Kottayam,Athirampuzha,Banana,Poovan,Medium,16/04/2025,6000,6200,6100
+Kerala,Kottayam,Athirampuzha,Brinjal,Brinjal,FAQ,16/04/2025,3500,3700,3600
+Kerala,Kottayam,Athirampuzha,Garlic,Garlic,FAQ,16/04/2025,10000,11000,10500
+Kerala,Kottayam,Athirampuzha,Ginger(Green),"Green Ginger",FAQ,16/04/2025,6400,6600,6500
+Kerala,Kottayam,Athirampuzha,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,2500,2700,2600
+Kerala,Kottayam,Athirampuzha,Onion,Big,FAQ,16/04/2025,2100,2300,2200
+Kerala,Kottayam,Athirampuzha,Pumpkin,Pumpkin,FAQ,16/04/2025,1200,1400,1300
+Kerala,Kottayam,Ettumanoor,Colacasia,Other,FAQ,16/04/2025,6500,6800,6600
+Kerala,Kottayam,Ettumanoor,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2400,2200
+Kerala,Kottayam,Ettumanoor,Drumstick,Drumstick,FAQ,16/04/2025,3500,3800,3600
+Kerala,Kottayam,Ettumanoor,Ginger(Green),"Green Ginger",FAQ,16/04/2025,4400,4800,4600
+Kerala,Kottayam,Ettumanoor,Onion,Onion,FAQ,16/04/2025,3800,4200,4000
+Kerala,Kottayam,Kuruppanthura,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,4590,5300,4700
+Kerala,Kottayam,Kuruppanthura,Brinjal,Brinjal,FAQ,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Kuruppanthura,Coconut,Medium,FAQ,16/04/2025,6500,7600,7000
+Kerala,Kottayam,Kuruppanthura,"Long Melon(Kakri)",Other,FAQ,16/04/2025,4000,5000,4600
+Kerala,Kottayam,Kuruppanthura,Onion,Onion,Non-FAQ,16/04/2025,4700,5400,5000
+Kerala,Kottayam,Kuruppanthura,Tapioca,Tapioca,FAQ,16/04/2025,2699,3600,3000
+Kerala,Kottayam,Pampady,Banana,Medium,Medium,16/04/2025,6500,7500,7000
+Kerala,Kottayam,Pampady,"Banana - Green","Banana - Green",FAQ,16/04/2025,6300,7500,7000
+Kerala,Kottayam,Pampady,Cabbage,Other,FAQ,16/04/2025,1800,3000,2500
+Kerala,Kottayam,Pampady,Ginger(Green),"Green Ginger",FAQ,16/04/2025,7500,10000,8500
+Kerala,Kozhikode(Calicut),Kallachi,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,5800,6200,6000
+Kerala,Kozhikode(Calicut),Kallachi,Drumstick,Drumstick,FAQ,16/04/2025,3800,4200,4000
+Kerala,Kozhikode(Calicut),Kallachi,"Green Chilli","Green Chilly",FAQ,16/04/2025,3300,3700,3500
+Kerala,Kozhikode(Calicut),Mukkom,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3600,4000,3800
+Kerala,Kozhikode(Calicut),Mukkom,Pineapple,Other,Large,16/04/2025,6500,7000,6800
+Kerala,Kozhikode(Calicut),Mukkom,Pumpkin,Pumpkin,FAQ,16/04/2025,1500,1900,1700
+Kerala,Kozhikode(Calicut),Mukkom,Tomato,Tomato,FAQ,16/04/2025,1600,1900,1800
+Kerala,Kozhikode(Calicut),Palayam,"Banana - Green",Other,FAQ,16/04/2025,5400,5400,5400
+Kerala,Kozhikode(Calicut),Palayam,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,5500,5500,5500
+Kerala,Kozhikode(Calicut),Palayam,"Bottle gourd",Other,FAQ,16/04/2025,1500,1500,1500
+Kerala,Kozhikode(Calicut),Palayam,Raddish,Other,FAQ,16/04/2025,1800,1800,1800
+Kerala,Kozhikode(Calicut),Quilandy,Brinjal,Other,FAQ,16/04/2025,3300,3500,3400
+Kerala,Kozhikode(Calicut),Quilandy,Cabbage,Other,FAQ,16/04/2025,1800,2000,1800
+Kerala,Kozhikode(Calicut),Quilandy,Cauliflower,Other,FAQ,16/04/2025,3200,3500,3400
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2300,2600,2600
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Pumpkin,Pumpkin,FAQ,16/04/2025,800,1100,1100
+Kerala,Malappuram,Kottakkal,"Amranthas Red","Chawli Lal",FAQ,16/04/2025,1600,1800,1700
+Kerala,Malappuram,Kottakkal,Banana,"Nendra Bale",Large,16/04/2025,5300,5500,5400
+Kerala,Malappuram,Kottakkal,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3000,3200,3100
+Kerala,Malappuram,Kottakkal,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,4800,5000,4900
+Kerala,Malappuram,Kottakkal,Brinjal,Other,FAQ,16/04/2025,2800,3000,2900
+Kerala,Malappuram,Kottakkal,Capsicum,Other,FAQ,16/04/2025,4400,4600,4500
+Kerala,Malappuram,Kottakkal,Drumstick,Other,FAQ,16/04/2025,3400,3600,3500
+Kerala,Malappuram,Kottakkal,Ginger(Green),Other,FAQ,16/04/2025,4200,4400,4300
+Kerala,Malappuram,Kottakkal,Mango,Amrapali,Large,16/04/2025,7800,8000,7900
+Kerala,Malappuram,Kottakkal,Onion,Other,FAQ,16/04/2025,2100,2300,2200
+Kerala,Malappuram,Kottakkal,Snakeguard,Other,FAQ,16/04/2025,3300,3500,3400
+Kerala,Malappuram,Kottakkal,"Sweet Potato","Hosur Green",FAQ,16/04/2025,2400,2600,2500
+Kerala,Malappuram,Kottakkal,Tomato,Other,FAQ,16/04/2025,1500,1700,1600
+Kerala,Palakad,"Kadambazhi puram  VFPCK",Banana,Poovan,Medium,16/04/2025,260,300,280
+Kerala,Palakad,"Vaniyamkulam  VFPCK",Banana,Palayamthodan,Medium,16/04/2025,2200,2400,2300
+Kerala,Palakad,"Vaniyamkulam  VFPCK",Banana,Poovan,Medium,16/04/2025,5000,5200,5100
+Kerala,Palakad,"Vaniyamkulam  VFPCK",Banana,Robusta,Medium,16/04/2025,3100,3300,3200
+Kerala,Thirssur,Thrissur,Amaranthus,Amaranthus,FAQ,16/04/2025,2000,2200,2200
+Kerala,Thirssur,Thrissur,Arecanut(Betelnut/Supari),Other,FAQ,16/04/2025,32000,32000,32000
+Kerala,Thirssur,Thrissur,Ashgourd,Ashgourd,FAQ,16/04/2025,1000,1300,1200
+Kerala,Thirssur,Thrissur,Banana,"Banana - Ripe",Medium,16/04/2025,5800,6000,6000
+Kerala,Thirssur,Thrissur,"Cluster beans","Cluster Beans",FAQ,16/04/2025,6000,7000,6600
+Kerala,Thirssur,Thrissur,"Coconut Seed",Other,FAQ,16/04/2025,6200,6200,6200
+Kerala,Thirssur,Thrissur,Ginger(Green),"Green Ginger",FAQ,16/04/2025,4500,5500,5000
+Kerala,Thirssur,Thrissur,"Little gourd (Kundru)",Other,FAQ,16/04/2025,2200,2500,2300
+Kerala,Thirssur,Thrissur,Onion,Onion,FAQ,16/04/2025,2200,2800,2500
+Kerala,Thirssur,Thrissur,Tapioca,Tapioca,FAQ,16/04/2025,2500,2800,2600
+Kerala,Thiruvananthapuram,Parassala,Amaranthus,Amaranthus,FAQ,16/04/2025,6800,7000,6800
+Kerala,Thiruvananthapuram,Parassala,Banana,Palayamthodan,Medium,16/04/2025,2000,2200,2000
+Kerala,Thiruvananthapuram,Parassala,Cabbage,Cabbage,FAQ,16/04/2025,1800,2000,1800
+Kerala,Thiruvananthapuram,Pothencode,Beetroot,Beetroot,FAQ,16/04/2025,4500,4800,4500
+Kerala,Thiruvananthapuram,Pothencode,Cabbage,Cabbage,FAQ,16/04/2025,4500,4800,4500
+Kerala,Thiruvananthapuram,Pothencode,Colacasia,Colacasia,FAQ,16/04/2025,7000,7500,7000
+Kerala,Thiruvananthapuram,Pothencode,Ginger(Green),"Green Ginger",FAQ,16/04/2025,10000,10500,10000
+Kerala,Thiruvananthapuram,Pothencode,Tomato,Tomato,FAQ,16/04/2025,5000,5500,5000
+Kerala,Thiruvananthapuram,Vamanapuram,Onion,Other,Non-FAQ,16/04/2025,3000,3500,3500
+Kerala,Wayanad,Pulpally,"Pepper ungarbled",Other,FAQ,16/04/2025,71000,71200,71100
+"Madhya Pradesh",Alirajpur,Jobat,Cotton,"Without Ginned Cotton",FAQ,16/04/2025,6800,6800,6800
+"Madhya Pradesh",Ashoknagar,Ashoknagar,Wheat,Wheat,FAQ,16/04/2025,2300,2460,2450
+"Madhya Pradesh",Ashoknagar,Chanderi,Wheat,Wheat,Non-FAQ,16/04/2025,2344,2354,2344
+"Madhya Pradesh",Badwani,Sendhwa,Maize,Local,FAQ,16/04/2025,1550,2000,1870
+"Madhya Pradesh",Chhatarpur,Badamalhera,Wheat,"Mill Quality",FAQ,16/04/2025,2287,2500,2430
+"Madhya Pradesh",Chhatarpur,Bakswaha,Wheat,"Mill Quality",FAQ,16/04/2025,2415,2415,2415
+"Madhya Pradesh",Chhatarpur,Chhatarpur,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2425,2425,2425
+"Madhya Pradesh",Chhindwara,Chhindwara,Wheat,"Mill Quality",FAQ,16/04/2025,2360,2448,2446
+"Madhya Pradesh",Dhar,Dhamnod,"Kabuli Chana(Chickpeas-White)","Dollar Gram",FAQ,16/04/2025,9405,9690,9690
+"Madhya Pradesh",Dhar,Kukshi,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5400,5400,5400
+"Madhya Pradesh",Dhar,Kukshi,Wheat,Wheat,Non-FAQ,16/04/2025,2500,2500,2500
+"Madhya Pradesh",Guna,Guna,Wheat,Wheat,FAQ,16/04/2025,2550,3860,3860
+"Madhya Pradesh",Gwalior,Bhitarwar,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2360,2370,2370
+"Madhya Pradesh",Hoshangabad,Banapura,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2480,2480,2480
+"Madhya Pradesh",Hoshangabad,Pipariya,Wheat,Wheat,FAQ,16/04/2025,2495,2521,2521
+"Madhya Pradesh",Indore,Indore,"Green Peas",Pea,FAQ,16/04/2025,4700,4700,4700
+"Madhya Pradesh",Indore,Indore,Soyabean,Soyabeen,FAQ,16/04/2025,1500,4445,4385
+"Madhya Pradesh",Jhabua,Jhabua,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5750,5800,5800
+"Madhya Pradesh",Khandwa,Pandhana,Maize,Local,Non-FAQ,16/04/2025,1950,1950,1950
+"Madhya Pradesh",Khargone,Khargone,Maize,Yellow,FAQ,16/04/2025,1620,1670,1670
+"Madhya Pradesh",Morena,Banmorkalan,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2300,2370,2370
+"Madhya Pradesh",Raisen,Bareli,Wheat,Wheat,FAQ,16/04/2025,2450,2450,2450
+"Madhya Pradesh",Sehore,Sehore,Wheat,Lokwan,FAQ,16/04/2025,2600,2600,2600
+"Madhya Pradesh",Seoni,Palari,Wheat,Local,Non-FAQ,16/04/2025,2480,2480,2480
+"Madhya Pradesh",Seoni,Seoni,Wheat,Wheat,Non-FAQ,16/04/2025,2400,2400,2400
+"Madhya Pradesh",Shajapur,Shajapur,Onion,Medium,Non-FAQ,16/04/2025,350,410,410
+"Madhya Pradesh",Sheopur,Vijaypur,Mustard,Mustard,FAQ,16/04/2025,5925,5925,5925
+"Madhya Pradesh",Shivpuri,Pohari,Wheat,Wheat,Non-FAQ,16/04/2025,2320,2320,2320
+"Madhya Pradesh",Shivpuri,Shivpuri,Wheat,"Mill Quality",FAQ,16/04/2025,2250,2325,2300
+"Madhya Pradesh",Vidisha,Ganjbasoda,Wheat,Wheat,FAQ,16/04/2025,2524,2524,2524
+"Madhya Pradesh",Vidisha,Gulabganj,Wheat,Wheat,FAQ,16/04/2025,2758,2758,2758
+"Madhya Pradesh",Vidisha,Kurwai,Wheat,Wheat,FAQ,16/04/2025,2435,2465,2465
+Maharashtra,Ahmednagar,Rahata,Cabbage,Other,Local,16/04/2025,200,500,350
+Maharashtra,Ahmednagar,Rahata,Carrot,Other,Local,16/04/2025,1500,1500,1500
+Maharashtra,Ahmednagar,Rahata,"Green Chilli",Other,Local,16/04/2025,2000,4000,3000
+Maharashtra,Ahmednagar,Rahata,Lime,Other,Local,16/04/2025,5000,11000,8000
+Maharashtra,Ahmednagar,Rahata,"Mango (Raw-Ripe)",Other,Local,16/04/2025,2500,2500,2500
+Maharashtra,Nagpur,Kalmeshwar,Brinjal,Other,Local,16/04/2025,415,800,605
+Maharashtra,Pune,Khed(Chakan),"Bitter gourd",Other,Local,16/04/2025,3000,4000,3500
+Maharashtra,Pune,Khed(Chakan),"Bottle gourd",Other,Local,16/04/2025,1000,1600,1300
+Maharashtra,Pune,Khed(Chakan),Brinjal,Other,Local,16/04/2025,1500,2500,2000
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,Local,16/04/2025,400,600,500
+Maharashtra,Pune,Khed(Chakan),Guar,Other,Local,16/04/2025,4000,5000,4500
+Maharashtra,Pune,Pune,Beetroot,Other,Local,16/04/2025,700,1500,1100
+Maharashtra,Pune,Pune,"Bhindi(Ladies Finger)",Other,Local,16/04/2025,1000,4000,2500
+Maharashtra,Pune,Pune,Cucumbar(Kheera),Other,Local,16/04/2025,800,2000,1400
+Maharashtra,Pune,Pune,Ginger(Green),Other,Local,16/04/2025,1000,2500,1750
+Maharashtra,Pune,Pune,"Green Chilli",Other,Local,16/04/2025,2000,3000,2500
+Maharashtra,Pune,Pune,Onion,Local,Local,16/04/2025,700,1500,1100
+Maharashtra,Pune,Pune,"Onion Green",Other,Local,16/04/2025,5,10,7
+Maharashtra,Pune,Pune,Papaya,Other,Local,16/04/2025,1000,2000,1500
+Maharashtra,Pune,Pune,Pumpkin,Other,Local,16/04/2025,1000,2000,1500
+Maharashtra,Pune,Pune,Spinach,Other,Local,16/04/2025,5,12,8
+Maharashtra,Pune,Pune,"Water Melon",Other,Local,16/04/2025,500,1200,800
+Maharashtra,Pune,Pune(Pimpri),"Bottle gourd",Other,Local,16/04/2025,1800,1800,1800
+Maharashtra,Pune,Pune(Pimpri),Brinjal,Other,Local,16/04/2025,2000,3000,2500
+Maharashtra,Pune,Pune(Pimpri),"Green Chilli",Other,Local,16/04/2025,3500,3500,3500
+Nagaland,Kohima,Kohima,Cabbage,Cabbage,FAQ,16/04/2025,4000,4200,4100
+Nagaland,Kohima,Kohima,"Green Chilli","Green Chilly",FAQ,16/04/2025,14000,14200,14100
+Odisha,Balasore,Jaleswar,Tomato,Other,FAQ,16/04/2025,1100,1500,1300
+Odisha,Balasore,Jaleswar,"Water Melon","Water Melon",Medium,16/04/2025,1300,1700,1500
+Odisha,Balasore,Nilagiri,Pumpkin,Other,FAQ,16/04/2025,700,800,750
+Odisha,Balasore,Nilagiri,Tomato,Other,Non-FAQ,16/04/2025,1200,1300,1250
+Odisha,Bargarh,Sohela,Pumpkin,Other,FAQ,16/04/2025,1700,1900,1800
+Odisha,Boudh,Boudh,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2500,3500,3000
+Odisha,Boudh,Boudh,Potato,Other,Non-FAQ,16/04/2025,1200,1800,1500
+Odisha,Boudh,Boudh,Pumpkin,Other,FAQ,16/04/2025,1000,1500,1200
+Odisha,Boudh,Khunthabandha,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2000,3000,2500
+Odisha,Boudh,Khunthabandha,Onion,Other,FAQ,16/04/2025,3000,3800,3500
+Odisha,Boudh,Khunthabandha,Tomato,Other,FAQ,16/04/2025,700,1200,800
+Odisha,Dhenkanal,Hindol,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2400,2600,2500
+Odisha,Dhenkanal,Kamakhyanagar,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,3800,4200,4000
+Odisha,Dhenkanal,Kamakhyanagar,"Green Chilli","Green Chilly",FAQ,16/04/2025,8000,8500,8000
+Odisha,Dhenkanal,Kamakhyanagar,"Pointed gourd (Parval)",Other,FAQ,16/04/2025,6500,7500,7000
+Odisha,Dhenkanal,Kamakhyanagar,Pumpkin,Pumpkin,FAQ,16/04/2025,1900,2100,2000
+Odisha,Gajapati,Parlakhemundi,Cauliflower,Other,FAQ,16/04/2025,1800,2000,1900
+Odisha,Ganjam,Bhanjanagar,Brinjal,Other,FAQ,16/04/2025,2200,2400,2300
+Odisha,Ganjam,Bhanjanagar,Tomato,Other,FAQ,16/04/2025,1000,1200,1100
+Odisha,Jagatsinghpur,Rahama,Fish,Other,FAQ,16/04/2025,12000,42000,17000
+Odisha,Kalahandi,Mukhiguda,Cauliflower,Cauliflower,FAQ,16/04/2025,2500,5000,3750
+Odisha,Kalahandi,Mukhiguda,Tomato,Tomato,FAQ,16/04/2025,700,1500,1100
+Odisha,Puri,Dumal,"Betal Leaves",Local,FAQ,16/04/2025,6000,12000,10000
+Odisha,Sonepur,Dungurapalli,Brinjal,Other,FAQ,16/04/2025,3200,3500,3300
+Odisha,Sonepur,Dungurapalli,Potato,Other,Non-FAQ,16/04/2025,2500,3000,3000
+Odisha,Sundergarh,Panposh,Pumpkin,Other,FAQ,16/04/2025,1000,1400,1300
+Odisha,Sundergarh,Panposh,Tomato,Other,Non-FAQ,16/04/2025,1200,1600,1500
+Odisha,Sundergarh,Sargipali,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,4000,4500,4200
+Odisha,Sundergarh,Sargipali,Carrot,Other,FAQ,16/04/2025,4000,4800,4500
+Odisha,Sundergarh,Sargipali,Tomato,Other,Non-FAQ,16/04/2025,1000,1500,1200
+Punjab,Bhatinda,"Bhagta Bhai Ka",Brinjal,Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Bhatinda,"Bhagta Bhai Ka",Onion,Other,FAQ,16/04/2025,1600,1600,1600
+Punjab,Bhatinda,"Bhagta Bhai Ka",Tomato,Other,FAQ,16/04/2025,1700,1700,1700
+Punjab,Fazilka,Fazilka,Apple,Other,Medium,16/04/2025,8000,15000,10000
+Punjab,Fazilka,Fazilka,Brinjal,Other,FAQ,16/04/2025,800,1500,1000
+Punjab,Fazilka,Fazilka,Potato,Other,FAQ,16/04/2025,500,1000,800
+Punjab,Fazilka,Jalalabad,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,4400,4500,4450
+Punjab,Fazilka,Jalalabad,Lemon,Lemon,FAQ,16/04/2025,5000,5000,5000
+Punjab,Fazilka,Jalalabad,"Mousambi(Sweet Lime)",Mousambi,Large,16/04/2025,3400,3600,3500
+Punjab,Ferozpur,Zira,"Green Chilli","Green Chilly",FAQ,16/04/2025,1500,2000,1800
+Punjab,Gurdaspur,Gurdaspur,"Green Chilli",Other,FAQ,16/04/2025,3200,3600,3400
+Punjab,Gurdaspur,Gurdaspur,"Karbuja(Musk Melon)",Other,Medium,16/04/2025,4000,4500,4200
+Punjab,Gurdaspur,Gurdaspur,Potato,Other,FAQ,16/04/2025,700,900,800
+Punjab,Gurdaspur,Gurdaspur,Tomato,Other,FAQ,16/04/2025,800,1000,900
+Punjab,Hoshiarpur,"Garh Shankar",Apple,Other,Medium,16/04/2025,8000,9000,8500
+Punjab,Hoshiarpur,"Garh Shankar",Brinjal,Brinjal,FAQ,16/04/2025,700,1400,1000
+Punjab,Hoshiarpur,"Garh Shankar",Garlic,Average,FAQ,16/04/2025,4000,5000,4400
+Punjab,Hoshiarpur,"Garh Shankar",Potato,Other,Non-FAQ,16/04/2025,500,600,550
+Punjab,Hoshiarpur,"GarhShankar (Kotfatuhi)",Tomato,Other,FAQ,16/04/2025,1400,1700,1500
+Punjab,Hoshiarpur,Mukerian,Brinjal,Round,FAQ,16/04/2025,1300,1700,1500
+Punjab,Hoshiarpur,Mukerian,Raddish,Raddish,FAQ,16/04/2025,600,1000,800
+Punjab,Jalandhar,Mehatpur,Spinach,Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)","Bitter gourd",Other,FAQ,16/04/2025,3000,3000,3000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Capsicum,Other,FAQ,16/04/2025,1500,1500,1500
+Punjab,Ludhiana,Doraha,"Green Chilli",Other,FAQ,16/04/2025,2400,2700,2650
+Punjab,Ludhiana,Ludhiana,Apple,Other,Medium,16/04/2025,2500,8000,5000
+Punjab,Ludhiana,Ludhiana,"Bottle gourd",Other,FAQ,16/04/2025,300,600,500
+Punjab,Ludhiana,Ludhiana,Brinjal,Other,FAQ,16/04/2025,500,800,700
+Punjab,Ludhiana,Ludhiana,Garlic,Other,FAQ,16/04/2025,2800,4500,3500
+Punjab,Ludhiana,Ludhiana,"Green Chilli",Other,FAQ,16/04/2025,1000,1400,1200
+Punjab,Ludhiana,Ludhiana,"Karbuja(Musk Melon)",Other,Medium,16/04/2025,700,1500,1000
+Punjab,Ludhiana,Ludhiana,Onion,Other,FAQ,16/04/2025,500,1600,1100
+Punjab,Ludhiana,Ludhiana,Pumpkin,Other,FAQ,16/04/2025,300,700,500
+Punjab,Ludhiana,Sahnewal,Potato,Potato,FAQ,16/04/2025,800,800,800
+Punjab,Sangrur,Ahmedgarh,Cucumbar(Kheera),Other,FAQ,16/04/2025,800,900,900
+Punjab,Sangrur,Ahmedgarh,Potato,Other,FAQ,16/04/2025,650,700,700
+Punjab,Tarntaran,Patti,Cucumbar(Kheera),Other,FAQ,16/04/2025,1200,1600,1400
+Punjab,Tarntaran,Patti,"Peas Wet",Other,FAQ,16/04/2025,3000,3400,3200
+Punjab,Tarntaran,Patti,Tomato,Other,FAQ,16/04/2025,2000,2400,2200
+Punjab,Tarntaran,Tarantaran,Brinjal,Other,FAQ,16/04/2025,1400,1600,1500
+Rajasthan,Dausa,Lalsot,"Bengal Gram(Gram)(Whole)",Other,FAQ,16/04/2025,5320,5400,5350
+Rajasthan,Hanumangarh,Rawatsar,Onion,"1st Sort",FAQ,16/04/2025,1300,1500,1400
+Rajasthan,Hanumangarh,Rawatsar,Tomato,Deshi,FAQ,16/04/2025,1400,1600,1500
+Rajasthan,"Jaipur Rural",Bassi,Mustard,Other,Non-FAQ,16/04/2025,4100,6025,5062
+Rajasthan,"Jaipur Rural",Bassi,Onion,Other,Non-FAQ,16/04/2025,2200,2600,2400
+Rajasthan,"Jaipur Rural",Bassi,Potato,Other,Non-FAQ,16/04/2025,1600,2000,1800
+Rajasthan,"Jaipur Rural",Bassi,Taramira,Other,FAQ,16/04/2025,5388,5388,5388
+Rajasthan,"Jaipur Rural",Bassi,Wheat,Other,Non-FAQ,16/04/2025,2300,2500,2400
+Rajasthan,Jalore,Jalore,"Bitter gourd",Other,FAQ,16/04/2025,2500,3000,2800
+Rajasthan,Jalore,Jalore,Capsicum,Other,FAQ,16/04/2025,2500,3000,2800
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Mango,Badami,Medium,16/04/2025,3000,6000,4500
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Pomegranate,Other,Medium,16/04/2025,4000,8000,6000
+Telangana,Hyderabad,"Mahboob Manison",Onion,"2nd Sort",Non-FAQ,16/04/2025,300,1200,1000
+Telangana,Hyderabad,"Mahboob Manison","Tamarind Fruit",Chapathi,FAQ,16/04/2025,8500,12000,10000
+Telangana,Khammam,Charla,Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2150,2300,2200
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Cabbage,Cabbage,FAQ,16/04/2025,900,900,900
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Colacasia,Colacasia,FAQ,16/04/2025,3500,3500,3500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Onion,"1st Sort",Non-FAQ,16/04/2025,1800,1800,1800
+Tripura,"North Tripura",Dasda,Brinjal,Round/Long,FAQ,16/04/2025,1500,2000,1750
+Tripura,Sepahijala,Sonamura,"Banana - Green","Banana - Green",FAQ,16/04/2025,5000,7000,6000
+Tripura,Sepahijala,Sonamura,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,3200,4000,3500
+Tripura,Sepahijala,Sonamura,Fish,Rahu(Local),FAQ,16/04/2025,20000,22000,21000
+Tripura,Sepahijala,Sonamura,Rice,Fine,FAQ,16/04/2025,4800,5000,4900
+"Uttar Pradesh",Agra,Fatehabad,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Aligarh,Charra,Brinjal,Brinjal,FAQ,16/04/2025,1400,1600,1500
+"Uttar Pradesh",Aligarh,Charra,Tomato,Deshi,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Aligarh,Charra,Wheat,Dara,FAQ,16/04/2025,2450,2500,2475
+"Uttar Pradesh",Badaun,Babrala,Wheat,Dara,Non-FAQ,16/04/2025,2440,2460,2450
+"Uttar Pradesh",Ballia,Rasda,Onion,Red,FAQ,16/04/2025,1510,1625,1575
+"Uttar Pradesh",Ballia,Vilthararoad,Apple,Apple,Medium,16/04/2025,8700,8800,8750
+"Uttar Pradesh",Ballia,Vilthararoad,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,1650,1800,1700
+"Uttar Pradesh",Ballia,Vilthararoad,Brinjal,Brinjal,FAQ,16/04/2025,1500,1600,1550
+"Uttar Pradesh",Bulandshahar,Gulavati,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,1400,1600,1500
+"Uttar Pradesh",Bulandshahar,Gulavati,Potato,Desi,FAQ,16/04/2025,800,1000,900
+"Uttar Pradesh",Bulandshahar,Sikarpur,Ginger(Green),"Green Ginger",FAQ,16/04/2025,3800,4000,3900
+"Uttar Pradesh",Bulandshahar,Siyana,Gur(Jaggery),Yellow,FAQ,16/04/2025,3100,3200,3160
+"Uttar Pradesh",Etah,Aliganj,Wheat,Dara,FAQ,16/04/2025,2500,2515,2510
+"Uttar Pradesh",Etawah,Jasvantnagar,Tomato,Hybrid,FAQ,16/04/2025,850,950,900
+"Uttar Pradesh",Firozabad,Sirsaganj,Tomato,Hybrid,FAQ,16/04/2025,1000,1200,1100
+"Uttar Pradesh",Kaushambi,Manjhanpur,Tomato,Deshi,FAQ,16/04/2025,520,660,580
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,1300,1350,1320
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Garlic,Garlic,FAQ,16/04/2025,2500,2560,2530
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Potato,Desi,FAQ,16/04/2025,1600,1690,1630
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,600,800,700
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,700,900,800
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Tomato,Hybrid,FAQ,16/04/2025,500,700,600
+"Uttar Pradesh",Rampur,Tanda(Rampur),Brinjal,Other,FAQ,16/04/2025,800,840,820
+"Uttar Pradesh",Rampur,Tanda(Rampur),Pumpkin,Other,FAQ,16/04/2025,800,840,820
+"Uttar Pradesh",Sambhal,Sambhal,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,500,820,600
+"Uttar Pradesh",Sambhal,Sambhal,Cauliflower,Cauliflower,FAQ,16/04/2025,800,1050,1000
+"Uttar Pradesh",Sambhal,Sambhal,Potato,Desi,FAQ,16/04/2025,700,1360,1000
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Pumpkin,Pumpkin,FAQ,16/04/2025,800,900,850
+Uttrakhand,Dehradoon,Vikasnagar,"Bottle gourd",Other,FAQ,16/04/2025,700,1000,1000
+Uttrakhand,Dehradoon,Vikasnagar,Pumpkin,Other,FAQ,16/04/2025,600,700,700
+Uttrakhand,Haridwar,"Haridwar Union",Brinjal,Other,FAQ,16/04/2025,800,1000,900
+Uttrakhand,Haridwar,"Haridwar Union",Garlic,Average,FAQ,16/04/2025,5000,7000,6000
+Uttrakhand,Haridwar,"Haridwar Union",Grapes,Other,Medium,16/04/2025,5000,6000,5500
+Uttrakhand,Haridwar,"Haridwar Union","Green Chilli","Green Chilly",FAQ,16/04/2025,1500,2000,1700
+Uttrakhand,Haridwar,"Haridwar Union",Onion,Onion,FAQ,16/04/2025,1200,1800,1500
+Uttrakhand,Haridwar,"Haridwar Union",Pomegranate,Pomogranate,Small,16/04/2025,1000,2000,1500
+Uttrakhand,Haridwar,"Haridwar Union",Pumpkin,Pumpkin,FAQ,16/04/2025,500,700,600
+Uttrakhand,Haridwar,Roorkee,"Bitter gourd",Other,FAQ,16/04/2025,600,800,700
+Uttrakhand,Haridwar,Roorkee,Potato,Other,FAQ,16/04/2025,800,1200,1000
+"West Bengal",Coochbehar,Coochbehar,Brinjal,Round,FAQ,16/04/2025,1800,2000,1900
+"West Bengal",Coochbehar,Coochbehar,Onion,Other,FAQ,16/04/2025,1800,2000,1900
+"West Bengal",Coochbehar,Dinhata,"Green Chilli","Green Chilly",FAQ,16/04/2025,3000,3500,3200
+"West Bengal",Coochbehar,Mekhliganj,Brinjal,Other,FAQ,16/04/2025,1800,2200,2000
+"West Bengal",Coochbehar,Toofanganj,"Pointed gourd (Parval)",Other,FAQ,16/04/2025,4000,4500,4200
+"West Bengal",Hooghly,Sheoraphuly,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,1800,2000,1900
+"West Bengal",Medinipur(W),Ghatal,"Green Chilli","Green Chilly",FAQ,16/04/2025,3500,3700,3600
+"West Bengal",Medinipur(W),Ghatal,Mustard,"Yellow (Black)",FAQ,16/04/2025,5900,6100,6000
+"West Bengal",Medinipur(W),Ghatal,Rice,Common,FAQ,16/04/2025,3500,3700,3600
+"Andhra Pradesh",Guntur,Pidugurala(Palnadu),"Dry Chillies",Red,FAQ,16/04/2025,9000,12600,12000
+"Andhra Pradesh","West Godavari",Chintalapudi,Lemon,Lemon,FAQ,16/04/2025,6800,7400,7100
+Bihar,Madhubani,Jainagar,Onion,Medium,FAQ,16/04/2025,3800,4000,3900
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cucumbar(Kheera),Other,FAQ,16/04/2025,600,1500,1100
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Potato,Other,FAQ,16/04/2025,300,500,400
+Gujarat,Amreli,Damnagar,Lemon,Lemon,FAQ,16/04/2025,9950,12000,11500
+Gujarat,Bharuch,Jambusar(Kaavi),Cotton,Other,FAQ,16/04/2025,6500,7100,6800
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)","Bottle gourd",Other,FAQ,16/04/2025,500,1000,1000
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)","Green Chilli",Other,FAQ,16/04/2025,2000,2500,2000
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)",Tomato,Other,FAQ,16/04/2025,800,1000,1000
+Gujarat,Junagarh,Mangrol,"Bengal Gram(Gram)(Whole)","Desi (F.A.Q. Split)",FAQ,16/04/2025,5350,5500,5475
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,500,4000,2250
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Potato,Potato,FAQ,16/04/2025,200,320,260
+Gujarat,Sabarkantha,Modasa,Soanf,Soanf,FAQ,16/04/2025,7750,15565,15565
+Gujarat,Sabarkantha,Modasa,Wheat,"Lokwan Gujrat",FAQ,16/04/2025,2425,2975,2975
+Gujarat,Sabarkantha,Modasa(Tintoi),Wheat,Lokwan,FAQ,16/04/2025,2350,2875,2875
+Gujarat,Surat,Surat,"Banana - Green",Other,FAQ,16/04/2025,1000,1700,1350
+Gujarat,Surat,Surat,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,1500,3500,2500
+Gujarat,Surat,Surat,Cowpea(Veg),Other,FAQ,16/04/2025,5000,7500,6750
+Gujarat,Surat,Surat,Cucumbar(Kheera),Other,FAQ,16/04/2025,800,2600,1700
+Gujarat,Surat,Surat,"Mango (Raw-Ripe)",Other,FAQ,16/04/2025,2500,9000,5750
+Gujarat,Surat,Surat,"Papaya (Raw)",Other,FAQ,16/04/2025,1000,1500,1250
+Gujarat,Surat,Surat,"Sponge gourd",Other,FAQ,16/04/2025,1500,3000,2250
+Gujarat,Surat,Surat,"Turmeric (raw)",Other,FAQ,16/04/2025,4000,10500,7250
+Gujarat,Valsad,Pardi,Chikoos(Sapota),Other,Large,16/04/2025,1500,1800,1800
+Haryana,Gurgaon,Gurgaon,Carrot,Other,FAQ,16/04/2025,1000,2000,1500
+Haryana,Gurgaon,Gurgaon,Pomegranate,Other,Large,16/04/2025,5000,10000,7500
+Haryana,Gurgaon,Gurgaon,Potato,Other,FAQ,16/04/2025,1000,1200,1100
+Haryana,Gurgaon,Gurgaon,Tomato,Other,FAQ,16/04/2025,1000,1200,1100
+Haryana,Hissar,Uklana,Cauliflower,Cauliflower,FAQ,16/04/2025,500,600,600
+Haryana,Hissar,Uklana,Tomato,Other,FAQ,16/04/2025,600,900,900
+Haryana,Kurukshetra,Pehowa,Potato,Other,Non-FAQ,16/04/2025,450,500,500
+Haryana,Mahendragarh-Narnaul,Narnaul,Lemon,Lemon,FAQ,16/04/2025,8000,9000,9000
+Haryana,Mahendragarh-Narnaul,Narnaul,Mango,Other,Medium,16/04/2025,4000,7000,6000
+Haryana,Mahendragarh-Narnaul,Narnaul,Pumpkin,Pumpkin,FAQ,16/04/2025,500,800,600
+Haryana,Mahendragarh-Narnaul,Narnaul,Raddish,Raddish,FAQ,16/04/2025,1000,1000,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,"Sponge gourd","Sponge gourd",FAQ,16/04/2025,3000,3000,3000
+Haryana,Mahendragarh-Narnaul,Narnaul,Tomato,Tomato,FAQ,16/04/2025,1000,1200,1200
+Haryana,Mahendragarh-Narnaul,Narnaul,"Water Melon","Water Melon",Medium,16/04/2025,800,1000,1000
+Haryana,Panipat,Panipat,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,700,900,800
+Haryana,Panipat,Panipat,Chikoos(Sapota),Other,Medium,16/04/2025,3000,3400,3200
+Haryana,Panipat,Panipat,Cucumbar(Kheera),Other,FAQ,16/04/2025,800,1200,1000
+Haryana,Panipat,Panipat,Tomato,Other,FAQ,16/04/2025,1000,1400,1200
+Haryana,Panipat,Panipat(Baharpur),Wheat,Other,FAQ,16/04/2025,2425,2425,2425
+Haryana,Rohtak,Meham,"Water Melon",Other,Medium,16/04/2025,1000,1000,1000
+Haryana,Sonipat,Gohana,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3000,5000,4000
+Haryana,Sonipat,Gohana,"Green Chilli",Other,FAQ,16/04/2025,3000,5000,4000
+Haryana,Sonipat,Gohana,Tomato,Tomato,Non-FAQ,16/04/2025,600,1200,800
+Haryana,"Yamuna Nagar",Chhachrauli,"Green Chilli","Green Chilly",FAQ,16/04/2025,4000,4000,4000
+Haryana,"Yamuna Nagar",Chhachrauli,Raddish,Raddish,FAQ,16/04/2025,600,600,600
+Haryana,"Yamuna Nagar",Chhachrauli,Spinach,Spinach,FAQ,16/04/2025,500,1200,500
+"Himachal Pradesh",Bilaspur,Bilaspur,Onion,Other,FAQ,16/04/2025,2300,2500,2400
+"Himachal Pradesh",Bilaspur,Bilaspur,Raddish,Other,FAQ,16/04/2025,700,1200,1000
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Banana,"Banana - Ripe",Medium,16/04/2025,3500,3700,3600
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Cabbage,Cabbage,FAQ,16/04/2025,1000,1100,1100
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Coriander(Leaves),Coriander,FAQ,16/04/2025,4000,5000,4500
+"Himachal Pradesh",Kangra,Kangra(Baijnath),"Green Chilli","Green Chilly",FAQ,16/04/2025,4000,4500,4200
+"Himachal Pradesh",Kangra,Kangra(Baijnath),"Mousambi(Sweet Lime)",Mousambi,Medium,16/04/2025,5800,6000,5800
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Onion,Onion,FAQ,16/04/2025,2200,2400,2300
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Tomato,Tomato,FAQ,16/04/2025,1400,1600,1400
+"Himachal Pradesh",Kangra,Palampur,Banana,"Banana - Ripe",Medium,16/04/2025,4500,5000,4700
+"Himachal Pradesh",Kangra,Palampur,Brinjal,Brinjal,FAQ,16/04/2025,2000,2500,2200
+"Himachal Pradesh",Kangra,Palampur,Capsicum,Capsicum,FAQ,16/04/2025,1500,1600,1550
+"Himachal Pradesh",Kangra,Palampur,Cauliflower,Cauliflower,FAQ,16/04/2025,1800,2000,1900
+"Himachal Pradesh",Kangra,Palampur,Garlic,Average,FAQ,16/04/2025,9000,10000,9500
+"Himachal Pradesh",Kangra,Palampur,Guava,Other,Medium,16/04/2025,7000,7500,7200
+"Himachal Pradesh",Kangra,Palampur,"Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,2500,3000,2700
+"Himachal Pradesh",Kangra,Palampur,Kinnow,Other,Medium,16/04/2025,6800,7200,7000
+"Himachal Pradesh",Kangra,Palampur,Mango,Safeda,Medium,16/04/2025,10000,11000,10500
+"Himachal Pradesh",Kangra,Palampur,Onion,Other,FAQ,16/04/2025,2200,2300,2250
+"Himachal Pradesh",Kangra,Palampur,Spinach,Spinach,FAQ,16/04/2025,2000,2500,2200
+Karnataka,Bangalore,Ramanagara,Brinjal,Brinjal,FAQ,16/04/2025,2000,3500,3000
+Karnataka,Bangalore,Ramanagara,"Bunch Beans","Bunch Beans",FAQ,16/04/2025,3000,3600,3200
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,16/04/2025,1500,2200,2000
+Karnataka,Bangalore,Ramanagara,Ginger(Green),"Green Ginger",FAQ,16/04/2025,2500,3400,3000
+Karnataka,Bangalore,Ramanagara,"Green Chilli","Green Chilly",FAQ,16/04/2025,3200,5500,4800
+Karnataka,Bangalore,Ramanagara,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/04/2025,3400,4000,3600
+Karnataka,Bangalore,Ramanagara,"Sweet Pumpkin","Sweet Pumpkin",FAQ,16/04/2025,400,600,500
+Karnataka,Shimoga,Shimoga,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,16/04/2025,9800,11500,10650
+Karnataka,Shimoga,Shimoga,"Black Gram Dal (Urd Dal)","Black Gram Dal",FAQ,16/04/2025,9600,14500,12050
+Karnataka,Shimoga,Shimoga,Brinjal,Brinjal,FAQ,16/04/2025,800,1000,900
+Karnataka,Shimoga,Shimoga,Cabbage,Cabbage,FAQ,16/04/2025,200,400,300
+Karnataka,Shimoga,Shimoga,Cauliflower,Cauliflower,FAQ,16/04/2025,800,1000,900
+Karnataka,Shimoga,Shimoga,"Green Gram Dal (Moong Dal)","Green Gram Dal",FAQ,16/04/2025,10400,10600,10500
+Karnataka,Shimoga,Shimoga,Mustard,Other,FAQ,16/04/2025,5600,7600,6600
+Karnataka,Shimoga,Shimoga,Onion,Onion,FAQ,16/04/2025,1600,2600,2100
+Karnataka,Shimoga,Shimoga,Tomato,Tomato,FAQ,16/04/2025,400,800,600
+Kerala,Alappuzha,Aroor,Onion,Big,FAQ,16/04/2025,2400,2600,2500
+Kerala,Alappuzha,Aroor,Tomato,Other,FAQ,16/04/2025,2800,3000,2900
+Kerala,Alappuzha,Harippad,Amphophalus,Other,FAQ,16/04/2025,5000,5500,5000
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,16/04/2025,4000,4500,4000
+Kerala,Ernakulam,Piravam,Amphophalus,Other,FAQ,16/04/2025,5000,7000,6000
+Kerala,Ernakulam,Piravam,"Banana - Green",Other,FAQ,16/04/2025,5000,7000,6000
+Kerala,Ernakulam,Piravam,"Bitter gourd",Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,Cabbage,Other,FAQ,16/04/2025,4000,6000,5000
+Kerala,Ernakulam,Piravam,Cucumbar(Kheera),Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,"Green Chilli",Other,FAQ,16/04/2025,6000,8000,7000
+Kerala,Ernakulam,Piravam,"Indian Beans (Seam)",Other,FAQ,16/04/2025,4000,6000,5000
+Kerala,Ernakulam,Piravam,Tapioca,Other,FAQ,16/04/2025,2500,3500,3000
+Kerala,Ernakulam,Thrippunithura,Banana,Poovan,Medium,16/04/2025,6000,8000,6200
+Kerala,Ernakulam,Thrippunithura,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,5000,6000,5200
+Kerala,Ernakulam,Thrippunithura,Brinjal,Brinjal,FAQ,16/04/2025,5500,6000,5700
+Kerala,Ernakulam,Thrippunithura,Cauliflower,Cauliflower,FAQ,16/04/2025,4400,6000,4600
+Kerala,Ernakulam,Thrippunithura,Ginger(Green),"Green Ginger",FAQ,16/04/2025,6000,10000,7000
+Kerala,Ernakulam,Thrippunithura,"Green Chilli","Green Chilly",FAQ,16/04/2025,4500,8000,5000
+Kerala,Ernakulam,Thrippunithura,"Leafy Vegetable",Other,FAQ,16/04/2025,7000,8000,7200
+Kerala,Ernakulam,Thrippunithura,Tapioca,Tapioca,FAQ,16/04/2025,3000,4000,3200
+Kerala,Kannur,Kannur,"Banana - Green",Other,FAQ,16/04/2025,6000,6200,6100
+Kerala,Kannur,Kannur,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,7000,7400,7200
+Kerala,Kannur,Kannur,"Black pepper",Other,FAQ,16/04/2025,65000,70000,66000
+Kerala,Kannur,Kannur,"Coconut Oil",Other,FAQ,16/04/2025,30000,31000,30500
+Kerala,Kannur,Kannur,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2200,2100
+Kerala,Kannur,Kannur,Onion,Other,FAQ,16/04/2025,2200,2400,2300
+Kerala,Kannur,Payyannur,"Black pepper",Other,FAQ,16/04/2025,68000,70000,69000
+Kerala,Kannur,Payyannur,Cucumbar(Kheera),Other,FAQ,16/04/2025,2300,2500,2400
+Kerala,Kannur,Payyannur,Pumpkin,Other,FAQ,16/04/2025,1700,1900,1800
+Kerala,Kannur,Payyannur,Tapioca,Other,FAQ,16/04/2025,4000,4200,4100
+Kerala,Kasargod,Manjeswaram,Ginger(Green),"Green Ginger",FAQ,16/04/2025,6000,7000,6500
+Kerala,Kasargod,Manjeswaram,"Indian Beans (Seam)",Other,FAQ,16/04/2025,5000,6000,5500
+Kerala,Kasargod,Manjeswaram,"Long Melon(Kakri)",Other,FAQ,16/04/2025,14000,16000,15000
+Kerala,Kasargod,Manjeswaram,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/04/2025,7000,8000,7500
+Kerala,Kollam,Anchal,Amaranthus,Other,FAQ,16/04/2025,2600,2800,2700
+Kerala,Kollam,Anchal,Beetroot,Other,FAQ,16/04/2025,5500,5700,5600
+Kerala,Kollam,Anchal,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,4600,4800,4700
+Kerala,Kollam,Anchal,Pumpkin,Pumpkin,FAQ,16/04/2025,3500,3700,3600
+Kerala,Kottayam,Athirampuzha,Beetroot,Beetroot,FAQ,16/04/2025,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3500,3700,3600
+Kerala,Kottayam,Athirampuzha,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,6800,7000,6900
+Kerala,Kottayam,Athirampuzha,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,1800,2000,1900
+Kerala,Kottayam,Athirampuzha,Carrot,Carrot,FAQ,16/04/2025,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,Colacasia,Other,FAQ,16/04/2025,5800,6000,5900
+Kerala,Kottayam,Athirampuzha,Snakeguard,Snakeguard,FAQ,16/04/2025,4200,4400,4300
+Kerala,Kottayam,Athirampuzha,Tomato,Tomato,FAQ,16/04/2025,2500,2700,2600
+Kerala,Kottayam,Ettumanoor,"Bitter gourd",Other,FAQ,16/04/2025,5600,6000,5800
+Kerala,Kottayam,Ettumanoor,Cabbage,Other,FAQ,16/04/2025,2300,2500,2400
+Kerala,Kottayam,Ettumanoor,"Elephant Yam (Suran)",Other,FAQ,16/04/2025,5400,5700,5500
+Kerala,Kottayam,Ettumanoor,Tomato,Tomato,FAQ,16/04/2025,2800,3200,3000
+Kerala,Kottayam,Kuruppanthura,Beetroot,Beetroot,FAQ,16/04/2025,3600,4500,4000
+Kerala,Kottayam,Kuruppanthura,Cabbage,Cabbage,FAQ,16/04/2025,3000,5000,4000
+Kerala,Kottayam,Kuruppanthura,Carrot,Carrot,FAQ,16/04/2025,4000,5000,4300
+Kerala,Kottayam,Kuruppanthura,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Kuruppanthura,Ginger(Green),"Green Ginger",FAQ,16/04/2025,6500,7500,7090
+Kerala,Kottayam,Kuruppanthura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,3000,4000,3600
+Kerala,Kottayam,Kuruppanthura,Snakeguard,Snakeguard,FAQ,16/04/2025,3699,4500,4000
+Kerala,Kottayam,Pampady,Banana,Palayamthodan,Medium,16/04/2025,1500,3000,2500
+Kerala,Kottayam,Pampady,Coconut,Coconut,FAQ,16/04/2025,6500,7500,7000
+Kerala,Kottayam,Pampady,Colacasia,Other,FAQ,16/04/2025,4500,6000,5500
+Kerala,Kottayam,Pampady,Drumstick,Other,FAQ,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Pampady,"Green Chilli","Green Chilly",FAQ,16/04/2025,3500,5000,4500
+Kerala,Kottayam,Pampady,"Mango (Raw-Ripe)",Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kottayam,Pampady,Onion,Big,FAQ,16/04/2025,2000,3000,2500
+Kerala,Kottayam,Pampady,Snakeguard,Other,FAQ,16/04/2025,4500,5500,5000
+Kerala,Kozhikode(Calicut),Kallachi,Ashgourd,Ashgourd,FAQ,16/04/2025,1500,1900,1700
+Kerala,Kozhikode(Calicut),Kallachi,Banana,"Nendra Bale",Medium,16/04/2025,6000,6400,6200
+Kerala,Kozhikode(Calicut),Kallachi,Carrot,Carrot,FAQ,16/04/2025,4200,4600,4400
+Kerala,Kozhikode(Calicut),Kallachi,Potato,Other,FAQ,16/04/2025,2500,2900,2700
+Kerala,Kozhikode(Calicut),Mukkom,Amphophalus,Amphophalus,FAQ,16/04/2025,6400,7000,6800
+Kerala,Kozhikode(Calicut),Mukkom,Apple,Other,Large,16/04/2025,24000,25000,24500
+Kerala,Kozhikode(Calicut),Mukkom,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,4800,5200,5000
+Kerala,Kozhikode(Calicut),Mukkom,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1500,1800,1600
+Kerala,Kozhikode(Calicut),Palayam,Amphophalus,Other,FAQ,16/04/2025,6000,6000,6000
+Kerala,Kozhikode(Calicut),Palayam,Cowpea(Veg),Other,FAQ,16/04/2025,4200,4200,4200
+Kerala,Kozhikode(Calicut),Palayam,Tomato,Other,FAQ,16/04/2025,1285,1285,1285
+Kerala,Kozhikode(Calicut),Quilandy,Ashgourd,Other,FAQ,16/04/2025,1100,1200,1100
+Kerala,Kozhikode(Calicut),Quilandy,"Banana - Green",Other,FAQ,16/04/2025,6200,6300,6200
+Kerala,Kozhikode(Calicut),Quilandy,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3800,4000,4000
+Kerala,Kozhikode(Calicut),Quilandy,"French Beans (Frasbean)",Other,FAQ,16/04/2025,6800,7200,7000
+Kerala,Kozhikode(Calicut),Quilandy,Potato,Other,FAQ,16/04/2025,2700,2800,2800
+Kerala,Kozhikode(Calicut),Quilandy,Pumpkin,Other,FAQ,16/04/2025,1100,1200,1100
+Kerala,Kozhikode(Calicut),Quilandy,Snakeguard,Other,FAQ,16/04/2025,3700,4000,3900
+Kerala,Kozhikode(Calicut),Quilandy,Tomato,Other,FAQ,16/04/2025,1500,1600,1500
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),"French Beans (Frasbean)","French Beans (Frasbean)",FAQ,16/04/2025,5700,6000,6000
+Kerala,Malappuram,Kottakkal,Apple,Other,Large,16/04/2025,15800,16000,15900
+Kerala,Malappuram,Kottakkal,"Banana - Green","Banana - Green",FAQ,16/04/2025,3000,3200,3100
+Kerala,Malappuram,Kottakkal,Cauliflower,Other,FAQ,16/04/2025,3000,3200,3100
+Kerala,Malappuram,Kottakkal,Chikoos(Sapota),Other,Large,16/04/2025,2400,2600,2500
+Kerala,Malappuram,Kottakkal,"Cowpea (Lobia/Karamani)",Other,FAQ,16/04/2025,4200,4400,4300
+Kerala,Malappuram,Kottakkal,Grapes,Black,Large,16/04/2025,5800,6000,5900
+Kerala,Malappuram,Kottakkal,Lemon,Other,FAQ,16/04/2025,8800,9000,8900
+Kerala,Malappuram,Kottakkal,"Water Melon",Other,Large,16/04/2025,1200,1400,1300
+Kerala,Malappuram,"Othayi  VFPCK",Banana,"Nendra Bale",Medium,16/04/2025,0,0,3400
+Kerala,Pathanamthitta,"Erath  VFPCK","Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,16/04/2025,8000,8500,8200
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Banana,"Nendra Bale",Large,16/04/2025,2000,8900,6500
+Kerala,Thirssur,Thrissur,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,5000,5500,5200
+Kerala,Thirssur,Thrissur,Cauliflower,Cauliflower,FAQ,16/04/2025,2500,3000,2800
+Kerala,Thirssur,Thrissur,Drumstick,Drumstick,FAQ,16/04/2025,3500,4000,4000
+Kerala,Thirssur,Thrissur,"Elephant Yam (Suran)",Other,FAQ,16/04/2025,4500,5000,5000
+Kerala,Thirssur,Thrissur,Pumpkin,Pumpkin,FAQ,16/04/2025,900,1100,1000
+Kerala,Thiruvananthapuram,Parassala,Beans,"Beans (Whole)",FAQ,16/04/2025,5800,6000,5800
+Kerala,Thiruvananthapuram,Parassala,Beetroot,Beetroot,FAQ,16/04/2025,2800,3000,2800
+Kerala,Thiruvananthapuram,Parassala,Drumstick,Drumstick,FAQ,16/04/2025,2800,3000,2800
+Kerala,Thiruvananthapuram,Pothencode,Amphophalus,Amphophalus,FAQ,16/04/2025,9000,9500,9000
+Kerala,Thiruvananthapuram,Pothencode,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,9000,9500,9000
+Kerala,Thiruvananthapuram,Pothencode,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,8000,8500,8000
+Kerala,Thiruvananthapuram,Pothencode,Snakeguard,Snakeguard,FAQ,16/04/2025,4500,4800,4500
+Kerala,Thiruvananthapuram,Pothencode,Tapioca,Tapioca,FAQ,16/04/2025,3500,3800,3500
+Kerala,Thiruvananthapuram,Vamanapuram,"Banana - Green",Other,FAQ,16/04/2025,5500,6000,5500
+Kerala,Thiruvananthapuram,Vamanapuram,Beetroot,Other,FAQ,16/04/2025,1600,2000,2000
+Kerala,Thiruvananthapuram,Vamanapuram,Tomato,Other,Non-FAQ,16/04/2025,3000,3500,3500
+Kerala,Wayanad,Pulpally,"Green Chilli",Other,FAQ,16/04/2025,3200,3400,3300
+"Madhya Pradesh",Alirajpur,Alirajpur,Cotton,"Without Ginned Cotton",FAQ,16/04/2025,7200,7200,7200
+"Madhya Pradesh",Badwani,Sendhwa,Wheat,Wheat,FAQ,16/04/2025,2550,2600,2550
+"Madhya Pradesh",Betul,Betul,Maize,Yellow,Non-FAQ,16/04/2025,2050,2050,2050
+"Madhya Pradesh",Bhind,Bhind,Wheat,Wheat,Non-FAQ,16/04/2025,2345,2362,2362
+"Madhya Pradesh",Chhindwara,Amarwda,Wheat,Wheat,FAQ,16/04/2025,2500,2500,2500
+"Madhya Pradesh",Damoh,Damoh,Soyabean,Yellow,FAQ,16/04/2025,4200,4250,4230
+"Madhya Pradesh",Datia,Datia,Wheat,"Mill Quality",FAQ,16/04/2025,2390,2410,2400
+"Madhya Pradesh",Dewas,Sonkatch,Wheat,Wheat,FAQ,16/04/2025,2340,2508,2508
+"Madhya Pradesh",Dhar,Badnawar,Onion,Onion,Non-FAQ,16/04/2025,600,1000,1000
+"Madhya Pradesh",Dhar,Dhamnod,Maize,Local,FAQ,16/04/2025,1700,1770,1770
+"Madhya Pradesh",Dhar,Manawar,"Bengal Gram(Gram)(Whole)",Gram,Non-FAQ,16/04/2025,5400,5500,5400
+"Madhya Pradesh",Dhar,Manawar,"Tamarind Fruit",Tamarind,FAQ,16/04/2025,3000,3000,3000
+"Madhya Pradesh",Guna,Guna,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5680,5680,5680
+"Madhya Pradesh",Guna,Kumbhraj,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5465,5575,5575
+"Madhya Pradesh",Gwalior,Dabra,Wheat,Wheat,FAQ,16/04/2025,2530,2530,2530
+"Madhya Pradesh",Gwalior,Lashkar,Wheat,"Mill Quality",FAQ,16/04/2025,2300,2325,2300
+"Madhya Pradesh",Indore,Gautampura,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,4500,4500,4500
+"Madhya Pradesh",Indore,Indore,"Kabuli Chana(Chickpeas-White)","Dollar Gram",FAQ,16/04/2025,8300,9900,9900
+"Madhya Pradesh",Jabalpur,Jabalpur,Wheat,Wheat,Non-FAQ,16/04/2025,2421,2434,2434
+"Madhya Pradesh",Khandwa,Pandhana,Wheat,Wheat,FAQ,16/04/2025,2505,2525,2525
+"Madhya Pradesh",Khargone,Khargone,Maize,Local,Non-FAQ,16/04/2025,1700,2075,2075
+"Madhya Pradesh",Khargone,Sanawad,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5400,5400,5400
+"Madhya Pradesh",Mandla,Nainpur,Wheat,"Mill Quality",FAQ,16/04/2025,2410,2425,2425
+"Madhya Pradesh",Mandsaur,Daloda,Garlic,Garlic,FAQ,16/04/2025,2101,2101,2101
+"Madhya Pradesh",Neemuch,Neemuch,Garlic,Garlic,FAQ,16/04/2025,4000,4000,4000
+"Madhya Pradesh",Panna,Pawai,"Green Peas",Pea,FAQ,16/04/2025,3200,3200,3200
+"Madhya Pradesh",Rajgarh,Pachaur,Wheat,Wheat,Non-FAQ,16/04/2025,2250,2420,2420
+"Madhya Pradesh",Sagar,Bina,Wheat,Wheat,FAQ,16/04/2025,2452,2540,2540
+"Madhya Pradesh",Sagar,Deori,Wheat,"Mill Quality",FAQ,16/04/2025,2602,2605,2605
+"Madhya Pradesh",Sehore,Nasrullaganj,Wheat,Wheat,FAQ,16/04/2025,2518,2518,2518
+"Madhya Pradesh",Shajapur,Agar,"Lentil (Masur)(Whole)","Masur Dal",FAQ,16/04/2025,6131,6231,6231
+"Madhya Pradesh",Tikamgarh,Niwadi,Wheat,Wheat,Non-FAQ,16/04/2025,2352,2352,2352
+"Madhya Pradesh",Umariya,Umariya,Wheat,Wheat,FAQ,16/04/2025,2365,2375,2375
+Maharashtra,Ahmednagar,Rahata,Beans,Other,Local,16/04/2025,5000,5000,5000
+Maharashtra,Ahmednagar,Rahata,"Bottle gourd",Other,Local,16/04/2025,500,1000,800
+Maharashtra,Ahmednagar,Rahata,Brinjal,Other,Local,16/04/2025,500,1500,1000
+Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,Local,16/04/2025,500,1100,800
+Maharashtra,Ahmednagar,Rahata,Drumstick,Other,Local,16/04/2025,1000,1000,1000
+Maharashtra,Ahmednagar,Rahata,"Karbuja(Musk Melon)",Other,Local,16/04/2025,500,600,550
+Maharashtra,Ahmednagar,Shrirampur,Carrot,Other,Local,16/04/2025,1000,1500,1250
+Maharashtra,Nagpur,Kalmeshwar,"Green Chilli",Other,Local,16/04/2025,3050,3500,3330
+Maharashtra,Nagpur,Kalmeshwar,Methi(Leaves),Other,Local,16/04/2025,2035,2500,2355
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,Local,16/04/2025,1000,1400,1200
+Maharashtra,Pune,Khed(Chakan),Cucumbar(Kheera),Other,Local,16/04/2025,1500,2500,2000
+Maharashtra,Pune,Khed(Chakan),Tomato,Other,Local,16/04/2025,800,1200,1000
+Maharashtra,Pune,Pune,Beans,Other,Local,16/04/2025,3000,5000,4000
+Maharashtra,Pune,Pune,Carrot,Other,Local,16/04/2025,700,2000,1350
+Maharashtra,Pune,Pune,Cauliflower,Other,Local,16/04/2025,600,1500,1050
+Maharashtra,Pune,Pune,"Elephant Yam (Suran)",Other,Local,16/04/2025,1500,4000,2750
+Maharashtra,Pune,Pune,Guava,Other,Local,16/04/2025,1500,4500,3000
+Maharashtra,Pune,Pune,Pear(Marasebu),Other,Local,16/04/2025,5500,8500,7000
+Maharashtra,Pune,Pune,"Peas Wet",Other,Local,16/04/2025,3000,7000,5000
+Maharashtra,Pune,Pune,Rajgir,Other,Local,16/04/2025,5,7,6
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,Local,16/04/2025,500,900,700
+Maharashtra,Pune,Pune(Pimpri),Onion,Local,Local,16/04/2025,1000,1500,1250
+Maharashtra,Pune,Pune(Pimpri),Tomato,Local,Local,16/04/2025,800,1200,1000
+Maharashtra,Satara,Patan,Brinjal,Other,Local,16/04/2025,1500,2000,1750
+Maharashtra,Satara,Patan,Coriander(Leaves),Other,Local,16/04/2025,12,14,13
+Maharashtra,Satara,Patan,Tomato,Other,Local,16/04/2025,1250,1450,1350
+Maharashtra,Thane,Murbad,"Bhindi(Ladies Finger)",Other,Local,16/04/2025,1500,2500,2000
+Maharashtra,Thane,Palghar,Rice,"1009 Kar",Local,16/04/2025,4825,4825,4825
+Maharashtra,Thane,Ulhasnagar,Jowar(Sorghum),Other,Local,16/04/2025,3500,4000,3750
+Nagaland,Tsemenyu,Tsemenyu,"Bottle gourd","Bottle gourd-Organic",FAQ,16/04/2025,2000,2500,2200
+Nagaland,Tsemenyu,Tsemenyu,Cabbage,Cabbage,FAQ,16/04/2025,2000,2500,2200
+Nagaland,Tsemenyu,Tsemenyu,Pumpkin,pumpkin-Organic,FAQ,16/04/2025,2300,2700,2500
+Odisha,Balasore,Jaleswar,"Banana - Green",Other,FAQ,16/04/2025,1800,2200,2000
+Odisha,Balasore,Jaleswar,Garlic,Other,FAQ,16/04/2025,11800,12200,12000
+Odisha,Balasore,Jaleswar,Ginger(Dry),Other,FAQ,16/04/2025,4300,4700,4500
+Odisha,Balasore,Jaleswar,"Jack Fruit",Other,Medium,16/04/2025,800,1200,1000
+Odisha,Balasore,Nilagiri,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,1300,1400,1350
+Odisha,Bhadrak,Chandabali,Onion,Other,FAQ,16/04/2025,2370,2700,2500
+Odisha,Boudh,Boudh,"Banana - Green","Banana - Green",FAQ,16/04/2025,3500,4500,4000
+Odisha,Boudh,Boudh,"Bitter gourd",Other,FAQ,16/04/2025,2500,3500,3000
+Odisha,Boudh,Boudh,Brinjal,Other,FAQ,16/04/2025,1500,2500,2000
+Odisha,Boudh,Boudh,Carrot,Carrot,FAQ,16/04/2025,3500,4500,4000
+Odisha,Boudh,Boudh,Potato,Other,FAQ,16/04/2025,1500,2500,2000
+Odisha,Boudh,Boudh,Tomato,Other,Non-FAQ,16/04/2025,500,1000,800
+Odisha,Boudh,Boudh,"Water Melon",Other,Large,16/04/2025,1000,1500,1200
+Odisha,Boudh,Khunthabandha,"Bitter gourd",Other,FAQ,16/04/2025,2500,3200,2800
+Odisha,Boudh,Khunthabandha,Potato,Other,FAQ,16/04/2025,1000,1800,1500
+Odisha,Dhenkanal,Hindol,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2000,2500,2200
+Odisha,Dhenkanal,Hindol,Onion,Other,Non-FAQ,16/04/2025,2200,2500,2400
+Odisha,Dhenkanal,Kamakhyanagar,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2900,3200,3000
+Odisha,Dhenkanal,Kamakhyanagar,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,3500,4200,4000
+Odisha,Dhenkanal,Kamakhyanagar,Cauliflower,Cauliflower,FAQ,16/04/2025,4000,4200,4000
+Odisha,Gajapati,Parlakhemundi,Tomato,Other,FAQ,16/04/2025,800,1000,900
+Odisha,Ganjam,Bhanjanagar,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2400,2600,2500
+Odisha,Ganjam,Bhanjanagar,"Little gourd (Kundru)","Little gourd (Kundru)",FAQ,16/04/2025,1800,2000,1900
+Odisha,Jagatsinghpur,Rahama,Pumpkin,Other,FAQ,16/04/2025,1800,3000,2500
+Odisha,Puri,Nimapara,Brinjal,Other,FAQ,16/04/2025,3000,5000,4000
+Odisha,Sundergarh,Panposh,Cabbage,Other,FAQ,16/04/2025,2200,2600,2500
+Odisha,Sundergarh,Sargipali,Cucumbar(Kheera),Other,FAQ,16/04/2025,1000,1500,1200
+Punjab,Fazilka,Fazilka,Garlic,Other,FAQ,16/04/2025,15000,20000,18000
+Punjab,Fazilka,Fazilka,Pumpkin,Other,FAQ,16/04/2025,1000,2000,1500
+Punjab,Fazilka,Jalalabad,Ber(Zizyphus/Borehannu),Ber(Zizyphus),Large,16/04/2025,2000,2000,2000
+Punjab,Fazilka,Jalalabad,Cauliflower,Other,FAQ,16/04/2025,350,400,350
+Punjab,Fazilka,Jalalabad,Garlic,Garlic,FAQ,16/04/2025,7000,7000,7000
+Punjab,Fazilka,Jalalabad,"Green Chilli",Other,FAQ,16/04/2025,1400,1500,1450
+Punjab,Fazilka,Jalalabad,Methi(Leaves),Other,FAQ,16/04/2025,600,600,600
+Punjab,Fazilka,Jalalabad,"Peas Wet",Other,FAQ,16/04/2025,4500,4500,4500
+Punjab,Fazilka,Jalalabad,Pomegranate,Other,Large,16/04/2025,10000,10000,10000
+Punjab,Fazilka,Jalalabad,Pumpkin,Other,FAQ,16/04/2025,1300,1400,1350
+Punjab,Fazilka,Jalalabad,"Sweet Pumpkin",Other,FAQ,16/04/2025,950,1050,1000
+Punjab,Fazilka,Jalalabad,Tomato,Other,FAQ,16/04/2025,1500,1700,1600
+Punjab,Ferozpur,Zira,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2000,2500,2300
+Punjab,Gurdaspur,Gurdaspur,"Bitter gourd",Other,FAQ,16/04/2025,3500,4000,3800
+Punjab,Gurdaspur,Gurdaspur,Brinjal,Other,FAQ,16/04/2025,1200,1400,1300
+Punjab,Gurdaspur,Kalanaur,Raddish,Other,FAQ,16/04/2025,100,100,100
+Punjab,Hoshiarpur,"Garh Shankar",Carrot,Carrot,FAQ,16/04/2025,1500,1800,1700
+Punjab,Hoshiarpur,"Garh Shankar",Ginger(Green),"Green Ginger",FAQ,16/04/2025,3500,4000,3800
+Punjab,Hoshiarpur,"Garh Shankar",Grapes,Other,Medium,16/04/2025,4000,5000,4500
+Punjab,Hoshiarpur,"Garh Shankar",Spinach,Other,FAQ,16/04/2025,800,1200,1000
+Punjab,Hoshiarpur,Mukerian,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,6000,7000,6500
+Punjab,Hoshiarpur,Mukerian,"Bitter gourd",Other,FAQ,16/04/2025,5000,6000,5500
+Punjab,Hoshiarpur,Mukerian,Cauliflower,Cauliflower,FAQ,16/04/2025,1200,1500,1300
+Punjab,Hoshiarpur,Mukerian,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,2000,1500
+Punjab,Hoshiarpur,Mukerian,Onion,Onion,Non-FAQ,16/04/2025,1500,1800,1600
+Punjab,Jalandhar,Mehatpur,Raddish,Other,FAQ,16/04/2025,1500,2000,2000
+Punjab,Ludhiana,Doraha,Tomato,Other,Non-FAQ,16/04/2025,1400,1700,1650
+Punjab,Ludhiana,Ludhiana,Ginger(Dry),Other,FAQ,16/04/2025,2200,3000,2600
+Punjab,Ludhiana,Ludhiana,Mango,Other,Medium,16/04/2025,3000,7000,5000
+Punjab,Ludhiana,Ludhiana,"Peas Wet",Other,FAQ,16/04/2025,2000,2500,2200
+Punjab,Sangrur,Ahmedgarh,Raddish,Other,FAQ,16/04/2025,1000,1200,1000
+Punjab,Tarntaran,Patti,"Bitter gourd",Other,FAQ,16/04/2025,2000,2200,2100
+Punjab,Tarntaran,Patti,"Green Chilli",Other,FAQ,16/04/2025,1200,1600,1400
+Punjab,Tarntaran,Patti,Onion,Other,FAQ,16/04/2025,1200,1600,1400
+Punjab,Tarntaran,Tarantaran,Cauliflower,Other,FAQ,16/04/2025,800,1000,900
+Rajasthan,Barmer,Barmer,"Moath Dal",Other,FAQ,16/04/2025,4000,4600,4300
+Rajasthan,Beawar,Beawar,"Kulthi(Horse Gram)",Other,FAQ,16/04/2025,5300,5325,5312
+Rajasthan,Beawar,Beawar,Mustard,Other,FAQ,16/04/2025,5400,5800,5600
+Rajasthan,Dausa,Lalsot,"Barley (Jau)",Other,FAQ,16/04/2025,2050,2200,2100
+Rajasthan,Ganganagar,Suratgarh,Wheat,Other,FAQ,16/04/2025,2460,2545,2523
+Rajasthan,Hanumangarh,Rawatsar,Wheat,Other,FAQ,16/04/2025,2475,2520,2500
+Rajasthan,"Jaipur Rural",Bassi,"Bajra(Pearl Millet/Cumbu)",Other,Non-FAQ,16/04/2025,2200,2411,2305
+Rajasthan,Jalore,Jalore,Cauliflower,Other,FAQ,16/04/2025,1500,1800,1600
+Rajasthan,Jalore,Jalore,Coriander(Leaves),Other,FAQ,16/04/2025,2500,3000,2800
+Rajasthan,Jalore,Jalore,Lemon,Other,FAQ,16/04/2025,8000,8500,8300
+Rajasthan,Jalore,Jalore,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,3000,3500,3300
+Rajasthan,Jalore,Jalore,Tomato,Other,FAQ,16/04/2025,400,600,500
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Banana,Other,Medium,16/04/2025,1000,2000,1500
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Coconut,Coconut,FAQ,16/04/2025,150,350,250
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Grapes,Other,Medium,16/04/2025,2000,5000,3500
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Onion,Other,FAQ,16/04/2025,600,1200,900
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Papaya,Other,Medium,16/04/2025,1000,2500,1700
+Rajasthan,Jodhpur,"Jodhpur (Grain)",Soanf,Other,FAQ,16/04/2025,11030,13600,12320
+Rajasthan,"Jodhpur Rural","Ositan Mathania","Bengal Gram(Gram)(Whole)","Desi (Whole)",FAQ,16/04/2025,5100,5300,5200
+Telangana,Nalgonda,Devarakonda,Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2300,2300,2300
+Telangana,Nalgonda,Devarkonda(Mallepalli),Paddy(Dhan)(Common),MTU-1010,Non-FAQ,16/04/2025,2300,2300,2300
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Banana - Green","Banana - Green",FAQ,16/04/2025,900,900,900
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Drumstick,Drumstick,FAQ,16/04/2025,400,400,400
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Field Pea","Field Pea",FAQ,16/04/2025,5500,5500,5500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Onion,"1st Sort",FAQ,16/04/2025,1800,1800,1800
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Ridgeguard(Tori),Other,FAQ,16/04/2025,3800,3800,3800
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Tomato,Deshi,FAQ,16/04/2025,1500,1500,1500
+Tripura,"North Tripura",Dasda,Cabbage,Cabbage,FAQ,16/04/2025,700,900,800
+Tripura,Sepahijala,Sonamura,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/04/2025,2500,3000,2800
+Tripura,Sepahijala,Sonamura,Tomato,Deshi,FAQ,16/04/2025,1300,1500,1400
+"Uttar Pradesh",Agra,Fatehabad,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1200,1350,1250
+"Uttar Pradesh",Agra,Fatehabad,Pumpkin,Pumpkin,FAQ,16/04/2025,400,550,450
+"Uttar Pradesh",Agra,Fatehabad,Raddish,Raddish,FAQ,16/04/2025,500,600,550
+"Uttar Pradesh",Aligarh,Charra,Mustard,Sarson(Black),FAQ,16/04/2025,5400,5600,5500
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Potato,Desi,FAQ,16/04/2025,1180,1220,1200
+"Uttar Pradesh",Badaun,Shahaswan,Potato,Potato,Non-FAQ,16/04/2025,980,1050,1000
+"Uttar Pradesh",Bijnor,Haldaur,Gur(Jaggery),Pathari,FAQ,16/04/2025,3400,3600,3500
+"Uttar Pradesh",Bijnor,Kiratpur,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,850,950,900
+"Uttar Pradesh",Bijnor,Kiratpur,Brinjal,Brinjal,FAQ,16/04/2025,1000,1100,1050
+"Uttar Pradesh",Bulandshahar,Gulavati,Brinjal,Other,FAQ,16/04/2025,600,800,700
+"Uttar Pradesh",Bulandshahar,Gulavati,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1200,1400,1300
+"Uttar Pradesh",Bulandshahar,Gulavati,Ginger(Green),"Green Ginger",FAQ,16/04/2025,7000,7200,7100
+"Uttar Pradesh",Bulandshahar,Gulavati,"Green Chilli","Green Chilly",FAQ,16/04/2025,2400,2600,2500
+"Uttar Pradesh",Bulandshahar,Gulavati,Lemon,Other,FAQ,16/04/2025,10000,10200,10100
+"Uttar Pradesh",Bulandshahar,Sikarpur,Brinjal,Round/Long,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Bulandshahar,Sikarpur,Carrot,Carrot,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Bulandshahar,Sikarpur,Garlic,Garlic,FAQ,16/04/2025,5000,5200,5100
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Water Melon","Water Melon",Medium,16/04/2025,900,1000,950
+"Uttar Pradesh",Bulandshahar,Siyana,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Bulandshahar,Siyana,Garlic,Average,FAQ,16/04/2025,16000,16800,16400
+"Uttar Pradesh",Bulandshahar,Siyana,"Mousambi(Sweet Lime)",Mousambi,Medium,16/04/2025,2100,2300,2200
+"Uttar Pradesh",Bulandshahar,Siyana,Tomato,Local,FAQ,16/04/2025,1000,1100,1040
+"Uttar Pradesh",Etawah,Jasvantnagar,Onion,Red,FAQ,16/04/2025,1770,1870,1820
+"Uttar Pradesh",Firozabad,Sirsaganj,Potato,Potato,FAQ,16/04/2025,800,820,810
+"Uttar Pradesh",Hathras,Haathras,Potato,Desi,FAQ,16/04/2025,930,1130,1030
+"Uttar Pradesh",Hathras,Haathras,Tomato,Deshi,FAQ,16/04/2025,670,870,770
+"Uttar Pradesh",Hathras,Shadabad,Potato,Desi,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Hathras,Sikandraraau,"Bajra(Pearl Millet/Cumbu)",Deshi,FAQ,16/04/2025,2110,2270,2215
+"Uttar Pradesh",Maharajganj,Anandnagar,"Banana - Green","Banana - Green",FAQ,16/04/2025,1500,1700,1600
+"Uttar Pradesh",Maharajganj,Anandnagar,Orange,Orange,Medium,16/04/2025,3500,4000,3800
+"Uttar Pradesh",Maharajganj,Anandnagar,Potato,Red,FAQ,16/04/2025,1200,1400,1300
+"Uttar Pradesh",Maharajganj,Anandnagar,Tomato,Deshi,FAQ,16/04/2025,600,800,700
+"Uttar Pradesh",Rampur,Tanda(Rampur),"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,900,940,920
+"Uttar Pradesh",Rampur,Tanda(Rampur),Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,600,640,620
+"Uttar Pradesh",Rampur,Vilaspur,Papaya,Other,Medium,16/04/2025,2000,2400,2200
+"Uttar Pradesh",Saharanpur,Gangoh,Onion,Red,FAQ,16/04/2025,1400,1500,1450
+"Uttar Pradesh",Saharanpur,Gangoh,Tomato,Deshi,FAQ,16/04/2025,800,1200,1000
+"Uttar Pradesh",Shravasti,Payagpur,"Green Chilli","Green Chilly",FAQ,16/04/2025,2800,3200,3000
+Uttrakhand,Dehradoon,Vikasnagar,Cauliflower,Other,FAQ,16/04/2025,300,500,500
+Uttrakhand,Dehradoon,Vikasnagar,"Field Pea",Other,FAQ,16/04/2025,1500,2300,2300
+Uttrakhand,Dehradoon,Vikasnagar,Potato,Other,Non-FAQ,16/04/2025,400,400,400
+Uttrakhand,Haridwar,"Haridwar Union",Apple,Other,Medium,16/04/2025,8000,12000,9000
+Uttrakhand,Haridwar,"Haridwar Union","Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3500,4200,4000
+Uttrakhand,Haridwar,"Haridwar Union",Cauliflower,Cauliflower,FAQ,16/04/2025,300,500,400
+Uttrakhand,Haridwar,"Haridwar Union",Pomegranate,Pomogranate,Medium,16/04/2025,2200,3000,2500
+Uttrakhand,Haridwar,Roorkee,"Bottle gourd",Other,FAQ,16/04/2025,500,700,600
+Uttrakhand,Haridwar,Roorkee,Brinjal,Other,FAQ,16/04/2025,450,700,550
+Uttrakhand,Haridwar,Roorkee,Onion,Other,FAQ,16/04/2025,2000,4000,3000
+"West Bengal",Bankura,Bishnupur(Bankura),Brinjal,Brinjal,FAQ,16/04/2025,1500,2000,1800
+"West Bengal",Bankura,Bishnupur(Bankura),Onion,Nasik,Non-FAQ,16/04/2025,1500,2100,2000
+"West Bengal",Bankura,Bishnupur(Bankura),Rice,Fine,FAQ,16/04/2025,4300,4500,4350
+"West Bengal",Bankura,Bishnupur(Bankura),Wheat,Sonalika,Non-FAQ,16/04/2025,2800,3200,3000
+"West Bengal",Bankura,Khatra,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,900,1200,1000
+"West Bengal",Bankura,Khatra,Mustard,Mustard,FAQ,16/04/2025,5800,6200,6000
+"West Bengal",Bankura,Khatra,Wheat,Sonalika,Non-FAQ,16/04/2025,2800,3200,3000
+"West Bengal",Coochbehar,Coochbehar,Cauliflower,Other,FAQ,16/04/2025,500,600,550
+"West Bengal",Coochbehar,Coochbehar,Potato,Jyoti,FAQ,16/04/2025,1000,1170,1090
+"West Bengal",Coochbehar,Mekhliganj,Potato,Jyoti,FAQ,16/04/2025,1100,1150,1125
+"West Bengal",Medinipur(W),Ghatal,Brinjal,Brinjal,FAQ,16/04/2025,3100,3300,3200
+"West Bengal",Medinipur(W),Ghatal,Pumpkin,Other,FAQ,16/04/2025,1300,1400,1350
+"West Bengal",Medinipur(W),Ghatal,Tomato,Local,FAQ,16/04/2025,800,1000,900
+"Andhra Pradesh","East Godavari",Ambajipeta,Banana,"Banana - Ripe",Medium,16/04/2025,880,2080,1480
+"Andhra Pradesh","East Godavari",Jaggampet,Paddy(Dhan)(Common),Common,FAQ,16/04/2025,2300,2350,2320
+"Andhra Pradesh",Visakhapatnam,Chintapally,Cashewnuts,"320 Counts",FAQ,16/04/2025,15000,16000,15500
+Bihar,Araria,Forbesganj,Potato,Jyoti,FAQ,16/04/2025,800,1200,1000
+Bihar,Madhubani,Jahajharpur,Potato,Jyoti,FAQ,16/04/2025,1700,1900,1800
+Bihar,Rohtas,Natwar,Potato,Jyoti,FAQ,16/04/2025,800,1000,900
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),"Bottle gourd",Other,FAQ,16/04/2025,700,1000,900
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),"Green Chilli",Other,FAQ,16/04/2025,1500,2000,1800
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Lemon,Other,FAQ,16/04/2025,7000,8500,8000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),"Peas Wet",Other,FAQ,16/04/2025,2500,4000,3500
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,16/04/2025,400,1050,850
+Gujarat,Amreli,Damnagar,Coriander(Leaves),Coriander,FAQ,16/04/2025,2200,3050,2850
+Gujarat,Bharuch,Jambusar,"Bajra(Pearl Millet/Cumbu)",Other,FAQ,16/04/2025,2200,2600,2400
+Gujarat,Bharuch,Jambusar,Jowar(Sorghum),Other,FAQ,16/04/2025,3200,3800,3500
+Gujarat,Bharuch,Jambusar,Wheat,Other,FAQ,16/04/2025,2500,3100,2800
+Gujarat,Bharuch,Jambusar(Kaavi),"Castor Seed",Other,FAQ,16/04/2025,4500,5100,4800
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)","Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2500,3000,3000
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)",Brinjal,Brinjal,FAQ,16/04/2025,1000,1000,1000
+Gujarat,Junagarh,Mangrol,Wheat,Lok-1,FAQ,16/04/2025,2475,2550,2500
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)","Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2100,4000,3050
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Cabbage,Cabbage,FAQ,16/04/2025,150,500,325
+Gujarat,Sabarkantha,Khedbrahma,Soyabean,Other,FAQ,16/04/2025,4150,4250,4200
+Gujarat,Surat,Bardoli(Katod),"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,1250,1950,1650
+Gujarat,Surat,Surat,Lemon,Other,FAQ,16/04/2025,3500,11000,7250
+Gujarat,Surat,Surat,"Little gourd (Kundru)",Other,FAQ,16/04/2025,4000,7500,5750
+Gujarat,Surat,Surat,"Peas cod",Other,FAQ,16/04/2025,4000,6000,5000
+Gujarat,Valsad,Pardi(Motavagachiya),Chikoos(Sapota),Other,Large,16/04/2025,1500,1800,1800
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,16/04/2025,8000,10000,9000
+Haryana,Hissar,Uklana,Apple,Apple,Medium,16/04/2025,6000,6500,6500
+Haryana,Hissar,Uklana,"Mousambi(Sweet Lime)",Mousambi,Medium,16/04/2025,4000,4000,4000
+Haryana,Hissar,Uklana,Potato,Potato,FAQ,16/04/2025,900,900,900
+Haryana,Kurukshetra,Babain,Onion,Local,FAQ,16/04/2025,800,850,820
+Haryana,Mahendragarh-Narnaul,Narnaul,Cabbage,Cabbage,FAQ,16/04/2025,800,1000,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,Ginger(Green),"Green Ginger",FAQ,16/04/2025,3500,4000,4000
+Haryana,Mahendragarh-Narnaul,Narnaul,"Long Melon(Kakri)","Long Melon (Kakri)",FAQ,16/04/2025,800,1500,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,2500,3000,3000
+Haryana,Mahendragarh-Narnaul,Narnaul,Onion,Onion,FAQ,16/04/2025,1000,1000,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,Orange,Orange,Medium,16/04/2025,5000,5000,5000
+Haryana,Mahendragarh-Narnaul,Narnaul,Papaya,Papaya,Medium,16/04/2025,2000,3000,3000
+Haryana,Panipat,Panipat,Apple,Other,Medium,16/04/2025,8000,12000,10000
+Haryana,Panipat,Panipat,Banana,Other,Medium,16/04/2025,2800,3000,2900
+Haryana,Panipat,Panipat,Onion,Other,FAQ,16/04/2025,1000,1200,1100
+Haryana,Rohtak,Meham,Colacasia,Other,FAQ,16/04/2025,500,700,600
+Haryana,Rohtak,Meham,Mango,Badami,Medium,16/04/2025,4000,5000,4500
+Haryana,"Yamuna Nagar",Chhachrauli,Tomato,Tomato,FAQ,16/04/2025,1200,3000,1400
+"Himachal Pradesh",Bilaspur,Bilaspur,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,1500,1800,1600
+"Himachal Pradesh",Bilaspur,Bilaspur,Lemon,Lemon,FAQ,16/04/2025,12000,15000,14000
+"Himachal Pradesh",Bilaspur,Bilaspur,Pumpkin,Other,FAQ,16/04/2025,900,1600,1500
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Apple,Apple,Medium,16/04/2025,14000,16000,15000
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Brinjal,Brinjal,FAQ,16/04/2025,2000,3200,2800
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Ginger(Green),"Green Ginger",FAQ,16/04/2025,6800,7000,7000
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Lemon,Lemon,FAQ,16/04/2025,13000,13500,13200
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Papaya,Other,Medium,16/04/2025,3700,3800,3700
+"Himachal Pradesh",Kangra,Kangra(Baijnath),"Peas Wet",Other,FAQ,16/04/2025,5800,6000,5800
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Potato,Potato,FAQ,16/04/2025,1100,1200,1100
+"Himachal Pradesh",Kangra,Palampur,Cabbage,Cabbage,FAQ,16/04/2025,900,1000,950
+"Himachal Pradesh",Kangra,Palampur,Coriander(Leaves),Coriander,FAQ,16/04/2025,4000,5000,4500
+"Himachal Pradesh",Kangra,Palampur,Grapes,Other,Medium,16/04/2025,6000,12000,9000
+"Himachal Pradesh",Kangra,Palampur,Orange,Other,Medium,16/04/2025,8000,9000,8500
+"Himachal Pradesh",Kangra,Palampur,Pomegranate,Other,Medium,16/04/2025,9500,10000,9700
+"Himachal Pradesh",Kangra,Palampur,Raddish,Raddish,FAQ,16/04/2025,1500,1600,1550
+"Jammu and Kashmir",Anantnag,Kulgam,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2900,3000,2950
+Karnataka,Bangalore,Ramanagara,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,3300,4400,4000
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,16/04/2025,300,500,400
+Karnataka,Bangalore,Ramanagara,"Chilly Capsicum","Chilly Capsicum",FAQ,16/04/2025,2800,3600,3200
+Karnataka,Belgaum,Kudchi,Maize,Hybrid/Local,FAQ,16/04/2025,0,0,2300
+Karnataka,Dharwad,Kalagategi,Maize,Local,FAQ,16/04/2025,2250,2360,2318
+Karnataka,Shimoga,Shimoga,Carrot,Carrot,FAQ,16/04/2025,1800,2000,1900
+Karnataka,Shimoga,Shimoga,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1400,1600,1500
+Karnataka,Shimoga,Shimoga,Gur(Jaggery),Unde,FAQ,16/04/2025,4200,4900,4550
+Karnataka,Shimoga,Shimoga,Rice,Coarse,FAQ,16/04/2025,2105,3050,3000
+Karnataka,Shimoga,Shimoga,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/04/2025,2800,3000,2900
+Kerala,Alappuzha,Aroor,Banana,"Nendra Bale",Medium,16/04/2025,6500,6700,6600
+Kerala,Alappuzha,Aroor,"Banana - Green","Banana - Green",FAQ,16/04/2025,5600,5800,5700
+Kerala,Alappuzha,Aroor,Carrot,Other,FAQ,16/04/2025,5600,5800,5700
+Kerala,Alappuzha,Aroor,Cauliflower,Other,FAQ,16/04/2025,3500,3700,3600
+Kerala,Alappuzha,Aroor,Ginger(Green),Other,FAQ,16/04/2025,7500,7700,7600
+Kerala,Alappuzha,Aroor,Onion,Small,FAQ,16/04/2025,4800,5000,4900
+Kerala,Alappuzha,Aroor,Snakeguard,Other,FAQ,16/04/2025,5000,5200,5100
+Kerala,Alappuzha,Harippad,Amaranthus,Other,FAQ,16/04/2025,5000,5500,5000
+Kerala,Alappuzha,Harippad,Ashgourd,Other,FAQ,16/04/2025,3000,3500,3000
+Kerala,Alappuzha,Harippad,"Banana - Green",Other,FAQ,16/04/2025,6000,6500,6000
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,16/04/2025,4000,4500,4000
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,16/04/2025,6000,6500,6000
+Kerala,Alappuzha,Harippad,Colacasia,Other,FAQ,16/04/2025,8000,8700,8000
+Kerala,Alappuzha,Harippad,Cowpea(Veg),Other,FAQ,16/04/2025,4000,4500,4000
+Kerala,Alappuzha,Harippad,Cucumbar(Kheera),Other,FAQ,16/04/2025,3000,3400,3000
+Kerala,Ernakulam,"Nedungapra  VFPCK",Pineapple,Other,Large,16/04/2025,4500,4900,4600
+Kerala,Ernakulam,Piravam,Amaranthus,Other,FAQ,16/04/2025,3000,5000,4000
+Kerala,Ernakulam,Piravam,Ashgourd,Other,FAQ,16/04/2025,2500,4000,3000
+Kerala,Ernakulam,Piravam,Beetroot,Other,FAQ,16/04/2025,4000,5000,4500
+Kerala,Ernakulam,Piravam,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,Capsicum,Other,FAQ,16/04/2025,18000,20000,19000
+Kerala,Ernakulam,Piravam,Carrot,Other,FAQ,16/04/2025,4000,6000,5000
+Kerala,Ernakulam,Piravam,Colacasia,Other,FAQ,16/04/2025,5000,7000,6000
+Kerala,Ernakulam,Piravam,Drumstick,Other,FAQ,16/04/2025,12000,14000,13000
+Kerala,Ernakulam,Piravam,Lemon,Other,FAQ,16/04/2025,10000,12000,11000
+Kerala,Ernakulam,Piravam,Orange,Other,Large,16/04/2025,5000,7000,6000
+Kerala,Ernakulam,Piravam,Papaya,Papaya,Large,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,Potato,Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,Pumpkin,Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Thrippunithura,Amphophalus,Amphophalus,FAQ,16/04/2025,7000,8000,7200
+Kerala,Ernakulam,Thrippunithura,Ashgourd,Ashgourd,FAQ,16/04/2025,2500,4000,2700
+Kerala,Ernakulam,Thrippunithura,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,3000,5000,3400
+Kerala,Ernakulam,Thrippunithura,Colacasia,Other,FAQ,16/04/2025,6500,8000,7000
+Kerala,Ernakulam,Thrippunithura,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,4000,6000,4500
+Kerala,Ernakulam,Thrippunithura,Pineapple,"Pine Apple",Medium,16/04/2025,6000,7000,6200
+Kerala,Ernakulam,Thrippunithura,Potato,Potato,FAQ,16/04/2025,3600,4000,3600
+Kerala,Ernakulam,Thrippunithura,Pumpkin,Pumpkin,FAQ,16/04/2025,2400,4000,2600
+Kerala,Ernakulam,Thrippunithura,Snakeguard,Snakeguard,FAQ,16/04/2025,5500,6000,5700
+Kerala,Ernakulam,Thrippunithura,Tomato,Tomato,FAQ,16/04/2025,3000,4000,3200
+Kerala,Kannur,Kannur,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3300,3500,3400
+Kerala,Kannur,Payyannur,Amaranthus,Other,FAQ,16/04/2025,3400,3600,3500
+Kerala,Kannur,Payyannur,Banana,Other,Medium,16/04/2025,6000,6200,6100
+Kerala,Kannur,Payyannur,Copra,other,FAQ,16/04/2025,17900,18100,18000
+Kerala,Kasargod,Manjeswaram,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,7000,8000,7500
+Kerala,Kasargod,Manjeswaram,Pumpkin,Pumpkin,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kasargod,Manjeswaram,Tapioca,Other,FAQ,16/04/2025,4000,5000,4500
+Kerala,Kollam,Anchal,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,6500,6700,6600
+Kerala,Kollam,Anchal,"Bottle gourd",Other,FAQ,16/04/2025,2600,2800,2700
+Kerala,Kollam,Anchal,Brinjal,Brinjal,FAQ,16/04/2025,3700,3900,3800
+Kerala,Kollam,Anchal,Capsicum,Capsicum,FAQ,16/04/2025,6300,6500,6400
+Kerala,Kollam,Anchal,Carrot,Carrot,FAQ,16/04/2025,7300,7500,7400
+Kerala,Kollam,Anchal,Onion,Other,FAQ,16/04/2025,3600,3800,3700
+Kerala,Kollam,Anchal,Potato,Other,FAQ,16/04/2025,4500,4700,4600
+Kerala,Kottayam,Athirampuzha,"Banana - Green","Banana - Green",FAQ,16/04/2025,5900,6100,6000
+Kerala,Kottayam,Athirampuzha,Cabbage,Cabbage,FAQ,16/04/2025,2500,2700,2600
+Kerala,Kottayam,Athirampuzha,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,5300,5500,5400
+Kerala,Kottayam,Athirampuzha,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2200,2100
+Kerala,Kottayam,Athirampuzha,"Green Chilli","Green Chilly",FAQ,16/04/2025,3000,3200,3100
+Kerala,Kottayam,Athirampuzha,"Little gourd (Kundru)",Other,FAQ,16/04/2025,2000,2200,2100
+Kerala,Kottayam,Ettumanoor,"Cluster beans",Other,FAQ,16/04/2025,6300,6700,6500
+Kerala,Kottayam,Ettumanoor,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,2300,2600,2400
+Kerala,Kottayam,Ettumanoor,Onion,Big,FAQ,16/04/2025,2200,2600,2400
+Kerala,Kottayam,Ettumanoor,Potato,Potato,FAQ,16/04/2025,3000,3200,3100
+Kerala,Kottayam,Ettumanoor,Pumpkin,Pumpkin,FAQ,16/04/2025,1600,2000,1800
+Kerala,Kottayam,Ettumanoor,Snakeguard,Snakeguard,FAQ,16/04/2025,3600,4000,3800
+Kerala,Kottayam,Kuruppanthura,Banana,Poovan,Large,16/04/2025,6600,7000,6800
+Kerala,Kottayam,Kuruppanthura,Cauliflower,Cauliflower,FAQ,16/04/2025,3000,4000,3600
+Kerala,Kottayam,Kuruppanthura,Drumstick,Drumstick,FAQ,16/04/2025,4600,5600,5000
+Kerala,Kottayam,Kuruppanthura,Onion,Big,Non-FAQ,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Kuruppanthura,Pumpkin,Pumpkin,FAQ,16/04/2025,1500,2600,2000
+Kerala,Kottayam,Pampady,Potato,Other,FAQ,16/04/2025,2800,4000,3500
+Kerala,Kozhikode(Calicut),Kallachi,Amphophalus,Amphophalus,FAQ,16/04/2025,6800,7200,7000
+Kerala,Kozhikode(Calicut),Kallachi,Snakeguard,Snakeguard,FAQ,16/04/2025,3800,4200,4000
+Kerala,Kozhikode(Calicut),Mukkom,Amaranthus,Amaranthus,FAQ,16/04/2025,2500,2900,2700
+Kerala,Kozhikode(Calicut),Mukkom,Ashgourd,Other,FAQ,16/04/2025,1500,1800,1600
+Kerala,Kozhikode(Calicut),Mukkom,"Banana - Green","Banana - Green",FAQ,16/04/2025,4800,5300,5000
+Kerala,Kozhikode(Calicut),Mukkom,Beetroot,Beetroot,FAQ,16/04/2025,3000,3400,3200
+Kerala,Kozhikode(Calicut),Mukkom,"Coconut Seed",Other,FAQ,16/04/2025,6200,6400,6300
+Kerala,Kozhikode(Calicut),Mukkom,Drumstick,Drumstick,FAQ,16/04/2025,2800,3500,3200
+Kerala,Kozhikode(Calicut),Mukkom,Ginger(Green),"Green Ginger",FAQ,16/04/2025,6000,6400,6200
+Kerala,Kozhikode(Calicut),Mukkom,Grapes,Other,Large,16/04/2025,15000,16000,15500
+Kerala,Kozhikode(Calicut),Mukkom,Orange,Other,Large,16/04/2025,13500,14500,14000
+Kerala,Kozhikode(Calicut),Mukkom,Potato,Other,FAQ,16/04/2025,3000,3400,3200
+Kerala,Kozhikode(Calicut),Palayam,Beetroot,Other,FAQ,16/04/2025,3600,3600,3600
+Kerala,Kozhikode(Calicut),Palayam,Brinjal,Other,FAQ,16/04/2025,2400,2400,2400
+Kerala,Kozhikode(Calicut),Palayam,Cabbage,Other,FAQ,16/04/2025,1100,1100,1100
+Kerala,Kozhikode(Calicut),Palayam,Cucumbar(Kheera),Other,FAQ,16/04/2025,1400,1400,1400
+Kerala,Kozhikode(Calicut),Palayam,Drumstick,Other,FAQ,16/04/2025,3200,3300,3200
+Kerala,Kozhikode(Calicut),Palayam,"French Beans (Frasbean)",Other,FAQ,16/04/2025,5700,5800,5700
+Kerala,Kozhikode(Calicut),Palayam,Pumpkin,Other,FAQ,16/04/2025,800,800,800
+Kerala,Kozhikode(Calicut),Quilandy,Amaranthus,Other,FAQ,16/04/2025,2800,3000,3000
+Kerala,Kozhikode(Calicut),Quilandy,Amphophalus,Other,FAQ,16/04/2025,6500,6800,6700
+Kerala,Kozhikode(Calicut),Quilandy,"Bitter gourd",Other,FAQ,16/04/2025,6200,6500,6400
+Kerala,Kozhikode(Calicut),Quilandy,Carrot,Other,FAQ,16/04/2025,4800,5000,5000
+Kerala,Kozhikode(Calicut),Quilandy,Raddish,Other,FAQ,16/04/2025,2400,2500,2500
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Amaranthus,Amaranthus,FAQ,16/04/2025,1500,1800,1800
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Ashgourd,Ashgourd,FAQ,16/04/2025,800,1100,1100
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Tomato,Tomato,FAQ,16/04/2025,1400,1700,1700
+Kerala,Malappuram,Kottakkal,Ashgourd,Other,FAQ,16/04/2025,1000,1200,1100
+Kerala,Malappuram,Kottakkal,Cabbage,Other,FAQ,16/04/2025,1200,1400,1300
+Kerala,Malappuram,Kottakkal,Carrot,Other,FAQ,16/04/2025,3000,3200,3100
+Kerala,Malappuram,Kottakkal,"Green Chilli",Other,FAQ,16/04/2025,3300,3500,3400
+Kerala,Malappuram,Kottakkal,Pineapple,Other,Large,16/04/2025,5100,5300,5200
+Kerala,Thirssur,Thrissur,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2200,2500,2500
+Kerala,Thirssur,Thrissur,Carrot,Carrot,FAQ,16/04/2025,3500,4000,3800
+Kerala,Thirssur,Thrissur,Lemon,Other,FAQ,16/04/2025,8000,9000,8500
+Kerala,Thirssur,Thrissur,"Mango (Raw-Ripe)","Mango - Raw-Ripe",FAQ,16/04/2025,2500,3000,2800
+Kerala,Thirssur,Thrissur,Nutmeg,Other,FAQ,16/04/2025,28000,28000,28000
+Kerala,Thiruvananthapuram,Parassala,Banana,"Nendra Bale",Medium,16/04/2025,6000,6500,6000
+Kerala,Thiruvananthapuram,Parassala,"Cluster beans","Cluster Beans",FAQ,16/04/2025,2800,3000,2800
+Kerala,Thiruvananthapuram,Parassala,Colacasia,Other,FAQ,16/04/2025,5800,6000,5800
+Kerala,Thiruvananthapuram,Parassala,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,16/04/2025,3800,4000,3800
+Kerala,Thiruvananthapuram,Parassala,"Green Chilli","Green Chilly",FAQ,16/04/2025,4000,4500,4000
+Kerala,Thiruvananthapuram,Parassala,Lemon,Lemon,FAQ,16/04/2025,6000,6500,6000
+Kerala,Thiruvananthapuram,Parassala,Pineapple,"Pine Apple",Medium,16/04/2025,6800,7000,6800
+Kerala,Thiruvananthapuram,Pothencode,Drumstick,Drumstick,FAQ,16/04/2025,3500,3800,3500
+Kerala,Thiruvananthapuram,Pothencode,"Green Chilli","Green Chilly",FAQ,16/04/2025,5000,5500,5000
+Kerala,Thiruvananthapuram,Pothencode,Pumpkin,Pumpkin,FAQ,16/04/2025,1800,2000,1800
+Kerala,Thiruvananthapuram,Vamanapuram,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,7500,8000,7500
+Kerala,Thiruvananthapuram,Vamanapuram,Carrot,Other,FAQ,16/04/2025,3600,4000,3600
+Kerala,Thiruvananthapuram,Vamanapuram,Cowpea(Veg),Other,FAQ,16/04/2025,8000,8500,8000
+Kerala,Wayanad,Pulpally,Amaranthus,Other,FAQ,16/04/2025,2500,2700,2600
+Kerala,Wayanad,Pulpally,Coffee,Other,FAQ,16/04/2025,26000,26200,26100
+Kerala,Wayanad,Pulpally,Cucumbar(Kheera),Other,FAQ,16/04/2025,1400,1600,1500
+Kerala,Wayanad,Pulpally,Pumpkin,Other,FAQ,16/04/2025,1200,1400,1300
+"Madhya Pradesh",Badwani,Anjad,"Kabuli Chana(Chickpeas-White)","Dollar Gram",FAQ,16/04/2025,8900,10050,9900
+"Madhya Pradesh",Badwani,Anjad,Maize,Local,FAQ,16/04/2025,2035,2035,2035
+"Madhya Pradesh",Badwani,Sendhwa,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,6500,6500,6500
+"Madhya Pradesh",Betul,Betul,Wheat,"Mill Quality",FAQ,16/04/2025,2531,2536,2533
+"Madhya Pradesh",Bhind,Gohad,Wheat,Wheat,FAQ,16/04/2025,2375,2440,2440
+"Madhya Pradesh",Chhatarpur,Bijawar,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2600,2600,2600
+"Madhya Pradesh",Chhatarpur,Naugaon,Wheat,Wheat,Non-FAQ,16/04/2025,2425,2432,2430
+"Madhya Pradesh",Damoh,Javera,Wheat,Wheat,Non-FAQ,16/04/2025,2410,2425,2410
+"Madhya Pradesh",Datia,Datia,Wheat,Wheat,FAQ,16/04/2025,2390,2410,2400
+"Madhya Pradesh",Dewas,Khategaon,Maize,Local,FAQ,16/04/2025,1800,2048,1800
+"Madhya Pradesh",Dhar,Dhar,Wheat,Local,FAQ,16/04/2025,2600,2605,2605
+"Madhya Pradesh",Dhar,Dhar,Wheat,Wheat,FAQ,16/04/2025,2500,2500,2500
+"Madhya Pradesh",Dhar,Manawar,Maize,Local,FAQ,16/04/2025,1950,2100,2050
+"Madhya Pradesh",Khandwa,Khandwa,Maize,Local,FAQ,16/04/2025,1860,1999,1860
+"Madhya Pradesh",Khargone,Badwaha,Cotton,"Without Ginned Cotton",Non-FAQ,16/04/2025,7100,7100,7100
+"Madhya Pradesh",Khargone,Khargone,Wheat,Wheat,FAQ,16/04/2025,2500,2635,2555
+"Madhya Pradesh",Khargone,Segaon,Maize,Local,Non-FAQ,16/04/2025,2000,2000,2000
+"Madhya Pradesh",Mandla,Nainpur,Wheat,Local,Non-FAQ,16/04/2025,2300,2325,2325
+"Madhya Pradesh",Rajgarh,Biaora,Wheat,Wheat,FAQ,16/04/2025,2390,2390,2390
+"Madhya Pradesh",Rajgarh,Narsinghgarh,Wheat,Lokwan,FAQ,16/04/2025,2540,2540,2540
+"Madhya Pradesh",Rewa,Chaakghat,Wheat,"Mill Quality",FAQ,16/04/2025,2425,2426,2426
+"Madhya Pradesh",Sagar,Rahatgarh,Wheat,Wheat,Non-FAQ,16/04/2025,2430,2430,2430
+"Madhya Pradesh",Sagar,Shahagarh,Wheat,"Mill Quality",FAQ,16/04/2025,2370,2400,2400
+"Madhya Pradesh",Shivpuri,Magroni,Wheat,Wheat,FAQ,16/04/2025,2350,2378,2378
+Maharashtra,Ahmednagar,Rahata,"Bhindi(Ladies Finger)",Other,Local,16/04/2025,2000,3000,2500
+Maharashtra,Ahmednagar,Rahata,"Bitter gourd",Other,Local,16/04/2025,2500,3500,3000
+Maharashtra,Ahmednagar,Rahata,Garlic,Other,Local,16/04/2025,4000,5000,4500
+Maharashtra,Ahmednagar,Shrirampur,"Bhindi(Ladies Finger)",Other,Local,16/04/2025,2500,3500,3000
+Maharashtra,Ahmednagar,Shrirampur,Cabbage,Other,Local,16/04/2025,300,500,400
+Maharashtra,Nagpur,Kalmeshwar,"Bhindi(Ladies Finger)",Other,Local,16/04/2025,2545,3000,2865
+Maharashtra,Nagpur,Kalmeshwar,Cabbage,Other,Local,16/04/2025,130,400,350
+Maharashtra,Nagpur,Kalmeshwar,Coriander(Leaves),Other,Local,16/04/2025,1525,2000,1815
+Maharashtra,Nagpur,Kalmeshwar,Raddish,Other,Local,16/04/2025,1030,1500,1310
+Maharashtra,Nagpur,Kalmeshwar,Spinach,Other,Local,16/04/2025,820,1200,1040
+Maharashtra,Pune,Pune,"Amla(Nelli Kai)",Other,Local,16/04/2025,2500,3000,2700
+Maharashtra,Pune,Pune,"Bottle gourd",Other,Local,16/04/2025,700,2000,1350
+Maharashtra,Pune,Pune,Cabbage,Other,Local,16/04/2025,400,800,600
+Maharashtra,Pune,Pune,Grapes,Other,Local,16/04/2025,3000,11000,7000
+Maharashtra,Pune,Pune,"Jack Fruit",Other,Local,16/04/2025,1500,2000,1700
+Maharashtra,Pune,Pune,Lime,Other,Local,16/04/2025,500,6000,3200
+Maharashtra,Pune,Pune,Methi(Leaves),Other,Local,16/04/2025,5,16,10
+Maharashtra,Pune,Pune,Orange,Other,Local,16/04/2025,5000,10000,7500
+Maharashtra,Pune,Pune,Raddish,Other,Local,16/04/2025,5,12,8
+Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,Local,16/04/2025,1800,2200,2000
+Maharashtra,Pune,Pune(Pimpri),Spinach,Other,Local,16/04/2025,7,9,8
+Maharashtra,Raigad,Murud,Rice,Other,Local,16/04/2025,2500,2700,2600
+Maharashtra,Satara,Patan,Ginger(Green),Other,Local,16/04/2025,1500,2000,1750
+Maharashtra,Thane,Ulhasnagar,Rice,Other,Local,16/04/2025,3500,5500,4500
+Maharashtra,Thane,Ulhasnagar,Wheat,Other,FAQ,16/04/2025,3000,3400,3200
+Nagaland,Kohima,Kohima,Potato,Potato,FAQ,16/04/2025,3500,3700,3600
+Nagaland,Tsemenyu,Tsemenyu,"Season Leaves","Season Leaves",FAQ,16/04/2025,2000,2500,2200
+Odisha,Balasore,Jaleswar,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2800,3200,3000
+Odisha,Balasore,Jaleswar,Pumpkin,Other,FAQ,16/04/2025,500,900,700
+Odisha,Boudh,Boudh,"Water Melon",Other,Medium,16/04/2025,800,1200,1000
+Odisha,Boudh,Khunthabandha,Onion,Other,Non-FAQ,16/04/2025,2500,3500,3000
+Odisha,Boudh,Khunthabandha,Potato,Other,Non-FAQ,16/04/2025,800,1200,1000
+Odisha,Boudh,Khunthabandha,"Water Melon",Other,Large,16/04/2025,0,0,1000
+Odisha,Dhenkanal,Hindol,"Banana - Green",Other,FAQ,16/04/2025,2300,2500,2400
+Odisha,Dhenkanal,Hindol,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,3800,4200,4000
+Odisha,Dhenkanal,Kamakhyanagar,Onion,Onion,Non-FAQ,16/04/2025,2400,3000,2500
+Odisha,Dhenkanal,Kamakhyanagar,Tomato,Tomato,Non-FAQ,16/04/2025,2500,3200,3000
+Odisha,Gajapati,Parlakhemundi,"Banana - Green",Other,FAQ,16/04/2025,800,1000,900
+Odisha,Gajapati,Parlakhemundi,Cabbage,Other,FAQ,16/04/2025,800,1000,900
+Odisha,Gajapati,Parlakhemundi,"Water Melon",Other,Medium,16/04/2025,1300,1500,1400
+Odisha,Ganjam,Bhanjanagar,"Banana - Green","Banana - Green",FAQ,16/04/2025,2200,2400,2300
+Odisha,Ganjam,Bhanjanagar,Beetroot,Beetroot,FAQ,16/04/2025,3600,3800,3700
+Odisha,Jagatsinghpur,Rahama,Brinjal,Other,FAQ,16/04/2025,3000,5000,4000
+Odisha,Kalahandi,Mukhiguda,"Banana - Green","Banana - Green",FAQ,16/04/2025,2200,2500,2350
+Odisha,Kalahandi,Mukhiguda,Cabbage,Cabbage,FAQ,16/04/2025,900,1100,1000
+Odisha,Sonepur,Dungurapalli,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,6000,6000,6000
+Odisha,Sonepur,Dungurapalli,Cauliflower,Other,FAQ,16/04/2025,3000,3500,3200
+Odisha,Sonepur,Dungurapalli,Tomato,Other,Non-FAQ,16/04/2025,1400,1500,1500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,FAQ,16/04/2025,3200,3600,3500
+Odisha,Sundergarh,Panposh,"Green Chilli",Other,FAQ,16/04/2025,4200,4600,4500
+Odisha,Sundergarh,Sargipali,Cauliflower,Other,FAQ,16/04/2025,3000,3500,3200
+Punjab,Fazilka,Fazilka,Cauliflower,Other,FAQ,16/04/2025,500,1000,800
+Punjab,Fazilka,Fazilka,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,2000,1500
+Punjab,Fazilka,Fazilka,Onion,Other,FAQ,16/04/2025,1000,2000,1500
+Punjab,Fazilka,Jalalabad,Banana,Other,Large,16/04/2025,3000,3200,3100
+Punjab,Fazilka,Jalalabad,Beetroot,Beetroot,FAQ,16/04/2025,2000,2000,2000
+Punjab,Fazilka,Jalalabad,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,4000,4000,4000
+Punjab,Fazilka,Jalalabad,Capsicum,Capsicum,FAQ,16/04/2025,1000,1100,1050
+Punjab,Fazilka,Jalalabad,Carrot,Other,FAQ,16/04/2025,1500,1600,1550
+Punjab,Fazilka,Jalalabad,Cucumbar(Kheera),Other,FAQ,16/04/2025,800,900,850
+Punjab,Fazilka,Jalalabad,Grapes,Other,Large,16/04/2025,7000,7400,7200
+Punjab,Fazilka,Jalalabad,Onion,Other,FAQ,16/04/2025,1500,1700,1600
+Punjab,Fazilka,Jalalabad,Orange,Other,Large,16/04/2025,7000,7300,7200
+Punjab,Fazilka,Jalalabad,Pineapple,Other,Large,16/04/2025,4200,4500,4300
+Punjab,Fazilka,Jalalabad,Spinach,Other,FAQ,16/04/2025,500,500,500
+Punjab,Fazilka,Jalalabad,Wheat,Other,FAQ,16/04/2025,2425,2430,2425
+Punjab,Ferozpur,Zira,Brinjal,Brinjal,FAQ,16/04/2025,1500,2100,1800
+Punjab,Ferozpur,Zira,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,1500,1300
+Punjab,Ferozpur,Zira,Grapes,Black,Large,16/04/2025,6000,7000,6500
+Punjab,Ferozpur,Zira,Mango,Other,Medium,16/04/2025,9000,9300,9100
+Punjab,Ferozpur,Zira,Onion,Local,FAQ,16/04/2025,1800,2300,2000
+Punjab,Ferozpur,Zira,Potato,"(Red Nanital)",FAQ,16/04/2025,600,800,700
+Punjab,Gurdaspur,Gurdaspur,Banana,Other,Medium,16/04/2025,2200,2400,2300
+Punjab,Gurdaspur,Gurdaspur,Carrot,Other,FAQ,16/04/2025,1000,1200,1100
+Punjab,Gurdaspur,Gurdaspur,Cauliflower,Other,FAQ,16/04/2025,600,800,700
+Punjab,Gurdaspur,Gurdaspur,Cucumbar(Kheera),Other,FAQ,16/04/2025,1600,2000,1800
+Punjab,Gurdaspur,Gurdaspur,"French Beans (Frasbean)",Other,FAQ,16/04/2025,1800,2200,2000
+Punjab,Gurdaspur,Gurdaspur,Garlic,Other,FAQ,16/04/2025,5500,6000,5800
+Punjab,Gurdaspur,Gurdaspur,Ginger(Dry),Other,FAQ,16/04/2025,3500,4000,3800
+Punjab,Gurdaspur,Gurdaspur,Grapes,Other,Medium,16/04/2025,5000,5500,5200
+Punjab,Gurdaspur,Gurdaspur,Guava,Other,Medium,16/04/2025,4000,4500,4200
+Punjab,Gurdaspur,Gurdaspur,Lemon,Other,FAQ,16/04/2025,4000,4500,4300
+Punjab,Gurdaspur,Gurdaspur,"Mousambi(Sweet Lime)",Other,Medium,16/04/2025,3500,4000,3800
+Punjab,Gurdaspur,Kalanaur,Cauliflower,Other,FAQ,16/04/2025,100,100,100
+Punjab,Hoshiarpur,"Garh Shankar",Banana,Medium,Medium,16/04/2025,2500,3000,2700
+Punjab,Hoshiarpur,"Garh Shankar",Cabbage,Cabbage,FAQ,16/04/2025,500,800,700
+Punjab,Hoshiarpur,Mukerian,Cabbage,Other,FAQ,16/04/2025,600,1000,800
+Punjab,Hoshiarpur,Mukerian,Capsicum,Capsicum,FAQ,16/04/2025,2200,3000,2600
+Punjab,Hoshiarpur,Mukerian,Pomegranate,Pomogranate,Medium,16/04/2025,8500,10500,9500
+Punjab,Hoshiarpur,Mukerian,Potato,Potato,Non-FAQ,16/04/2025,1200,1400,1300
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Brinjal,Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)","Green Chilli",Other,FAQ,16/04/2025,3000,3000,3000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Tomato,Other,FAQ,16/04/2025,2200,2200,2200
+Punjab,Ludhiana,Doraha,Potato,Other,Non-FAQ,16/04/2025,400,600,550
+Punjab,Ludhiana,Ludhiana,Cabbage,Other,FAQ,16/04/2025,300,500,400
+Punjab,Ludhiana,Ludhiana,Capsicum,Other,FAQ,16/04/2025,400,700,600
+Punjab,Ludhiana,Ludhiana,Coriander(Leaves),Other,FAQ,16/04/2025,700,1200,900
+Punjab,Ludhiana,Ludhiana,"French Beans (Frasbean)",Other,FAQ,16/04/2025,1600,2200,1800
+Punjab,Ludhiana,Ludhiana,Grapes,Other,Medium,16/04/2025,3000,6000,5000
+Punjab,Ludhiana,Ludhiana,Raddish,Other,FAQ,16/04/2025,400,700,500
+Punjab,Ludhiana,"Ludhiana(Mandi gill Road)",Wheat,Other,FAQ,16/04/2025,2425,2430,2425
+Punjab,Sangrur,Ahmedgarh,Cauliflower,Other,FAQ,16/04/2025,1200,1300,1200
+Punjab,Tarntaran,Patti,Garlic,Other,FAQ,16/04/2025,4000,5000,4500
+Punjab,Tarntaran,Patti,Potato,Other,FAQ,16/04/2025,400,500,450
+Punjab,Tarntaran,Tarantaran,Cabbage,Cabbage,FAQ,16/04/2025,400,600,500
+Punjab,Tarntaran,Tarantaran,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,1500,1200
+Punjab,Tarntaran,Tarantaran,Onion,Other,FAQ,16/04/2025,1500,1800,1600
+Punjab,Tarntaran,Tarantaran,Potato,Other,FAQ,16/04/2025,600,700,650
+Rajasthan,Beawar,Beawar,"Barley (Jau)",Other,FAQ,16/04/2025,2075,2125,2100
+Rajasthan,Beawar,Beawar,Guar,Other,FAQ,16/04/2025,4500,4700,4600
+Rajasthan,Beawar,Beawar,Jowar(Sorghum),Other,FAQ,16/04/2025,2400,3000,2700
+Rajasthan,Beawar,Beawar,Soanf,Soanf,FAQ,16/04/2025,11000,15000,13000
+Rajasthan,Dausa,Lalsot,"Bajra(Pearl Millet/Cumbu)",Other,FAQ,16/04/2025,2210,2300,2250
+Rajasthan,Dausa,Lalsot,Wheat,Other,FAQ,16/04/2025,2320,2440,2350
+Rajasthan,Ganganagar,Suratgarh,Garlic,Average,FAQ,16/04/2025,6500,8000,7000
+Rajasthan,Ganganagar,Suratgarh,Mustard,Other,FAQ,16/04/2025,5330,5705,5517
+Rajasthan,Ganganagar,Suratgarh,Potato,"(Red Nanital)",FAQ,16/04/2025,700,900,800
+Rajasthan,Hanumangarh,Rawatsar,"Bengal Gram(Gram)(Whole)",Other,FAQ,16/04/2025,5131,5416,5350
+Rajasthan,Hanumangarh,Rawatsar,Cotton,American,FAQ,16/04/2025,5400,7625,5633
+Rajasthan,Hanumangarh,Rawatsar,Mustard,Other,FAQ,16/04/2025,5400,5912,5633
+Rajasthan,Jalore,Jalore,Brinjal,Other,FAQ,16/04/2025,1500,1800,1600
+Rajasthan,Jalore,Jalore,Guar,Gwar,FAQ,16/04/2025,4000,4500,4300
+Rajasthan,Jalore,Jalore,Onion,Other,FAQ,16/04/2025,1200,1500,1300
+Rajasthan,Jalore,Jalore,Tinda,Other,FAQ,16/04/2025,2500,3000,2800
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Garlic,Other,FAQ,16/04/2025,3000,7000,5000
+Rajasthan,Jodhpur,"Jodhpur (F&V)","Water Melon",Other,Medium,16/04/2025,400,1000,700
+Rajasthan,Jodhpur,"Jodhpur (Grain)","Cummin Seed(Jeera)",Other,FAQ,16/04/2025,21600,25000,23300
+Rajasthan,Jodhpur,"Jodhpur (Grain)","Isabgul (Psyllium)",Other,FAQ,16/04/2025,11700,14500,13100
+Rajasthan,"Jodhpur Rural","Ositan Mathania",Mustard,Other,FAQ,16/04/2025,5500,5700,5600
+Rajasthan,"Kotputli- Behror",Kotputli,Onion,Onion,FAQ,16/04/2025,700,900,800
+Telangana,Hyderabad,"Mahboob Manison","Dry Chillies","1st Sort",FAQ,16/04/2025,9000,12000,10000
+Telangana,Nalgonda,Devarakonda,Paddy(Dhan)(Common),MTU-1010,Non-FAQ,16/04/2025,2300,2300,2300
+Telangana,Nalgonda,Devarkonda(Dindi),Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2300,2300,2300
+Telangana,Nalgonda,Devarkonda(Dindi),Paddy(Dhan)(Common),MTU-1010,Non-FAQ,16/04/2025,2300,2300,2300
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Beetroot,Beetroot,FAQ,16/04/2025,1500,1500,1500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Brinjal,"Arkasheela Mattigulla",FAQ,16/04/2025,1800,1800,1800
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Cluster beans","Cluster Beans",FAQ,16/04/2025,4000,4000,4000
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1500,1500,1500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Leafy Vegetable","Leafy Vegetables",FAQ,16/04/2025,2000,2000,2000
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Yam (Ratalu)",Other,FAQ,16/04/2025,8000,8000,8000
+Tripura,"North Tripura",Dasda,Cauliflower,Cauliflower,FAQ,16/04/2025,1500,2000,1750
+Tripura,Sepahijala,Sonamura,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2500,3000,2700
+Tripura,Sepahijala,Sonamura,Ginger(Green),"Green Ginger",FAQ,16/04/2025,5000,6500,5500
+Tripura,Sepahijala,Sonamura,Goat,Goat,FAQ,16/04/2025,4000,6000,5000
+Tripura,Sepahijala,Sonamura,"Pointed gourd (Parval)","Pointed gourd (Parval)",FAQ,16/04/2025,5000,5500,5200
+"Uttar Pradesh",Agra,Fatehabad,"Bajra(Pearl Millet/Cumbu)",Deshi,FAQ,16/04/2025,2100,2200,2150
+"Uttar Pradesh",Agra,Fatehabad,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Agra,Fatehabad,Onion,Red,FAQ,16/04/2025,1200,1350,1250
+"Uttar Pradesh",Agra,Fatehabad,Potato,Desi,FAQ,16/04/2025,900,1000,950
+"Uttar Pradesh",Aligarh,Charra,"Bajra(Pearl Millet/Cumbu)",Hybrid,FAQ,16/04/2025,2150,2200,2175
+"Uttar Pradesh",Aligarh,Charra,"Green Chilli","Green Chilly",FAQ,16/04/2025,1600,1700,1650
+"Uttar Pradesh",Aligarh,Charra,Onion,Red,FAQ,16/04/2025,1700,1900,1800
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Onion,Red,FAQ,16/04/2025,1650,1700,1680
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Potato,Desi,Non-FAQ,16/04/2025,1050,1150,1100
+"Uttar Pradesh",Badaun,Shahaswan,Banana,Amruthapani,Medium,16/04/2025,2000,2200,2100
+"Uttar Pradesh",Ballia,Rasda,Potato,Desi,FAQ,16/04/2025,1165,1300,1225
+"Uttar Pradesh",Ballia,Vilthararoad,Onion,Other,Non-FAQ,16/04/2025,1900,2000,1950
+"Uttar Pradesh",Bijnor,Kiratpur,Gur(Jaggery),Red,FAQ,16/04/2025,3300,3400,3350
+"Uttar Pradesh",Bulandshahar,Gulavati,Garlic,Desi,FAQ,16/04/2025,5000,5200,5100
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2000,2200,2100
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Green Chilli","Green Chilly",FAQ,16/04/2025,1800,2000,1900
+"Uttar Pradesh",Bulandshahar,Sikarpur,Potato,Potato,FAQ,16/04/2025,625,850,750
+"Uttar Pradesh",Bulandshahar,Sikarpur,Tomato,Deshi,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Bulandshahar,Sikarpur,Wheat,Dara,FAQ,16/04/2025,2430,2450,2438
+"Uttar Pradesh",Bulandshahar,Siyana,Cauliflower,Cauliflower,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Bulandshahar,Siyana,Maize,Yellow,FAQ,16/04/2025,2360,2450,2400
+"Uttar Pradesh",Bulandshahar,Siyana,Paddy(Dhan)(Basmati),"Basmati 1509",Non-FAQ,16/04/2025,2360,2450,2400
+"Uttar Pradesh",Bulandshahar,Siyana,Pomegranate,Pomogranate,Medium,16/04/2025,5500,5700,5600
+"Uttar Pradesh",Bulandshahar,Siyana,Wheat,Dara,FAQ,16/04/2025,2429,2431,2430
+"Uttar Pradesh",Etawah,Bharthna,Potato,Desi,FAQ,16/04/2025,1230,1430,1330
+"Uttar Pradesh",Firozabad,Sirsaganj,Brinjal,Brinjal,FAQ,16/04/2025,1100,1300,1200
+"Uttar Pradesh",Kaushambi,Manjhanpur,Onion,Red,FAQ,16/04/2025,1400,1570,1480
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Apple,"Kasmir/Shimla - II",Medium,16/04/2025,8400,8490,8445
+"Uttar Pradesh",Maharajganj,Anandnagar,Onion,Red,FAQ,16/04/2025,1800,2000,1900
+"Uttar Pradesh",Maharajganj,Anandnagar,Papaya,Papaya,Medium,16/04/2025,2000,2400,2200
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Banana,Medium,Medium,16/04/2025,1000,1200,1100
+"Uttar Pradesh",Prayagraj,Ajuha,Onion,Red,FAQ,16/04/2025,1400,1500,1450
+"Uttar Pradesh",Rampur,Tanda(Rampur),"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2000,2200,2100
+"Uttar Pradesh",Rampur,Tanda(Rampur),Tomato,Deshi,FAQ,16/04/2025,800,840,820
+"Uttar Pradesh",Saharanpur,Gangoh,Spinach,Spinach,FAQ,16/04/2025,1000,1200,1100
+"Uttar Pradesh",Sambhal,Bhehjoi,Potato,Potato,Non-FAQ,16/04/2025,700,710,705
+"Uttar Pradesh",Sambhal,Sambhal,Brinjal,Round/Long,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Sambhal,Sambhal,Onion,Red,FAQ,16/04/2025,1200,1650,1400
+"Uttar Pradesh",Shravasti,Payagpur,Ginger(Green),"Green Ginger",FAQ,16/04/2025,5000,6000,5500
+"Uttar Pradesh",Shravasti,Payagpur,Potato,Red,FAQ,16/04/2025,900,1100,1000
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Firewood,Other,FAQ,16/04/2025,300,340,320
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Wheat,Dara,FAQ,16/04/2025,2445,2455,2450
+Uttrakhand,Dehradoon,Vikasnagar,Cucumbar(Kheera),Other,FAQ,16/04/2025,800,1200,1200
+Uttrakhand,Haridwar,"Haridwar Union","Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2000,2500,2200
+Uttrakhand,Haridwar,"Haridwar Union","Bottle gourd","Bottle Gourd",FAQ,16/04/2025,400,700,500
+Uttrakhand,Haridwar,"Haridwar Union",Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,500,800,600
+Uttrakhand,Haridwar,"Haridwar Union",Ginger(Green),Other,FAQ,16/04/2025,4500,5000,4700
+Uttrakhand,Haridwar,"Haridwar Union",Papaya,Other,Medium,16/04/2025,1800,2000,1900
+Uttrakhand,Haridwar,"Haridwar Union",Tomato,Hybrid,FAQ,16/04/2025,1000,1400,1200
+Uttrakhand,Haridwar,Roorkee,Carrot,Other,FAQ,16/04/2025,300,500,400
+Uttrakhand,Haridwar,Roorkee,Cauliflower,Other,FAQ,16/04/2025,700,1000,800
+Uttrakhand,Haridwar,Roorkee,Tomato,Other,FAQ,16/04/2025,800,1200,1000
+"West Bengal",Bankura,Bishnupur(Bankura),Mustard,Mustard,FAQ,16/04/2025,5800,6200,6000
+"West Bengal",Bankura,Bishnupur(Bankura),Rice,Common,FAQ,16/04/2025,3500,3600,3550
+"West Bengal",Bankura,Khatra,Potato,Jyoti,FAQ,16/04/2025,1250,1330,1300
+"West Bengal",Coochbehar,Coochbehar,Brinjal,Round/Long,FAQ,16/04/2025,1100,1150,1120
+"West Bengal",Coochbehar,Dinhata,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3500,3800,3600
+"West Bengal",Coochbehar,Dinhata,Brinjal,Brinjal,FAQ,16/04/2025,1500,2000,1800
+"West Bengal",Coochbehar,Dinhata,Potato,Jyoti,FAQ,16/04/2025,1050,1100,1100
+"West Bengal",Coochbehar,Mekhliganj,"Green Chilli","Green Chilly",FAQ,16/04/2025,3000,3500,3200
+"West Bengal",Coochbehar,Pundibari,Brinjal,Other,FAQ,16/04/2025,1800,1850,1820
+"West Bengal",Coochbehar,Toofanganj,Potato,Jyoti,FAQ,16/04/2025,1100,1150,1125
+"West Bengal",Hooghly,Sheoraphuly,Brinjal,Round/Long,FAQ,16/04/2025,4600,5000,4800
+"West Bengal",Hooghly,Sheoraphuly,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,4600,5000,4800
+"West Bengal",Hooghly,Sheoraphuly,Ginger(Dry),Other,FAQ,16/04/2025,5000,5400,5200
+"West Bengal",Hooghly,Sheoraphuly,Onion,Local,FAQ,16/04/2025,1500,1700,1600
+"West Bengal",Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,16/04/2025,1360,1400,1380
+"West Bengal",Medinipur(W),Ghatal,"Bitter gourd",Kareli,FAQ,16/04/2025,2800,3000,2900
+"West Bengal",Medinipur(W),Ghatal,Carrot,Carrot,FAQ,16/04/2025,2600,2800,2700
+"West Bengal",Medinipur(W),Ghatal,Jute,TD-5,FAQ,16/04/2025,5300,5500,5400
+"Andhra Pradesh",Chittor,Kalikiri,Tomato,Hybrid,FAQ,16/04/2025,930,1100,1060
+"Andhra Pradesh",Guntur,Tenali,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,16/04/2025,7400,7500,7450
+"Andhra Pradesh",Guntur,Tenali,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",Non-FAQ,16/04/2025,7000,7200,7100
+Bihar,Purnea,Bhawanipur,Wheat,"147 Average",FAQ,16/04/2025,2400,2600,2500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,16/04/2025,400,600,500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Tomato,Other,FAQ,16/04/2025,400,1200,900
+Gujarat,Amreli,Damnagar,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3200,4050,3850
+Gujarat,Amreli,Damnagar,Brinjal,Other,FAQ,16/04/2025,1650,2550,2200
+Gujarat,Amreli,Damnagar,Ginger(Green),"Green Ginger",FAQ,16/04/2025,4050,5050,4500
+Gujarat,Banaskanth,Dhanera,Ajwan,Other,FAQ,16/04/2025,8000,8000,8000
+Gujarat,Bharuch,Jambusar,"Arhar (Tur/Red Gram)(Whole)",Other,FAQ,16/04/2025,6500,6900,6700
+Gujarat,Bharuch,Jambusar,"Castor Seed",Other,FAQ,16/04/2025,4400,5200,4800
+Gujarat,Bharuch,Jambusar(Kaavi),"Arhar (Tur/Red Gram)(Whole)",Other,FAQ,16/04/2025,6500,7100,6800
+Gujarat,"Chhota Udaipur",Bodeliu,Maize,"Deshi Red",FAQ,16/04/2025,2200,2300,2250
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)",Cauliflower,Other,FAQ,16/04/2025,1500,2000,2000
+Gujarat,Junagarh,Mangrol,"Corriander seed","Coriander Seed",FAQ,16/04/2025,6850,6900,6880
+Gujarat,Junagarh,Mangrol,Groundnut,G20,FAQ,16/04/2025,5125,5150,5140
+Gujarat,Junagarh,Mangrol,Wheat,"Rajasthan Tukdi",FAQ,16/04/2025,2550,2650,2625
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Brinjal,Brinjal,FAQ,16/04/2025,200,2000,1100
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Guar,Gwar,FAQ,16/04/2025,2100,8000,5050
+Gujarat,Sabarkantha,Modasa,"Castor Seed","Castor seed",FAQ,16/04/2025,5800,6050,6050
+Gujarat,Sabarkantha,Modasa,"Kabuli Chana(Chickpeas-White)",Other,FAQ,16/04/2025,5000,10510,10510
+Gujarat,Surat,Mahuva(Anaval),"Pointed gourd (Parval)",Other,FAQ,16/04/2025,3400,3600,3500
+Gujarat,Surat,Surat,Beetroot,Other,FAQ,16/04/2025,800,1200,1000
+Gujarat,Surat,Surat,"Bottle gourd",Other,FAQ,16/04/2025,1500,3000,2250
+Gujarat,Surat,Surat,Capsicum,Other,FAQ,16/04/2025,1500,3300,2400
+Gujarat,Surat,Surat,"Cluster beans",Other,FAQ,16/04/2025,4500,7500,6000
+Gujarat,Surat,Surat,"Groundnut pods (raw)",Other,FAQ,16/04/2025,4500,5500,5000
+Gujarat,Surat,Surat,"Indian Beans (Seam)",Other,FAQ,16/04/2025,3000,5500,4250
+Gujarat,Surat,Surat,"Pegeon Pea (Arhar Fali)",Other,FAQ,16/04/2025,4500,10000,7250
+Gujarat,Surat,Surat,Potato,Other,FAQ,16/04/2025,500,1800,1150
+Gujarat,Surat,Surat,"Sweet Potato",Other,FAQ,16/04/2025,1300,2500,1900
+Gujarat,Valsad,Pardi(Ugvada),Chikoos(Sapota),Other,Large,16/04/2025,1800,2000,2000
+Gujarat,Valsad,Pardi(Vapi),Chikoos(Sapota),Other,Large,16/04/2025,1800,2000,2000
+Haryana,Gurgaon,Gurgaon,Cauliflower,Other,FAQ,16/04/2025,1000,2000,1500
+Haryana,Gurgaon,Gurgaon,Onion,Other,Non-FAQ,16/04/2025,800,1000,900
+Haryana,Gurgaon,Gurgaon,Orange,Other,Large,16/04/2025,7000,9000,8000
+Haryana,Gurgaon,Gurgaon,Potato,Other,Non-FAQ,16/04/2025,800,1000,900
+Haryana,Hissar,Uklana,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,800,1000,1000
+Haryana,Kurukshetra,Pipli,Wheat,Wheat,FAQ,16/04/2025,2425,2426,2425
+Haryana,Mahendragarh-Narnaul,Narnaul,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2500,3000,3000
+Haryana,Mahendragarh-Narnaul,Narnaul,Cauliflower,Cauliflower,FAQ,16/04/2025,800,1000,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,Chikoos(Sapota),Sapota,Medium,16/04/2025,3000,3000,3000
+Haryana,Mahendragarh-Narnaul,Narnaul,Coriander(Leaves),Coriander,FAQ,16/04/2025,1500,3000,2000
+Haryana,Mahendragarh-Narnaul,Narnaul,Garlic,Garlic,FAQ,16/04/2025,8000,8000,8000
+Haryana,Mahendragarh-Narnaul,Narnaul,Potato,Potato,FAQ,16/04/2025,1200,1200,1200
+Haryana,Mahendragarh-Narnaul,Narnaul,"Tender Coconut","Tender Coconut",Medium,16/04/2025,5000,5000,5000
+Haryana,Mahendragarh-Narnaul,Narnaul,Tomato,Tomato,Non-FAQ,16/04/2025,800,800,800
+Haryana,Mewat,FerozpurZirkha(Nagina),Cauliflower,Other,FAQ,16/04/2025,1000,1400,1200
+Haryana,Mewat,FerozpurZirkha(Nagina),Potato,Other,FAQ,16/04/2025,1000,1400,1200
+Haryana,Panipat,Panipat,Brinjal,"Arkasheela Mattigulla",FAQ,16/04/2025,600,1000,800
+Haryana,Panipat,Panipat,Pomegranate,Pomogranate,Medium,16/04/2025,8000,9000,8500
+Haryana,Panipat,Panipat,Potato,Other,FAQ,16/04/2025,800,1000,900
+Haryana,Panipat,Panipat,Wheat,Other,FAQ,16/04/2025,2425,2425,2425
+Haryana,Rohtak,Meham,Brinjal,Other,FAQ,16/04/2025,1000,1000,1000
+Haryana,Rohtak,Meham,Chikoos(Sapota),Sapota,Medium,16/04/2025,2200,2200,2200
+Haryana,Rohtak,Meham,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,1000,1000
+Haryana,Rohtak,Meham,Potato,Other,FAQ,16/04/2025,1000,1000,1000
+Haryana,Rohtak,Meham,Tomato,Deshi,FAQ,16/04/2025,800,800,800
+Haryana,Sonipat,Gohana,Cucumbar(Kheera),Other,FAQ,16/04/2025,1000,3000,2000
+Haryana,"Yamuna Nagar",Chhachrauli,Capsicum,Other,FAQ,16/04/2025,1200,1200,1200
+Haryana,"Yamuna Nagar",Chhachrauli,Cauliflower,Cauliflower,FAQ,16/04/2025,600,2000,700
+Haryana,"Yamuna Nagar",Chhachrauli,"Onion Green",Other,FAQ,16/04/2025,1000,1000,1000
+"Himachal Pradesh",Bilaspur,Bilaspur,Pineapple,Other,Medium,16/04/2025,4500,5500,5000
+"Himachal Pradesh",Bilaspur,Bilaspur,Tomato,Local,FAQ,16/04/2025,1200,1800,1500
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Cauliflower,Cauliflower,FAQ,16/04/2025,2000,2600,2300
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Orange,Medium,Medium,16/04/2025,11000,11500,11000
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Pomegranate,Other,Medium,16/04/2025,12000,14000,13000
+"Himachal Pradesh",Kangra,Palampur,Beetroot,Beetroot,FAQ,16/04/2025,3500,4000,3700
+"Himachal Pradesh",Kangra,Palampur,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,2000,2100,2050
+"Himachal Pradesh",Kangra,Palampur,"French Beans (Frasbean)",Other,FAQ,16/04/2025,4000,4500,4200
+"Himachal Pradesh",Kangra,Palampur,Papaya,Other,Medium,16/04/2025,4000,5000,4500
+"Himachal Pradesh",Kangra,Palampur,"Peas Wet",Other,FAQ,16/04/2025,5000,5200,5100
+"Himachal Pradesh",Kangra,Palampur,Potato,Other,FAQ,16/04/2025,900,1100,1000
+"Himachal Pradesh",Kangra,Palampur,Tinda,Tinda,FAQ,16/04/2025,4000,4500,4200
+"Himachal Pradesh",Kangra,Palampur,Tomato,Tomato,FAQ,16/04/2025,1600,1800,1700
+Karnataka,Bangalore,Ramanagara,Brinjal,Round,FAQ,16/04/2025,1600,2200,2000
+Karnataka,Bangalore,Ramanagara,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,800,1000,900
+Karnataka,Bangalore,Ramanagara,"Knool Khol","Knool Khol",FAQ,16/04/2025,2800,3600,3200
+Karnataka,Bangalore,Ramanagara,"Peas Wet","Peas Wet",FAQ,16/04/2025,11000,12400,12000
+Karnataka,Bangalore,Ramanagara,Tomato,Tomato,FAQ,16/04/2025,800,1200,1000
+Karnataka,Dharwad,Kalagategi,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",FAQ,16/04/2025,7200,7200,7200
+Karnataka,Dharwad,Kalagategi,Paddy(Dhan)(Common),Paddy,FAQ,16/04/2025,2180,2205,2197
+Karnataka,Shimoga,Shimoga,Ginger(Green),"Green Ginger",FAQ,16/04/2025,3000,5000,4000
+Karnataka,Shimoga,Shimoga,"Green Chilli","Green Chilly",FAQ,16/04/2025,3000,4000,3500
+Karnataka,Shimoga,Shimoga,"Methi Seeds",Methiseeds,FAQ,16/04/2025,6900,8500,7700
+Karnataka,Shimoga,Shimoga,Potato,Local,FAQ,16/04/2025,2500,3000,2800
+Karnataka,Shimoga,Shimoga,Rice,Fine,FAQ,16/04/2025,4600,7500,6050
+Kerala,Alappuzha,Aroor,Amphophalus,Amphophalus,FAQ,16/04/2025,6500,6700,6600
+Kerala,Alappuzha,Aroor,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,4200,4400,4300
+Kerala,Alappuzha,Aroor,"Bitter gourd",Other,FAQ,16/04/2025,6500,6700,6600
+Kerala,Alappuzha,Aroor,Capsicum,Other,FAQ,16/04/2025,11000,11300,11200
+Kerala,Alappuzha,Aroor,Cowpea(Veg),Other,FAQ,16/04/2025,4500,4700,4600
+Kerala,Alappuzha,Harippad,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,4000,4500,4000
+Kerala,Alappuzha,Harippad,"Bitter gourd",Other,FAQ,16/04/2025,5000,5500,5000
+Kerala,Alappuzha,Harippad,"Bottle gourd",Other,FAQ,16/04/2025,1000,1400,1000
+Kerala,Ernakulam,"Edackattuvayal  VFPCK",Cowpea(Veg),"Bean Barbati",FAQ,16/04/2025,6800,6800,6800
+Kerala,Ernakulam,"Edackattuvayal  VFPCK",Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2000,2000
+Kerala,Ernakulam,Piravam,"Bottle gourd",Other,FAQ,16/04/2025,2500,3500,3000
+Kerala,Ernakulam,Piravam,"Mango (Raw-Ripe)",Other,FAQ,16/04/2025,6000,7500,7000
+Kerala,Ernakulam,Piravam,"Papaya (Raw)",Other,FAQ,16/04/2025,3000,4500,3500
+Kerala,Ernakulam,Piravam,Pineapple,"Pine Apple",Large,16/04/2025,5000,6000,5500
+Kerala,Ernakulam,Thrippunithura,Banana,Palayamthodan,Large,16/04/2025,3000,5000,3200
+Kerala,Ernakulam,Thrippunithura,"Banana - Green","Banana - Green",FAQ,16/04/2025,5800,7000,6000
+Kerala,Ernakulam,Thrippunithura,Beetroot,Beetroot,FAQ,16/04/2025,3500,6000,3700
+Kerala,Ernakulam,Thrippunithura,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,4000,5000,4200
+Kerala,Ernakulam,Thrippunithura,"Little gourd (Kundru)",Other,FAQ,16/04/2025,4000,5000,4200
+Kerala,Ernakulam,Thrippunithura,Onion,Big,FAQ,16/04/2025,2400,3000,2400
+Kerala,Kannur,Payyannur,Ashgourd,Other,FAQ,16/04/2025,1700,1900,1800
+Kerala,Kannur,Payyannur,Banana,Other,Small,16/04/2025,6300,6500,6400
+Kerala,Kannur,Payyannur,"Coconut Seed","Coconut Seed",FAQ,16/04/2025,5900,6100,6000
+Kerala,Kasargod,Manjeswaram,Amaranthus,Amaranthus,FAQ,16/04/2025,5000,6500,5750
+Kerala,Kasargod,Manjeswaram,Ashgourd,Ashgourd,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kasargod,Manjeswaram,Brinjal,Brinjal,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kasargod,Manjeswaram,Cabbage,Cabbage,FAQ,16/04/2025,2000,3500,2750
+Kerala,Kasargod,Manjeswaram,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,7000,8000,7500
+Kerala,Kasargod,Manjeswaram,Drumstick,Drumstick,FAQ,16/04/2025,15000,17000,16000
+Kerala,Kasargod,Manjeswaram,"Little gourd (Kundru)",Other,FAQ,16/04/2025,5000,6000,5500
+Kerala,Kasargod,Manjeswaram,"Pepper garbled",Other,FAQ,16/04/2025,61000,63000,62000
+Kerala,Kollam,Anchal,Ashgourd,Other,FAQ,16/04/2025,4500,4700,4600
+Kerala,Kollam,Anchal,Banana,"Red Banana",Medium,16/04/2025,5600,5800,5700
+Kerala,Kollam,Anchal,Banana,Robusta,Medium,16/04/2025,4500,4700,4600
+Kerala,Kollam,Anchal,Cucumbar(Kheera),Other,FAQ,16/04/2025,2700,2900,2800
+Kerala,Kollam,Anchal,Snakeguard,Snakeguard,FAQ,16/04/2025,3700,3900,3800
+Kerala,Kollam,Anchal,Tapioca,Other,FAQ,16/04/2025,2900,3100,3000
+Kerala,Kottayam,Athirampuzha,Drumstick,Drumstick,FAQ,16/04/2025,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,"French Beans (Frasbean)","French Beans (Frasbean)",FAQ,16/04/2025,6400,6600,6500
+Kerala,Kottayam,Athirampuzha,Lemon,Other,FAQ,16/04/2025,9300,9500,9400
+Kerala,Kottayam,Athirampuzha,Onion,Onion,FAQ,16/04/2025,4400,4600,4500
+Kerala,Kottayam,Athirampuzha,Potato,Potato,FAQ,16/04/2025,2800,3000,2900
+Kerala,Kottayam,Ettumanoor,Banana,"Banana - Ripe",Medium,16/04/2025,5700,6000,5800
+Kerala,Kottayam,Ettumanoor,Brinjal,Other,FAQ,16/04/2025,3200,3500,3300
+Kerala,Kottayam,Ettumanoor,Carrot,Carrot,FAQ,16/04/2025,3400,3800,3600
+Kerala,Kottayam,Ettumanoor,"Green Chilli","Green Chilly",FAQ,16/04/2025,3200,3600,3400
+Kerala,Kottayam,Kuruppanthura,Ashgourd,Ashgourd,FAQ,16/04/2025,1700,2200,2000
+Kerala,Kottayam,Kuruppanthura,"Banana - Green","Banana - Green",FAQ,16/04/2025,6000,7600,7000
+Kerala,Kottayam,Kuruppanthura,Colacasia,Other,FAQ,16/04/2025,7600,8800,8000
+Kerala,Kottayam,Pampady,Amaranthus,Amaranthus,FAQ,16/04/2025,3000,4500,3500
+Kerala,Kottayam,Pampady,Brinjal,Brinjal,FAQ,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Pampady,"Elephant Yam (Suran)",Other,FAQ,16/04/2025,7000,8000,7500
+Kerala,Kottayam,Pampady,"Indian Beans (Seam)",Other,FAQ,16/04/2025,5500,6500,6000
+Kerala,Kottayam,Pampady,"Little gourd (Kundru)",Other,FAQ,16/04/2025,2500,3500,3000
+Kerala,Kottayam,Pampady,Tapioca,Tapioca,FAQ,16/04/2025,3000,3500,3200
+Kerala,Kottayam,Pampady,Tomato,Other,Non-FAQ,16/04/2025,2800,4000,3500
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Palayamthodan,Medium,16/04/2025,3000,3400,3200
+Kerala,Kozhikode(Calicut),Kallachi,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,2800,3200,3000
+Kerala,Kozhikode(Calicut),Kallachi,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,4800,5200,5000
+Kerala,Kozhikode(Calicut),Kallachi,Ginger(Green),"Green Ginger",FAQ,16/04/2025,5800,6200,6000
+Kerala,Kozhikode(Calicut),Kallachi,Onion,Other,Non-FAQ,16/04/2025,5800,6200,6000
+Kerala,Kozhikode(Calicut),Kallachi,Pumpkin,Pumpkin,FAQ,16/04/2025,1400,1800,1600
+Kerala,Kozhikode(Calicut),Mukkom,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,2000,2400,2200
+Kerala,Kozhikode(Calicut),Mukkom,Carrot,Carrot,FAQ,16/04/2025,4000,4500,4200
+Kerala,Kozhikode(Calicut),Mukkom,"Green Chilli","Green Chilly",FAQ,16/04/2025,4200,4500,4300
+Kerala,Kozhikode(Calicut),Mukkom,Snakeguard,Snakeguard,FAQ,16/04/2025,3000,3400,3200
+Kerala,Kozhikode(Calicut),Palayam,Amaranthus,Other,FAQ,16/04/2025,1500,1500,1500
+Kerala,Kozhikode(Calicut),Palayam,Ashgourd,Other,FAQ,16/04/2025,800,800,800
+Kerala,Kozhikode(Calicut),Palayam,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2300,2300,2300
+Kerala,Kozhikode(Calicut),Palayam,Carrot,Other,FAQ,16/04/2025,2900,2900,2900
+Kerala,Kozhikode(Calicut),Palayam,"Cluster beans",Other,FAQ,16/04/2025,2200,2200,2200
+Kerala,Kozhikode(Calicut),Palayam,Ginger(Green),Other,FAQ,16/04/2025,3500,3500,3500
+Kerala,Kozhikode(Calicut),Quilandy,Beetroot,Other,FAQ,16/04/2025,2800,3100,3000
+Kerala,Kozhikode(Calicut),Quilandy,"Bottle gourd",Other,FAQ,16/04/2025,2400,2500,2500
+Kerala,Kozhikode(Calicut),Quilandy,Coriander(Leaves),Other,FAQ,16/04/2025,6800,7000,7000
+Kerala,Kozhikode(Calicut),Quilandy,Drumstick,Other,FAQ,16/04/2025,3800,4100,4000
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,5500,5800,5800
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Carrot,Carrot,FAQ,16/04/2025,2900,3200,3200
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1400,1700,1700
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Drumstick,Drumstick,FAQ,16/04/2025,3200,3500,3500
+Kerala,Malappuram,Kottakkal,Amphophalus,Other,FAQ,16/04/2025,5800,6000,5900
+Kerala,Malappuram,Kottakkal,Beans,Other,FAQ,16/04/2025,7200,7400,7300
+Kerala,Malappuram,Kottakkal,Cucumbar(Kheera),Other,FAQ,16/04/2025,2300,2500,2400
+Kerala,Malappuram,Kottakkal,"Mousambi(Sweet Lime)",Mosambi-Organic,Large,16/04/2025,3800,4000,3900
+Kerala,Malappuram,Kottakkal,Orange,Other,Large,16/04/2025,8300,8500,8400
+Kerala,Malappuram,Kottakkal,"Papaya (Raw)",Other,FAQ,16/04/2025,2400,2600,2500
+Kerala,Malappuram,Kottakkal,Pumpkin,Other,FAQ,16/04/2025,1000,1200,1100
+Kerala,Malappuram,"Othayi  VFPCK",Banana,"Nendra Bale",Large,16/04/2025,0,0,5300
+Kerala,Palakad,"Vaniyamkulam  VFPCK","Banana - Green","Banana - Green",FAQ,16/04/2025,5900,6100,6000
+Kerala,Pathanamthitta,"Erath  VFPCK",Banana,"Nendra Bale",Large,16/04/2025,2000,9000,6000
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Banana,Robusta,Large,16/04/2025,2000,2900,2200
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK",Ginger(Green),"Green Ginger",FAQ,16/04/2025,8000,12000,11100
+Kerala,Thirssur,Thrissur,Banana,Palayamthodan,Medium,16/04/2025,2500,3000,2800
+Kerala,Thirssur,Thrissur,Cabbage,Cabbage,FAQ,16/04/2025,1200,1400,1200
+Kerala,Thirssur,Thrissur,"Green Chilli","Green Chilly",FAQ,16/04/2025,2800,3000,3000
+Kerala,Thirssur,Thrissur,Potato,Potato,FAQ,16/04/2025,2800,3000,3000
+Kerala,Thirssur,Thrissur,Tomato,Tomato,FAQ,16/04/2025,1800,2000,1900
+Kerala,Thiruvananthapuram,Parassala,Banana,"Red Banana",Medium,16/04/2025,6000,6200,6000
+Kerala,Thiruvananthapuram,Parassala,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,4800,5000,4800
+Kerala,Thiruvananthapuram,Pothencode,Amaranthus,Amaranthus,FAQ,16/04/2025,8000,8500,8000
+Kerala,Thiruvananthapuram,Pothencode,Brinjal,Brinjal,FAQ,16/04/2025,4800,5000,4800
+Kerala,Thiruvananthapuram,Pothencode,Capsicum,Capsicum,FAQ,16/04/2025,7000,7500,7000
+Kerala,Thiruvananthapuram,Pothencode,Cauliflower,Cauliflower,FAQ,16/04/2025,5000,5500,5000
+Kerala,Thiruvananthapuram,Pothencode,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,4500,4800,4500
+Kerala,Thiruvananthapuram,Vamanapuram,Banana,Other,Medium,16/04/2025,7500,8000,8000
+Kerala,Wayanad,Pulpally,Banana,Other,Medium,16/04/2025,4800,5000,4900
+Kerala,Wayanad,Pulpally,Cowpea(Veg),Other,FAQ,16/04/2025,3200,3400,3300
+Kerala,Wayanad,Pulpally,Ginger(Dry),Other,FAQ,16/04/2025,1840,1860,1850
+Kerala,Wayanad,Pulpally,Rubber,Other,FAQ,16/04/2025,18800,19000,18900
+"Madhya Pradesh",Badwani,Anjad,Maize,Yellow,FAQ,16/04/2025,20,2000,2000
+"Madhya Pradesh",Badwani,Khetia,Maize,Yellow,FAQ,16/04/2025,1975,2000,2000
+"Madhya Pradesh",Chhatarpur,Chhatarpur,Mustard,Sarson(Black),FAQ,16/04/2025,5690,5690,5690
+"Madhya Pradesh",Dewas,Dewas,Wheat,Wheat,FAQ,16/04/2025,2380,2450,2400
+"Madhya Pradesh",Dewas,Loharda,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5101,5504,5504
+"Madhya Pradesh",Dhar,Dhar,Wheat,Lokwan,FAQ,16/04/2025,2600,2600,2600
+"Madhya Pradesh",Dhar,Dhar,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2475,2475,2475
+"Madhya Pradesh",Dhar,Manawar,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2500,2500,2500
+"Madhya Pradesh",Indore,Indore,Garlic,Garlic,FAQ,16/04/2025,1500,2825,2825
+"Madhya Pradesh",Indore,Indore,Wheat,"Malwa Shakti",FAQ,16/04/2025,2530,2555,2540
+"Madhya Pradesh",Jabalpur,Sehora,Wheat,"Mill Quality",FAQ,16/04/2025,2400,2400,2400
+"Madhya Pradesh",Katni,Katni,Wheat,"Mill Quality",FAQ,16/04/2025,2320,2425,2425
+"Madhya Pradesh",Khandwa,Harsood,Maize,Local,FAQ,16/04/2025,2000,2000,2000
+"Madhya Pradesh",Khargone,Bhikangaon,Maize,Local,FAQ,16/04/2025,2011,2011,2011
+"Madhya Pradesh",Khargone,Bhikangaon,Maize,Yellow,FAQ,16/04/2025,1975,2011,2011
+"Madhya Pradesh",Khargone,Karhi,"Kabuli Chana(Chickpeas-White)","Dollar Gram",FAQ,16/04/2025,8400,9170,9170
+"Madhya Pradesh",Khargone,Karhi,Maize,Local,FAQ,16/04/2025,2100,2135,2135
+"Madhya Pradesh",Mandla,Mandla,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2200,2200,2200
+"Madhya Pradesh",Mandla,Nainpur,Wheat,Wheat,Non-FAQ,16/04/2025,2400,2400,2400
+"Madhya Pradesh",Mandsaur,Shamgarh,Wheat,Wheat,FAQ,16/04/2025,2350,2350,2350
+"Madhya Pradesh",Narsinghpur,Narsinghpur,Wheat,"Mill Quality",FAQ,16/04/2025,2380,2450,2400
+"Madhya Pradesh",Raisen,Obedullaganj,Linseed,Flaxseed,FAQ,16/04/2025,6926,6926,6926
+"Madhya Pradesh",Rajgarh,Jeerapur,Wheat,Wheat,FAQ,16/04/2025,2375,2410,2410
+"Madhya Pradesh",Ratlam,Sailana,Wheat,Wheat,Non-FAQ,16/04/2025,2600,2600,2600
+"Madhya Pradesh",Sagar,Garhakota,"Green Peas",Pea,FAQ,16/04/2025,3200,3200,3200
+"Madhya Pradesh",Sehore,Nasrullaganj,Maize,Local,Non-FAQ,16/04/2025,2030,2071,2071
+"Madhya Pradesh",Seoni,Keolari,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2350,2350,2350
+"Madhya Pradesh",Shajapur,Agar,Wheat,Wheat,FAQ,16/04/2025,2425,2815,2815
+"Madhya Pradesh",Ujjain,Badnagar,Wheat,Wheat,FAQ,16/04/2025,2300,2300,2300
+Maharashtra,Ahmednagar,Rahata,Beetroot,Other,Local,16/04/2025,1000,1000,1000
+Maharashtra,Ahmednagar,Rahata,Cucumbar(Kheera),Other,Local,16/04/2025,300,750,500
+Maharashtra,Ahmednagar,Rahata,Ginger(Green),Other,Local,16/04/2025,2500,3500,3000
+Maharashtra,Ahmednagar,Rahata,"Onion Green",Other,Local,16/04/2025,12,12,12
+Maharashtra,Ahmednagar,Rahata,Ridgeguard(Tori),Other,Local,16/04/2025,2500,2500,2500
+Maharashtra,Nagpur,Kalmeshwar,Tomato,Other,Local,16/04/2025,410,800,620
+Maharashtra,Pune,Khed(Chakan),"Bhindi(Ladies Finger)",Other,Local,16/04/2025,2000,3500,2750
+Maharashtra,Pune,Khed(Chakan),"Chilly Capsicum",Other,Local,16/04/2025,3000,4000,3500
+Maharashtra,Pune,Khed(Chakan),Drumstick,Other,Local,16/04/2025,1500,2500,2000
+Maharashtra,Pune,Khed(Chakan),"Green Chilli",Other,Local,16/04/2025,2500,3500,3000
+Maharashtra,Pune,Pune,"Bitter gourd",Other,Local,16/04/2025,2000,3500,2750
+Maharashtra,Pune,Pune,Chikoos(Sapota),Other,Local,16/04/2025,2000,5000,3500
+Maharashtra,Pune,Pune,"Chilly Capsicum",Other,Local,16/04/2025,1000,3500,2250
+Maharashtra,Pune,Pune,Drumstick,Other,Local,16/04/2025,1000,3000,2000
+Maharashtra,Pune,Pune,Guar,Other,Local,16/04/2025,2000,5000,3500
+Maharashtra,Pune,Pune,Mint(Pudina),Other,Local,16/04/2025,2,5,3
+Maharashtra,Pune,Pune,"Pointed gourd (Parval)",Other,Local,16/04/2025,2000,3000,2500
+Maharashtra,Pune,Pune,Potato,Local,Local,16/04/2025,1000,2000,1500
+Maharashtra,Pune,Pune,Ridgeguard(Tori),Other,Local,16/04/2025,1000,3000,2000
+Maharashtra,Pune,Pune,"Tender Coconut",Other,Local,16/04/2025,1000,1600,1300
+Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,Local,16/04/2025,2000,2000,2000
+Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,Local,16/04/2025,7,10,9
+Maharashtra,Satara,Patan,"Bhindi(Ladies Finger)",Other,Local,16/04/2025,2000,2500,2250
+Maharashtra,Satara,Patan,"Bitter gourd",Other,Local,16/04/2025,2000,2500,2250
+Maharashtra,Satara,Patan,"Green Chilli",Other,Local,16/04/2025,2000,3000,2500
+Maharashtra,Thane,Palghar,Wheat,Other,FAQ,16/04/2025,3320,3320,3320
+Nagaland,Kohima,Kohima,Pumpkin,Other,FAQ,16/04/2025,4000,4200,4100
+Nagaland,Tsemenyu,Tsemenyu,Banana,Banana-Organic,Medium,16/04/2025,4000,5000,4500
+Odisha,Balasore,Jaleswar,Brinjal,Other,FAQ,16/04/2025,1300,1700,1500
+Odisha,Balasore,Jaleswar,Potato,Other,FAQ,16/04/2025,1000,1400,1200
+Odisha,Bargarh,Sohela,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3600,3800,3700
+Odisha,Bargarh,Sohela,Brinjal,Other,FAQ,16/04/2025,1500,1700,1600
+Odisha,Bhadrak,Chandabali,Potato,Other,FAQ,16/04/2025,1320,1700,1500
+Odisha,Boudh,Boudh,Cucumbar(Kheera),Other,FAQ,16/04/2025,3500,4500,4000
+Odisha,Boudh,Boudh,"Water Melon",Other,Small,16/04/2025,500,1000,800
+Odisha,Boudh,Khunthabandha,Cauliflower,Other,FAQ,16/04/2025,2500,3500,3000
+Odisha,Boudh,Khunthabandha,Pumpkin,Other,FAQ,16/04/2025,800,1200,1000
+Odisha,Boudh,Khunthabandha,Tomato,Other,Non-FAQ,16/04/2025,500,1000,700
+Odisha,Dhenkanal,Hindol,Beans,Other,FAQ,16/04/2025,3000,3500,3200
+Odisha,Dhenkanal,Hindol,Brinjal,Brinjal,FAQ,16/04/2025,2000,3000,2500
+Odisha,Dhenkanal,Hindol,Potato,Potato,Non-FAQ,16/04/2025,1700,2000,1800
+Odisha,Dhenkanal,Hindol,Pumpkin,Pumpkin,FAQ,16/04/2025,1200,1400,1300
+Odisha,Dhenkanal,Kamakhyanagar,Brinjal,Brinjal,FAQ,16/04/2025,4000,4500,4000
+Odisha,Dhenkanal,Kamakhyanagar,Potato,Potato,Non-FAQ,16/04/2025,1900,2100,2000
+Odisha,Gajapati,Parlakhemundi,Brinjal,Other,FAQ,16/04/2025,1300,1500,1400
+Odisha,Jagatsinghpur,Rahama,Rice,Other,FAQ,16/04/2025,2800,6000,4000
+Odisha,Kalahandi,Mukhiguda,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,1500,2400,1950
+Odisha,Puri,Nimapara,"Green Chilli",Other,FAQ,16/04/2025,1000,2000,1500
+Odisha,Sundergarh,Panposh,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,4200,4600,4500
+Odisha,Sundergarh,Panposh,Brinjal,Other,FAQ,16/04/2025,1800,2200,2100
+Odisha,Sundergarh,Panposh,Carrot,Other,FAQ,16/04/2025,3000,3400,3300
+Odisha,Sundergarh,Panposh,Cucumbar(Kheera),Other,FAQ,16/04/2025,3000,3400,3300
+Odisha,Sundergarh,Sargipali,Pumpkin,Pumpkin,FAQ,16/04/2025,1000,1500,1200
+Punjab,Amritsar,Chogawan,Cauliflower,Cauliflower,FAQ,16/04/2025,600,800,700
+Punjab,Bhatinda,"Bhagta Bhai Ka","Green Chilli",Other,FAQ,16/04/2025,3500,3500,3500
+Punjab,Bhatinda,"Bhagta Bhai Ka",Potato,Other,FAQ,16/04/2025,800,800,800
+Punjab,Fazilka,Fazilka,Banana,Other,Medium,16/04/2025,2000,3000,2500
+Punjab,Fazilka,Fazilka,Ginger(Green),Other,FAQ,16/04/2025,5000,6000,5500
+Punjab,Fazilka,Fazilka,"Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,2000,3000,2500
+Punjab,Fazilka,Fazilka,Papaya,Other,Medium,16/04/2025,2000,3000,2500
+Punjab,Fazilka,Jalalabad,Brinjal,Other,FAQ,16/04/2025,1300,1400,1350
+Punjab,Fazilka,Jalalabad,Cabbage,Other,FAQ,16/04/2025,350,400,350
+Punjab,Fazilka,Jalalabad,Coriander(Leaves),Coriander,FAQ,16/04/2025,1000,1000,1000
+Punjab,Fazilka,Jalalabad,Ginger(Green),Other,FAQ,16/04/2025,5000,5100,5000
+Punjab,Fazilka,Jalalabad,Papaya,Other,Large,16/04/2025,3700,3900,3800
+Punjab,Fazilka,Jalalabad,Potato,Other,FAQ,16/04/2025,400,550,450
+Punjab,Fazilka,Jalalabad,Raddish,Other,FAQ,16/04/2025,500,500,500
+Punjab,Fazilka,Jalalabad,"Water Melon",Other,Large,16/04/2025,1600,1700,1650
+Punjab,Gurdaspur,Gurdaspur,Capsicum,Other,FAQ,16/04/2025,800,1000,900
+Punjab,Gurdaspur,Gurdaspur,Kinnow,Other,Medium,16/04/2025,4000,4500,4200
+Punjab,Gurdaspur,Gurdaspur,Papaya,Other,Medium,16/04/2025,3000,3500,3200
+Punjab,Gurdaspur,Gurdaspur,Raddish,Other,FAQ,16/04/2025,700,900,800
+Punjab,Gurdaspur,Kalanaur,Cabbage,Cabbage,FAQ,16/04/2025,100,100,100
+Punjab,Hoshiarpur,"Garh Shankar",Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,700,1000,800
+Punjab,Hoshiarpur,"Garh Shankar",Tomato,Deshi,Non-FAQ,16/04/2025,1400,1700,1600
+Punjab,Hoshiarpur,"Garh Shankar","Water Melon",Other,Medium,16/04/2025,1500,1800,1700
+Punjab,Hoshiarpur,"GarhShankar (Kotfatuhi)",Apple,American,Medium,16/04/2025,7500,9000,8000
+Punjab,Hoshiarpur,Mukerian,"Green Chilli",Other,FAQ,16/04/2025,2500,4500,3500
+Punjab,Jalandhar,Mehatpur,Tomato,Deshi,Non-FAQ,16/04/2025,2500,2500,2500
+Punjab,Jalandhar,"Phillaur(Apra Mandi)","Bottle gourd",Other,FAQ,16/04/2025,1500,1500,1500
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Cauliflower,Other,FAQ,16/04/2025,1000,1000,1000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Cucumbar(Kheera),Other,FAQ,16/04/2025,1000,1000,1000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Onion,Other,FAQ,16/04/2025,1800,1800,1800
+Punjab,Ludhiana,Ludhiana,Ashgourd,Other,FAQ,16/04/2025,500,900,700
+Punjab,Ludhiana,Ludhiana,Beetroot,Other,FAQ,16/04/2025,500,1000,700
+Punjab,Ludhiana,Ludhiana,Carrot,Other,FAQ,16/04/2025,500,1100,800
+Punjab,Ludhiana,Ludhiana,Lemon,Other,FAQ,16/04/2025,3000,6000,5000
+Punjab,Ludhiana,Ludhiana,"Mousambi(Sweet Lime)",Other,Medium,16/04/2025,2000,3500,2700
+Punjab,Ludhiana,Ludhiana,Potato,Other,FAQ,16/04/2025,100,800,500
+Punjab,Ludhiana,Ludhiana,Tomato,Other,FAQ,16/04/2025,500,1100,800
+Punjab,Ludhiana,Sahnewal,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,1000,1000
+Punjab,Sangrur,Ahmedgarh,Banana,Other,Medium,16/04/2025,2600,2700,2600
+Punjab,Sangrur,Ahmedgarh,"Squash(Chappal Kadoo)",Other,FAQ,16/04/2025,700,800,700
+Punjab,Tarntaran,Patti,Apple,Other,Medium,16/04/2025,7000,8000,7500
+Punjab,Tarntaran,Patti,Brinjal,Other,FAQ,16/04/2025,1200,1500,1400
+Punjab,Tarntaran,Patti,Cauliflower,Other,FAQ,16/04/2025,1500,2000,1800
+Punjab,Tarntaran,Patti,Pumpkin,Other,FAQ,16/04/2025,1200,1600,1400
+Punjab,Tarntaran,Tarantaran,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2600,3000,2800
+Punjab,Tarntaran,Tarantaran,Carrot,Other,FAQ,16/04/2025,1600,1800,1700
+Punjab,Tarntaran,Tarantaran,Ginger(Dry),Big/Thick,FAQ,16/04/2025,5000,6000,5500
+Punjab,Tarntaran,Tarantaran,Pumpkin,Other,FAQ,16/04/2025,1000,1500,1200
+Punjab,Tarntaran,Tarantaran,Tomato,Other,FAQ,16/04/2025,1200,1500,1300
+Rajasthan,Beawar,Beawar,"Bajra(Pearl Millet/Cumbu)",Bold,FAQ,16/04/2025,2400,2600,2500
+Rajasthan,Beawar,Beawar,"Methi Seeds",Methiseeds,FAQ,16/04/2025,4600,4700,4650
+Rajasthan,Beawar,Beawar,Taramira,Other,FAQ,16/04/2025,5500,5600,5550
+Rajasthan,Dausa,Lalsot,Soanf,Other,FAQ,16/04/2025,7000,18125,14500
+Rajasthan,Dungarpur,Dungarpur,Potato,"(Red Nanital)",FAQ,16/04/2025,1200,1500,1350
+Rajasthan,Dungarpur,Dungarpur,Tomato,Tomato,FAQ,16/04/2025,700,1200,1000
+Rajasthan,Ganganagar,Suratgarh,"Barley (Jau)",Other,FAQ,16/04/2025,1970,2132,2025
+Rajasthan,Ganganagar,Suratgarh,Onion,"1st Sort",FAQ,16/04/2025,1400,1600,1500
+Rajasthan,Ganganagar,Suratgarh,Tomato,Deshi,FAQ,16/04/2025,650,800,700
+Rajasthan,Hanumangarh,Rawatsar,Potato,"(Red Nanital)",FAQ,16/04/2025,450,650,550
+Rajasthan,"Jaipur Rural",Bassi,"Bengal Gram(Gram)(Whole)",999,Non-FAQ,16/04/2025,4500,5325,4912
+Rajasthan,"Jaipur Rural",Bassi,"Guar Seed(Cluster Beans Seed)",Other,FAQ,16/04/2025,4600,4770,4685
+Rajasthan,"Jaipur Rural",Bassi,Tomato,Other,Non-FAQ,16/04/2025,700,1000,850
+Rajasthan,Jalore,Jalore,"Bottle gourd",Other,FAQ,16/04/2025,800,1000,900
+Rajasthan,Jalore,Jalore,Cabbage,Other,FAQ,16/04/2025,800,1000,900
+Rajasthan,Jalore,Jalore,Ginger(Green),Other,FAQ,16/04/2025,4000,4500,4300
+Rajasthan,Jalore,Jalore,Potato,Other,FAQ,16/04/2025,1000,1200,1100
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Apple,Other,Medium,16/04/2025,4000,10000,7000
+Rajasthan,Jodhpur,"Jodhpur (F&V)","Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,1000,2000,1500
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Pineapple,Other,Medium,16/04/2025,1000,2000,1500
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Potato,Other,FAQ,16/04/2025,500,900,700
+Rajasthan,"Jodhpur Rural","Ositan Mathania","Cummin Seed(Jeera)",Other,FAQ,16/04/2025,23000,25000,24000
+Rajasthan,"Jodhpur Rural","Ositan Mathania",Wheat,Local,FAQ,16/04/2025,2700,2900,2800
+Rajasthan,"Kotputli- Behror",Kotputli,Potato,"(Red Nanital)",FAQ,16/04/2025,850,1050,950
+Rajasthan,"Kotputli- Behror",Kotputli,Tomato,Deshi,FAQ,16/04/2025,500,700,600
+Telangana,Hyderabad,"Mahboob Manison",Onion,"1st Sort",Non-FAQ,16/04/2025,400,1400,1200
+Telangana,Hyderabad,"Mahboob Manison",Onion,"2nd Sort",FAQ,16/04/2025,1000,1300,1200
+Telangana,Karimnagar,Gangadhara,Paddy(Dhan)(Common),"I.R. 64",FAQ,16/04/2025,2300,2300,2300
+Telangana,Karimnagar,Mallial(Cheppial),Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2320,2320,2320
+Telangana,Nalgonda,Devarkonda(Mallepalli),Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2300,2300,2300
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3500,3500,3500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Bottle gourd","Bottle Gourd",FAQ,16/04/2025,900,900,900
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Carrot,Carrot,FAQ,16/04/2025,1800,1800,1800
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Cauliflower,"African Sarson",FAQ,16/04/2025,1800,1800,1800
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Potato,"(Red Nanital)",FAQ,16/04/2025,2500,2500,2500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Snakeguard,Other,FAQ,16/04/2025,1500,1500,1500
+Tripura,"North Tripura",Dasda,Potato,Local,FAQ,16/04/2025,1500,2000,1750
+Tripura,Sepahijala,Sonamura,Brinjal,Round/Long,FAQ,16/04/2025,2500,3000,2700
+Tripura,Sepahijala,Sonamura,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,4000,4500,4200
+Tripura,Sepahijala,Sonamura,Potato,Local,FAQ,16/04/2025,1700,1900,1800
+Tripura,Sepahijala,Sonamura,"Sweet Potato","Sweet Potato",FAQ,16/04/2025,2500,2800,2600
+"Uttar Pradesh",Agra,Fatehabad,Ginger(Green),"Green Ginger",FAQ,16/04/2025,2600,2700,2650
+"Uttar Pradesh",Agra,Fatehabad,"Green Chilli","Green Chilly",FAQ,16/04/2025,1200,1250,1220
+"Uttar Pradesh",Aligarh,Charra,Cabbage,Cabbage,FAQ,16/04/2025,1300,1500,1400
+"Uttar Pradesh",Aligarh,Charra,Cauliflower,Cauliflower,FAQ,16/04/2025,1500,1700,1600
+"Uttar Pradesh",Aligarh,Charra,Pumpkin,Pumpkin,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tomato,Hybrid,FAQ,16/04/2025,600,750,660
+"Uttar Pradesh",Badaun,Babrala,Potato,Other,FAQ,16/04/2025,730,750,740
+"Uttar Pradesh",Ballia,Rasda,Tomato,Deshi,FAQ,16/04/2025,675,800,730
+"Uttar Pradesh",Ballia,Vilthararoad,"Arhar Dal(Tur Dal)","Arhar Dal(Tur)",FAQ,16/04/2025,12000,14000,13000
+"Uttar Pradesh",Ballia,Vilthararoad,Banana,Medium,Medium,16/04/2025,1750,1900,1800
+"Uttar Pradesh",Ballia,Vilthararoad,Potato,Desi,Non-FAQ,16/04/2025,1200,1300,1250
+"Uttar Pradesh",Ballia,Vilthararoad,Wheat,Dara,Non-FAQ,16/04/2025,2425,2500,2450
+"Uttar Pradesh",Bijnor,Kiratpur,"Banana - Green","Banana - Green",FAQ,16/04/2025,1300,1400,1350
+"Uttar Pradesh",Bulandshahar,Gulavati,Cauliflower,Cauliflower,FAQ,16/04/2025,1000,1200,1100
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Bulandshahar,Sikarpur,Cabbage,Cabbage,FAQ,16/04/2025,900,1000,950
+"Uttar Pradesh",Bulandshahar,Sikarpur,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,600,800,700
+"Uttar Pradesh",Bulandshahar,Siyana,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,900,1000,950
+"Uttar Pradesh",Bulandshahar,Siyana,Potato,Desi,FAQ,16/04/2025,800,840,820
+"Uttar Pradesh",Bulandshahar,Siyana,Pumpkin,Pumpkin,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Etah,Aliganj,Maize,Hybrid,FAQ,16/04/2025,2250,2265,2255
+"Uttar Pradesh",Etawah,Bharthna,Tomato,Hybrid,FAQ,16/04/2025,790,990,890
+"Uttar Pradesh",Hathras,Shadabad,Onion,Red,FAQ,16/04/2025,1600,1700,1650
+"Uttar Pradesh",Hathras,Shadabad,Tomato,Deshi,FAQ,16/04/2025,1100,1200,1150
+"Uttar Pradesh",Hathras,Sikandraraau,Wheat,Dara,FAQ,16/04/2025,2425,2445,2440
+"Uttar Pradesh","Jalaun (Orai)",Ait,Wheat,Dara,FAQ,16/04/2025,2430,2440,2435
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,"Green Chilli","Green Chilly",FAQ,16/04/2025,2900,2960,2930
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Gur(Jaggery),Pathari,FAQ,16/04/2025,2930,2990,2960
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Onion,Red,FAQ,16/04/2025,2840,2890,2860
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Pumpkin,Pumpkin,FAQ,16/04/2025,1400,1450,1430
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Wheat,Dara,FAQ,16/04/2025,2420,2440,2425
+"Uttar Pradesh",Maharajganj,Anandnagar,Gur(Jaggery),Red,FAQ,16/04/2025,4000,4400,4200
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,1000,1100,1050
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Brinjal,Brinjal,FAQ,16/04/2025,900,1000,950
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Onion,Red,FAQ,16/04/2025,1500,1700,1600
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Potato,Desi,FAQ,16/04/2025,700,900,800
+"Uttar Pradesh",Prayagraj,Ajuha,Potato,Desi,FAQ,16/04/2025,1000,1130,1070
+"Uttar Pradesh",Prayagraj,Ajuha,Tomato,Deshi,FAQ,16/04/2025,550,670,600
+"Uttar Pradesh",Rampur,Tanda(Rampur),Cauliflower,Other,FAQ,16/04/2025,900,940,920
+"Uttar Pradesh",Rampur,Tanda(Rampur),"Sponge gourd",Other,FAQ,16/04/2025,2000,2040,2020
+"Uttar Pradesh",Saharanpur,Gangoh,"Green Chilli","Green Chilly",FAQ,16/04/2025,3500,4000,3800
+"Uttar Pradesh",Saharanpur,Gangoh,Pumpkin,Pumpkin,FAQ,16/04/2025,1000,1100,1050
+"Uttar Pradesh",Sambhal,Bhehjoi,Wood,Eucalyptus,FAQ,16/04/2025,480,500,485
+"Uttar Pradesh",Sambhal,Sambhal,Tomato,Deshi,FAQ,16/04/2025,600,1150,1000
+"Uttar Pradesh",Shravasti,Payagpur,Garlic,Average,FAQ,16/04/2025,5500,6500,6000
+"Uttar Pradesh",Shravasti,Payagpur,Onion,Red,FAQ,16/04/2025,1500,1700,1600
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Banana,Desi(Bontha),Small,16/04/2025,1200,1300,1250
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Potato,Local,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Wood,Eucalyptus,FAQ,16/04/2025,550,650,600
+Uttrakhand,Dehradoon,Vikasnagar,Carrot,Other,FAQ,16/04/2025,700,800,800
+Uttrakhand,Haridwar,"Haridwar Union",Banana,Other,Medium,16/04/2025,1200,1500,1300
+Uttrakhand,Haridwar,"Haridwar Union",Capsicum,Capsicum,FAQ,16/04/2025,1600,2000,1800
+Uttrakhand,Haridwar,"Haridwar Union",Carrot,Other,FAQ,16/04/2025,1700,2000,1800
+Uttrakhand,Haridwar,Roorkee,Beans,"Beans (Whole)",FAQ,16/04/2025,400,600,500
+Uttrakhand,Haridwar,Roorkee,Cucumbar(Kheera),Other,FAQ,16/04/2025,600,800,700
+"West Bengal",Bankura,Bishnupur(Bankura),Potato,Jyoti,FAQ,16/04/2025,1280,1330,1300
+"West Bengal",Bankura,Khatra,Brinjal,Round/Long,FAQ,16/04/2025,1500,2000,1800
+"West Bengal",Bankura,Khatra,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2800,3500,3000
+"West Bengal",Coochbehar,Dinhata,Onion,Onion,FAQ,16/04/2025,2000,2400,2200
+"West Bengal",Coochbehar,Mekhliganj,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2500,3000,2800
+"West Bengal",Coochbehar,Pundibari,"Green Chilli",Other,FAQ,16/04/2025,2200,2400,2300
+"West Bengal",Coochbehar,Pundibari,Potato,Jyoti,FAQ,16/04/2025,1100,1180,1150
+"West Bengal",Coochbehar,Toofanganj,"Green Chilli","Green Chilly",FAQ,16/04/2025,3000,3500,3200
+"West Bengal",Hooghly,Sheoraphuly,Garlic,Other,FAQ,16/04/2025,8000,9000,8500
+"West Bengal",Hooghly,Sheoraphuly,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,16/04/2025,3600,4000,3800
+"West Bengal",Hooghly,Sheoraphuly,Tomato,Other,FAQ,16/04/2025,1000,1200,1100
+"West Bengal",Medinipur(W),Ghatal,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2900,3100,3000
+"West Bengal",Medinipur(W),Ghatal,Onion,Onion,FAQ,16/04/2025,2000,2200,2100
+"West Bengal",Medinipur(W),Ghatal,Paddy(Dhan)(Common),Common,FAQ,16/04/2025,2300,2400,2350
+"West Bengal",Medinipur(W),Ghatal,Potato,Jyoti,FAQ,16/04/2025,1150,1250,1200
+"Andhra Pradesh",Anantapur,Anantapur,"Mousambi(Sweet Lime)",Mousambi,Medium,16/04/2025,300,2200,1400
+"Andhra Pradesh",Guntur,Tenali,Lemon,Lemon,FAQ,16/04/2025,6000,8500,7000
+"Andhra Pradesh",Nellore,Atmakur(SPS),Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2300,2400,2320
+Bihar,Madhubani,Jahajharpur,Onion,Medium,FAQ,16/04/2025,1800,2000,1900
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Ginger(Green),Other,FAQ,16/04/2025,3000,4000,3500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Onion,Other,FAQ,16/04/2025,600,2000,1500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Pumpkin,Other,FAQ,16/04/2025,400,700,600
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,16/04/2025,200,1050,350
+Gujarat,Banaskanth,Dhanera,"Isabgul (Psyllium)",Other,FAQ,16/04/2025,8805,13910,11455
+Gujarat,Banaskanth,Dhanera,Soanf,Soanf,FAQ,16/04/2025,8000,12950,10640
+Gujarat,Bharuch,Jambusar,Cotton,Other,FAQ,16/04/2025,6600,7000,6800
+Gujarat,Bharuch,Jambusar,Maize,Other,FAQ,16/04/2025,2000,2200,2100
+Gujarat,Bharuch,Jambusar(Kaavi),"Bajra(Pearl Millet/Cumbu)",Other,FAQ,16/04/2025,2300,2700,2500
+Gujarat,Bharuch,Jambusar(Kaavi),Jowar(Sorghum),Other,FAQ,16/04/2025,3300,3900,3600
+Gujarat,Bharuch,Jambusar(Kaavi),Maize,Other,FAQ,16/04/2025,2100,2300,2200
+Gujarat,"Chhota Udaipur",Bodeliu,Cotton,"Shanker 6 (B) 30mm FIne",FAQ,16/04/2025,6700,7451,7450
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)",Cabbage,Other,FAQ,16/04/2025,400,500,400
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)",Cucumbar(Kheera),Other,FAQ,16/04/2025,3000,3000,3000
+Gujarat,Gandhinagar,"Mansa(Manas Veg Yard)","Water Melon",Other,Medium,16/04/2025,800,1000,800
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)","Green Chilli","Green Chilly",FAQ,16/04/2025,1000,3000,2000
+Gujarat,Rajkot,"Gondal(Veg.market Gondal)",Lemon,Other,FAQ,16/04/2025,5000,15000,10000
+Gujarat,Sabarkantha,Modasa,Maize,"Hybrid Red (Cattle Feed)",FAQ,16/04/2025,2025,2360,2360
+Gujarat,Sabarkantha,Modasa(Tintoi),Maize,"Hybrid Red (Cattle Feed)",FAQ,16/04/2025,1950,2260,2260
+Gujarat,Surat,Surat,Brinjal,Other,FAQ,16/04/2025,1500,3000,2250
+Gujarat,Surat,Surat,Drumstick,Other,FAQ,16/04/2025,1100,2000,1550
+Gujarat,Surat,Surat,"Elephant Yam (Suran)",Other,FAQ,16/04/2025,5500,6500,6000
+Gujarat,Surat,Surat,"French Beans (Frasbean)",Other,FAQ,16/04/2025,3000,5500,4250
+Gujarat,Surat,Surat,"Green Chilli",Other,FAQ,16/04/2025,2000,4000,3000
+Gujarat,Surat,Surat,Onion,Other,FAQ,16/04/2025,500,1700,1100
+Gujarat,Surat,Surat,"Pointed gourd (Parval)",Other,FAQ,16/04/2025,3000,6000,4500
+Gujarat,Surat,Surat,Ridgeguard(Tori),Other,FAQ,16/04/2025,2000,4500,3250
+Gujarat,Surat,Surat,"Yam (Ratalu)",Other,FAQ,16/04/2025,3500,5500,4500
+Gujarat,Valsad,Pardi(Rohinee),Chikoos(Sapota),Other,Large,16/04/2025,1500,1800,1800
+Haryana,Gurgaon,Gurgaon,Banana,Other,Large,16/04/2025,2000,3000,2500
+Haryana,Gurgaon,Gurgaon,Cabbage,Other,FAQ,16/04/2025,1000,1400,1200
+Haryana,Gurgaon,Gurgaon,Grapes,Other,Large,16/04/2025,7000,9000,8000
+Haryana,Gurgaon,Gurgaon,"Karbuja(Musk Melon)",Other,Large,16/04/2025,2000,3000,2500
+Haryana,Gurgaon,Gurgaon,Onion,Other,FAQ,16/04/2025,1000,2000,1500
+Haryana,Hissar,Uklana,Onion,Onion,FAQ,16/04/2025,1200,1400,1400
+Haryana,Kurukshetra,Babain,Wheat,Local,FAQ,16/04/2025,2425,2430,2425
+Haryana,Kurukshetra,Pehowa,Tomato,Other,Non-FAQ,16/04/2025,1500,1600,1560
+Haryana,Mahendragarh-Narnaul,Narnaul,Apple,Apple,Medium,16/04/2025,12000,12000,12000
+Haryana,Mahendragarh-Narnaul,Narnaul,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,500,1000,800
+Haryana,Mahendragarh-Narnaul,Narnaul,Brinjal,Brinjal,FAQ,16/04/2025,1000,1000,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,Capsicum,Capsicum,FAQ,16/04/2025,2000,2000,2000
+Haryana,Mahendragarh-Narnaul,Narnaul,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,1500,1500
+Haryana,Mahendragarh-Narnaul,Narnaul,"Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,1000,2500,2000
+Haryana,Mahendragarh-Narnaul,Narnaul,"Mousambi(Sweet Lime)",Mousambi,Medium,16/04/2025,3000,3500,3500
+Haryana,Mahendragarh-Narnaul,Narnaul,Spinach,Spinach,FAQ,16/04/2025,500,1000,1000
+Haryana,Mahendragarh-Narnaul,Narnaul,Tinda,Tinda,FAQ,16/04/2025,1500,3000,2500
+Haryana,Mewat,FerozpurZirkha(Nagina),"Bottle gourd",Other,FAQ,16/04/2025,600,800,700
+Haryana,Panipat,Panipat,Cabbage,Other,FAQ,16/04/2025,500,900,700
+Haryana,Panipat,Panipat,Grapes,Other,Medium,16/04/2025,6000,8000,7000
+Haryana,Rohtak,Meham,Onion,Other,FAQ,16/04/2025,1000,1000,1000
+Haryana,Rohtak,Meham,Spinach,Other,FAQ,16/04/2025,800,800,800
+Haryana,Sonipat,Gohana,Chikoos(Sapota),Other,Large,16/04/2025,4000,6000,5000
+Haryana,Sonipat,Gohana,Onion,Other,Non-FAQ,16/04/2025,1000,2000,1200
+Haryana,Sonipat,Gohana,Orange,Other,Large,16/04/2025,6000,8000,7000
+Haryana,Sonipat,Gohana,"Water Melon",Other,Large,16/04/2025,1200,2000,1500
+Haryana,"Yamuna Nagar",Chhachrauli,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,2500,1000
+Haryana,"Yamuna Nagar",Chhachrauli,Methi(Leaves),Other,FAQ,16/04/2025,1200,1200,1200
+Haryana,"Yamuna Nagar",Chhachrauli,Onion,Onion,FAQ,16/04/2025,1700,3000,1700
+Haryana,"Yamuna Nagar",Chhachrauli,"Peas Wet","Peas Wet",FAQ,16/04/2025,4000,4000,4000
+"Himachal Pradesh",Bilaspur,Bilaspur,Banana,Other,Medium,16/04/2025,2500,3200,2900
+"Himachal Pradesh",Bilaspur,Bilaspur,Capsicum,Capsicum,FAQ,16/04/2025,3500,4500,4000
+"Himachal Pradesh",Bilaspur,Bilaspur,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1200,2500,1800
+"Himachal Pradesh",Bilaspur,Bilaspur,Spinach,Other,FAQ,16/04/2025,1400,1900,1600
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Capsicum,Capsicum,FAQ,16/04/2025,2200,2500,2300
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Cauliflower,Local,FAQ,16/04/2025,1000,1600,1400
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Grapes,Green,Medium,16/04/2025,9000,10000,9500
+"Himachal Pradesh",Kangra,Kangra(Baijnath),Spinach,Other,FAQ,16/04/2025,2500,2600,2500
+"Himachal Pradesh",Kangra,Palampur,Apple,Apple,Medium,16/04/2025,14000,16000,15000
+"Himachal Pradesh",Kangra,Palampur,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,5000,5500,5200
+"Himachal Pradesh",Kangra,Palampur,Carrot,Carrot,FAQ,16/04/2025,1800,2200,2000
+"Himachal Pradesh",Kangra,Palampur,"Green Chilli","Green Chilly",FAQ,16/04/2025,3500,4000,3700
+"Himachal Pradesh",Kangra,Palampur,Lemon,Other,FAQ,16/04/2025,13000,14000,13500
+"Himachal Pradesh",Kangra,Palampur,Pineapple,Other,Medium,16/04/2025,4800,5000,4900
+"Himachal Pradesh",Kangra,Palampur,Pumpkin,Other,FAQ,16/04/2025,2000,2200,2100
+"Himachal Pradesh",Kangra,Palampur,"Water Melon",Other,Medium,16/04/2025,1600,2000,1800
+"Jammu and Kashmir",Anantnag,Kulgam,Carrot,Carrot,FAQ,16/04/2025,1100,1200,1150
+"Jammu and Kashmir",Anantnag,Kulgam,Grapes,Black,Large,16/04/2025,7500,8500,8000
+Karnataka,Bangalore,Ramanagara,Ashgourd,Ashgourd,FAQ,16/04/2025,1000,1600,1200
+Karnataka,Bangalore,Ramanagara,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2400,3600,3000
+Karnataka,Bangalore,Ramanagara,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,500,700,600
+Karnataka,Bangalore,Ramanagara,Capsicum,Capsicum,FAQ,16/04/2025,2800,3600,3200
+Karnataka,Bangalore,Ramanagara,Drumstick,Drumstick,FAQ,16/04/2025,2000,4400,3600
+Karnataka,Bangalore,Ramanagara,Raddish,Raddish,FAQ,16/04/2025,1000,2000,1600
+Karnataka,Bangalore,Ramanagara,Seemebadnekai,Seemebadanekai,FAQ,16/04/2025,1600,2200,2000
+Karnataka,Dharwad,Kalagategi,Soyabean,Soyabeen,FAQ,16/04/2025,4100,4450,4217
+Karnataka,Shimoga,Shimoga,Beetroot,Beetroot,FAQ,16/04/2025,800,1000,900
+Karnataka,Shimoga,Shimoga,"Bengal Gram Dal (Chana Dal)","Bengal Gram Dal",FAQ,16/04/2025,7200,7500,7350
+Karnataka,Shimoga,Shimoga,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,1800,2000,1900
+Karnataka,Shimoga,Shimoga,"Corriander seed","Coriander Seed",FAQ,16/04/2025,9200,12200,10700
+Karnataka,Shimoga,Shimoga,Raddish,Raddish,FAQ,16/04/2025,1400,1600,1500
+Karnataka,Shimoga,Shimoga,"Ragi (Finger Millet)",Red,FAQ,16/04/2025,0,0,3900
+Karnataka,Shimoga,Shimoga,Thondekai,Thondekai,FAQ,16/04/2025,1800,2000,1900
+Karnataka,Shimoga,Shimoga,Wheat,"Super Fine",FAQ,16/04/2025,3500,4100,3800
+Kerala,Alappuzha,Aroor,Brinjal,Other,FAQ,16/04/2025,5000,5200,5100
+Kerala,Alappuzha,Aroor,Cabbage,Other,FAQ,16/04/2025,3200,3400,3300
+Kerala,Alappuzha,Aroor,"French Beans (Frasbean)",Other,FAQ,16/04/2025,6500,6700,6600
+Kerala,Alappuzha,Aroor,Potato,Other,FAQ,16/04/2025,3600,3800,3700
+Kerala,Alappuzha,Aroor,Ridgeguard(Tori),Other,FAQ,16/04/2025,6000,6200,6100
+Kerala,Alappuzha,Harippad,Banana,"Nendra Bale",Medium,16/04/2025,6000,6500,6000
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,16/04/2025,4000,4500,4000
+Kerala,Alappuzha,Harippad,Capsicum,Other,FAQ,16/04/2025,7000,7600,7000
+Kerala,Ernakulam,Piravam,Brinjal,Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Piravam,"Sweet Potato",Other,FAQ,16/04/2025,4000,5000,4500
+Kerala,Ernakulam,Piravam,Tomato,Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Ernakulam,Thrippunithura,"Cluster beans","Cluster Beans",FAQ,16/04/2025,4500,6000,4800
+Kerala,Ernakulam,Thrippunithura,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,3000,4000,3200
+Kerala,Ernakulam,Thrippunithura,"Indian Beans (Seam)",Other,FAQ,16/04/2025,7000,9000,7500
+Kerala,Kannur,Kannur,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,5000,5400,5200
+Kerala,Kasargod,Manjeswaram,Carrot,Carrot,FAQ,16/04/2025,7000,8000,7500
+Kerala,Kasargod,Manjeswaram,"Green Chilli","Green Chilly",FAQ,16/04/2025,7000,8000,7500
+Kerala,Kasargod,Manjeswaram,Snakeguard,Snakeguard,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kasargod,Manjeswaram,"Sweet Potato","Sweet Potato",FAQ,16/04/2025,5000,6000,5500
+Kerala,Kasargod,Manjeswaram,Tomato,Other,FAQ,16/04/2025,2000,2200,2100
+Kerala,Kollam,Anchal,Banana,"Nendra Bale",Medium,16/04/2025,7300,7500,7400
+Kerala,Kollam,Anchal,Cauliflower,Cauliflower,FAQ,16/04/2025,4000,4200,4100
+Kerala,Kollam,Anchal,Coconut,Other,FAQ,16/04/2025,8200,8400,8300
+Kerala,Kollam,Anchal,Colacasia,Colacasia,FAQ,16/04/2025,6700,6900,6800
+Kerala,Kollam,Anchal,"Elephant Yam (Suran)","Elephant Yam (Suran)",FAQ,16/04/2025,4500,4700,4600
+Kerala,Kollam,Anchal,Pineapple,Other,Medium,16/04/2025,6000,6200,6100
+Kerala,Kottayam,Athirampuzha,Cauliflower,Cauliflower,FAQ,16/04/2025,3800,4000,3900
+Kerala,Kottayam,Athirampuzha,Coconut,Other,FAQ,16/04/2025,6800,7000,6900
+Kerala,Kottayam,Athirampuzha,Pineapple,Other,Medium,16/04/2025,3000,3200,3100
+Kerala,Kottayam,Ettumanoor,"Banana - Green","Banana - Green",FAQ,16/04/2025,5200,5400,5300
+Kerala,Kottayam,Ettumanoor,Beetroot,Other,FAQ,16/04/2025,3400,3700,3500
+Kerala,Kottayam,Ettumanoor,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,4000,4400,4200
+Kerala,Kottayam,Ettumanoor,Coconut,Medium,FAQ,16/04/2025,6600,7000,6800
+Kerala,Kottayam,Ettumanoor,"Little gourd (Kundru)",Other,FAQ,16/04/2025,2200,2600,2400
+Kerala,Kottayam,Kuruppanthura,Amphophalus,Amphophalus,FAQ,16/04/2025,6000,6400,6200
+Kerala,Kottayam,Kuruppanthura,Banana,Palayamthodan,Medium,16/04/2025,3000,3800,3600
+Kerala,Kottayam,Kuruppanthura,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,9000,10000,9700
+Kerala,Kottayam,Kuruppanthura,"Green Chilli","Green Chilly",FAQ,16/04/2025,3700,4500,4000
+Kerala,Kottayam,Kuruppanthura,Lemon,Lemon,FAQ,16/04/2025,8000,9000,8600
+Kerala,Kottayam,Kuruppanthura,"Little gourd (Kundru)",Other,FAQ,16/04/2025,3000,4000,3500
+Kerala,Kottayam,Kuruppanthura,Pineapple,"Pine Apple",Large,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Kuruppanthura,Potato,Potato,Non-FAQ,16/04/2025,3200,4700,4000
+Kerala,Kottayam,Kuruppanthura,Tomato,Tomato,Non-FAQ,16/04/2025,3000,4000,3600
+Kerala,Kottayam,Pampady,Ashgourd,Other,FAQ,16/04/2025,1500,3000,2500
+Kerala,Kottayam,Pampady,Banana,Robusta,Medium,16/04/2025,3000,4500,4000
+Kerala,Kottayam,Pampady,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,5300,6500,6000
+Kerala,Kottayam,Pampady,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,7000,8000,7500
+Kerala,Kottayam,Pampady,Cauliflower,Other,FAQ,16/04/2025,4500,5500,5000
+Kerala,Kottayam,Pampady,Cowpea(Veg),Other,FAQ,16/04/2025,4000,5000,4500
+Kerala,Kottayam,Pampady,Cucumbar(Kheera),Other,FAQ,16/04/2025,2000,3000,2500
+Kerala,Kozhikode(Calicut),Kallachi,Amaranthus,Amaranthus,FAQ,16/04/2025,2800,3200,3000
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Rasakathai,Medium,16/04/2025,5300,5700,5500
+Kerala,Kozhikode(Calicut),Kallachi,Beetroot,Beetroot,FAQ,16/04/2025,3800,4200,4000
+Kerala,Kozhikode(Calicut),Kallachi,Brinjal,Brinjal,FAQ,16/04/2025,3200,3600,3400
+Kerala,Kozhikode(Calicut),Kallachi,Cabbage,Cabbage,FAQ,16/04/2025,2400,2800,2600
+Kerala,Kozhikode(Calicut),Kallachi,"Cluster beans","Cluster Beans",FAQ,16/04/2025,6600,7000,6800
+Kerala,Kozhikode(Calicut),Kallachi,Onion,Other,FAQ,16/04/2025,2100,2500,2300
+Kerala,Kozhikode(Calicut),Kallachi,Tomato,Tomato,FAQ,16/04/2025,1400,1800,1600
+Kerala,Kozhikode(Calicut),Mukkom,Banana,Other,Large,16/04/2025,6800,7200,7000
+Kerala,Kozhikode(Calicut),Mukkom,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,4000,4400,4200
+Kerala,Kozhikode(Calicut),Mukkom,Brinjal,Brinjal,FAQ,16/04/2025,3000,3400,3200
+Kerala,Kozhikode(Calicut),Mukkom,Cabbage,Cabbage,FAQ,16/04/2025,3400,3800,3600
+Kerala,Kozhikode(Calicut),Mukkom,Onion,Onion,FAQ,16/04/2025,2800,3200,3000
+Kerala,Kozhikode(Calicut),Palayam,Cauliflower,Other,FAQ,16/04/2025,2600,2600,2600
+Kerala,Kozhikode(Calicut),Palayam,"Coconut Seed",Other,FAQ,16/04/2025,6400,6400,6400
+Kerala,Kozhikode(Calicut),Palayam,"Green Chilli",Other,FAQ,16/04/2025,2000,2600,2500
+Kerala,Kozhikode(Calicut),Palayam,Onion,Other,FAQ,16/04/2025,1900,2000,1900
+Kerala,Kozhikode(Calicut),Palayam,Potato,Other,FAQ,16/04/2025,2200,2300,2200
+Kerala,Kozhikode(Calicut),Palayam,Snakeguard,Other,FAQ,16/04/2025,3000,3000,3000
+Kerala,Kozhikode(Calicut),Quilandy,"Cluster beans",Other,FAQ,16/04/2025,3400,3500,3400
+Kerala,Kozhikode(Calicut),Quilandy,Cowpea(Veg),Other,FAQ,16/04/2025,5700,6000,5800
+Kerala,Kozhikode(Calicut),Quilandy,Cucumbar(Kheera),Other,FAQ,16/04/2025,1800,2000,1900
+Kerala,Kozhikode(Calicut),Quilandy,Ginger(Green),Other,FAQ,16/04/2025,5800,6000,6000
+Kerala,Kozhikode(Calicut),Quilandy,"Green Chilli",Other,FAQ,16/04/2025,3400,3500,3400
+Kerala,Kozhikode(Calicut),Quilandy,Onion,Other,FAQ,16/04/2025,2300,2400,2300
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Brinjal,Brinjal,FAQ,16/04/2025,2400,2700,2700
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,4200,4500,4500
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Snakeguard,Snakeguard,FAQ,16/04/2025,3000,3300,3300
+Kerala,Malappuram,Kottakkal,Amaranthus,Amaranthus,FAQ,16/04/2025,1600,1800,1700
+Kerala,Malappuram,Kottakkal,"Amla(Nelli Kai)",Other,FAQ,16/04/2025,5300,5500,5400
+Kerala,Malappuram,Kottakkal,Beetroot,Beetroot,FAQ,16/04/2025,2000,2200,2100
+Kerala,Malappuram,Kottakkal,"Bottle gourd",Other,FAQ,16/04/2025,1300,1500,1400
+Kerala,Malappuram,Kottakkal,Guava,Banarasi,Large,16/04/2025,8300,8500,8400
+Kerala,Malappuram,Kottakkal,Potato,Other,FAQ,16/04/2025,2400,2600,2500
+Kerala,Malappuram,Kottakkal,Raddish,Other,FAQ,16/04/2025,2800,3000,2900
+Kerala,Pathanamthitta,"Mezhuveli  VFPCK","Elephant Yam (Suran)",Other,FAQ,16/04/2025,6500,8500,7900
+Kerala,Pathanamthitta,"Pramadom VFPCK",Banana,Rasakathai,Large,16/04/2025,1000,6100,3500
+Kerala,Thirssur,Thrissur,Banana,Robusta,Medium,16/04/2025,4800,5000,5000
+Kerala,Thirssur,Thrissur,Beetroot,Beetroot,FAQ,16/04/2025,1500,1600,1600
+Kerala,Thirssur,Thrissur,"Black pepper",Other,FAQ,16/04/2025,62500,62500,62500
+Kerala,Thirssur,Thrissur,Brinjal,Brinjal,FAQ,16/04/2025,1800,2000,2000
+Kerala,Thirssur,Thrissur,Cowpea(Veg),"Cowpea (Veg)",FAQ,16/04/2025,3000,3300,3200
+Kerala,Thirssur,Thrissur,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,2000,2300,2200
+Kerala,Thirssur,Thrissur,Pineapple,"Pine Apple",Medium,16/04/2025,5500,5800,5500
+Kerala,Thirssur,Thrissur,Snakeguard,Snakeguard,FAQ,16/04/2025,3800,4000,4000
+Kerala,Thiruvananthapuram,Parassala,Banana,Rasakathai,Medium,16/04/2025,6200,6400,6200
+Kerala,Thiruvananthapuram,Parassala,Carrot,Carrot,FAQ,16/04/2025,2800,3000,2800
+Kerala,Thiruvananthapuram,Parassala,Pumpkin,Pumpkin,FAQ,16/04/2025,1500,1800,1500
+Kerala,Thiruvananthapuram,Parassala,Snakeguard,Snakeguard,FAQ,16/04/2025,1800,2000,1800
+Kerala,Thiruvananthapuram,Parassala,Tapioca,Tapioca,FAQ,16/04/2025,3800,4000,3800
+Kerala,Thiruvananthapuram,Pothencode,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,9000,9500,9000
+Kerala,Thiruvananthapuram,Pothencode,Carrot,Carrot,FAQ,16/04/2025,11000,11500,11000
+Kerala,Thiruvananthapuram,Pothencode,"Cluster beans","Cluster Beans",FAQ,16/04/2025,4500,5000,4500
+Kerala,Thiruvananthapuram,Vamanapuram,"Bitter gourd",Other,FAQ,16/04/2025,7000,7500,7000
+Kerala,Thiruvananthapuram,Vamanapuram,Brinjal,Other,FAQ,16/04/2025,2500,3000,3000
+Kerala,Thiruvananthapuram,Vamanapuram,Coconut,Other,FAQ,16/04/2025,7500,8000,8000
+Kerala,Thiruvananthapuram,Vamanapuram,Cucumbar(Kheera),Other,FAQ,16/04/2025,1500,2000,2000
+Kerala,Thiruvananthapuram,Vamanapuram,Potato,Other,Non-FAQ,16/04/2025,3500,4000,3500
+Kerala,Thiruvananthapuram,Vamanapuram,Tapioca,Other,FAQ,16/04/2025,4500,5000,4500
+Kerala,Wayanad,Pulpally,"Bitter gourd",Other,FAQ,16/04/2025,3200,3400,3300
+Kerala,Wayanad,Pulpally,Paddy(Dhan)(Common),Other,Non-FAQ,16/04/2025,2350,2370,2360
+"Madhya Pradesh",Alirajpur,Jobat,Soyabean,Soyabeen,FAQ,16/04/2025,4000,4000,4000
+"Madhya Pradesh",Alirajpur,Jobat,Wheat,Wheat,FAQ,16/04/2025,2426,2426,2426
+"Madhya Pradesh",Ashoknagar,Ashoknagar,Wheat,Other,FAQ,16/04/2025,2600,2600,2600
+"Madhya Pradesh",Ashoknagar,Isagarh,Wheat,Wheat,FAQ,16/04/2025,2400,2550,2540
+"Madhya Pradesh",Badwani,Badwani,Wheat,Lokwan,FAQ,16/04/2025,2605,2605,2605
+"Madhya Pradesh",Bhind,Gohad,Wheat,"Mill Quality",FAQ,16/04/2025,2450,2450,2450
+"Madhya Pradesh",Bhopal,Bhopal,Garlic,Garlic,FAQ,16/04/2025,3500,3600,3600
+"Madhya Pradesh",Chhindwara,Chaurai,Wheat,"Mill Quality",FAQ,16/04/2025,2512,2512,2512
+"Madhya Pradesh",Chhindwara,Chhindwara,Maize,Yellow,FAQ,16/04/2025,2175,2190,2190
+"Madhya Pradesh",Damoh,Damoh,Soyabean,Soyabeen,FAQ,16/04/2025,4100,4100,4100
+"Madhya Pradesh",Dhar,Kukshi,Wheat,Wheat,FAQ,16/04/2025,2475,2500,2500
+"Madhya Pradesh",Dhar,Manawar,Maize,Local,Non-FAQ,16/04/2025,1500,2100,2050
+"Madhya Pradesh",Dhar,Manawar,Wheat,Wheat,Non-FAQ,16/04/2025,2525,2525,2525
+"Madhya Pradesh",Guna,Maksudangarh,Wheat,Wheat,Non-FAQ,16/04/2025,2300,2305,2305
+"Madhya Pradesh",Indore,Gautampura,Wheat,Wheat,FAQ,16/04/2025,2407,2542,2452
+"Madhya Pradesh",Indore,Indore,Wheat,"Mill Quality",FAQ,16/04/2025,2300,2566,2566
+"Madhya Pradesh",Indore,Indore,Wheat,Wheat,FAQ,16/04/2025,2450,2580,2580
+"Madhya Pradesh",Indore,Sanwer,Wheat,Wheat,FAQ,16/04/2025,2375,2675,2501
+"Madhya Pradesh",Khandwa,Khandwa,"Kabuli Chana(Chickpeas-White)","Dollar Gram",FAQ,16/04/2025,7500,7500,7500
+"Madhya Pradesh",Khargone,Badwaha,Maize,Local,FAQ,16/04/2025,2100,2100,2100
+"Madhya Pradesh",Khargone,Badwaha,Maize,Local,Non-FAQ,16/04/2025,1675,1775,1711
+"Madhya Pradesh",Khargone,Khargone,Wheat,Wheat,Non-FAQ,16/04/2025,2535,2641,2555
+"Madhya Pradesh",Khargone,Sanawad,Wheat,Wheat,FAQ,16/04/2025,2470,2470,2470
+"Madhya Pradesh",Khargone,Segaon,Maize,Local,FAQ,16/04/2025,1725,2025,2000
+"Madhya Pradesh",Morena,Ambaha,Wheat,Wheat,FAQ,16/04/2025,2328,2335,2335
+"Madhya Pradesh",Morena,Kailaras,Wheat,Wheat,FAQ,16/04/2025,2340,2345,2345
+"Madhya Pradesh",Narsinghpur,Kareli,"Bengal Gram(Gram)(Whole)",Gram,FAQ,16/04/2025,5480,5480,5480
+"Madhya Pradesh",Rajgarh,Khilchipur,Wheat,Wheat,Non-FAQ,16/04/2025,2375,2375,2375
+"Madhya Pradesh",Rajgarh,Kurawar,Wheat,Wheat-Organic,FAQ,16/04/2025,2420,2450,2450
+"Madhya Pradesh",Rajgarh,Sarangpur,Onion,Local,Non-FAQ,16/04/2025,400,510,500
+"Madhya Pradesh",Sagar,Shahagarh,Wheat,"Mill Quality",Non-FAQ,16/04/2025,2400,2400,2400
+"Madhya Pradesh",Satna,Satna,Wheat,Wheat,FAQ,16/04/2025,2425,2426,2425
+"Madhya Pradesh",Seoni,Chhpara,Wheat,Wheat,FAQ,16/04/2025,2460,2460,2460
+"Madhya Pradesh",Seoni,Ghansour,Wheat,"Mill Quality",FAQ,16/04/2025,2150,2150,2150
+"Madhya Pradesh",Seoni,Seoni,Wheat,"Mill Quality",FAQ,16/04/2025,2425,2430,2430
+"Madhya Pradesh",Shivpuri,Barad,Mustard,Mustard,FAQ,16/04/2025,6000,6000,6000
+"Madhya Pradesh",Shivpuri,Barad,Wheat,Wheat,FAQ,16/04/2025,2330,2330,2330
+"Madhya Pradesh",Shivpuri,Kolaras,Wheat,Wheat,FAQ,16/04/2025,2350,2390,2390
+"Madhya Pradesh",Tikamgarh,Khargapur,Wheat,"Mill Quality",FAQ,16/04/2025,2428,2430,2430
+"Madhya Pradesh",Ujjain,Tarana,Wheat,Wheat,FAQ,16/04/2025,2708,2708,2708
+"Madhya Pradesh",Ujjain,Unhel,Wheat,Wheat,FAQ,16/04/2025,2500,2500,2500
+"Madhya Pradesh",Vidisha,Kurwai,Wheat,"Mill Quality",FAQ,16/04/2025,2285,2335,2335
+Maharashtra,Ahmednagar,Rahata,Coriander(Leaves),Other,Local,16/04/2025,4,25,15
+Maharashtra,Ahmednagar,Rahata,Guar,Other,Local,16/04/2025,6200,6200,6200
+Maharashtra,Ahmednagar,Rahata,Methi(Leaves),Other,Local,16/04/2025,17,17,17
+Maharashtra,Ahmednagar,Rahata,Potato,Other,Local,16/04/2025,1300,1600,1400
+Maharashtra,Ahmednagar,Rahata,Tomato,Other,Local,16/04/2025,200,750,500
+Maharashtra,Ahmednagar,Rahuri,Tomato,Other,Local,16/04/2025,200,800,500
+Maharashtra,Ahmednagar,Shrirampur,"Bottle gourd",Other,Local,16/04/2025,500,900,700
+Maharashtra,Ahmednagar,Shrirampur,Cauliflower,Other,Local,16/04/2025,200,400,300
+Maharashtra,Ahmednagar,Shrirampur,Potato,Other,Local,16/04/2025,1500,2000,1750
+Maharashtra,Nagpur,Kalmeshwar,Cauliflower,Other,Local,16/04/2025,215,600,425
+Maharashtra,Pune,Khed(Chakan),Ridgeguard(Tori),Other,Local,16/04/2025,3000,4000,3500
+Maharashtra,Pune,Pune,Apple,Other,Local,16/04/2025,3000,12000,7500
+Maharashtra,Pune,Pune,Banana,Other,Local,16/04/2025,500,1500,1000
+Maharashtra,Pune,Pune,Brinjal,Other,Local,16/04/2025,1000,4000,2500
+Maharashtra,Pune,Pune,Coriander(Leaves),Other,Local,16/04/2025,4,12,8
+Maharashtra,Pune,Pune,Garlic,Other,Local,16/04/2025,3500,11000,7250
+Maharashtra,Pune,Pune,"Little gourd (Kundru)",Other,Local,16/04/2025,2500,4000,3250
+Maharashtra,Pune,Pune,"Mango (Raw-Ripe)",Other,Local,16/04/2025,1500,5000,3250
+Maharashtra,Pune,Pune,Pineapple,Other,Local,16/04/2025,2000,5000,3500
+Maharashtra,Pune,Pune,Pomegranate,Other,Local,16/04/2025,2000,15000,8500
+Maharashtra,Pune,Pune,"Sweet Potato",Other,Local,16/04/2025,1500,2600,2050
+Maharashtra,Pune,Pune,"Sweet Pumpkin",Other,Local,16/04/2025,600,1500,1050
+Maharashtra,Pune,Pune,Tomato,Local,Local,16/04/2025,500,1200,850
+Maharashtra,Pune,Pune(Pimpri),"Bhindi(Ladies Finger)",Other,Local,16/04/2025,3000,5000,4000
+Maharashtra,Pune,Pune(Pimpri),Raddish,Other,Local,16/04/2025,7,9,8
+Maharashtra,Raigad,Alibagh,Rice,Other,Local,16/04/2025,2500,2700,2600
+Maharashtra,Thane,Vasai,Rice,"1009 Kar",Local,16/04/2025,3800,4850,4260
+Nagaland,Kohima,Kohima,Beans,"Beans (Whole)",FAQ,16/04/2025,8000,8200,8100
+Odisha,Balasore,Jaleswar,"Little gourd (Kundru)","Little gourd (Kundru)",FAQ,16/04/2025,800,1200,1000
+Odisha,Balasore,Jaleswar,Onion,Other,FAQ,16/04/2025,2300,2700,2500
+Odisha,Balasore,Nilagiri,"Water Melon",Other,Medium,16/04/2025,1700,1800,1750
+Odisha,Bargarh,Padampur,Brinjal,Brinjal,FAQ,16/04/2025,2000,2200,2100
+Odisha,Bargarh,Padampur,Cauliflower,Cauliflower,FAQ,16/04/2025,3600,3800,3700
+Odisha,Bargarh,Sohela,Tomato,Other,Non-FAQ,16/04/2025,800,1000,900
+Odisha,Bhadrak,Chandabali,Tomato,Other,FAQ,16/04/2025,750,1200,870
+Odisha,Boudh,Boudh,Tomato,Other,FAQ,16/04/2025,800,1200,1000
+Odisha,Boudh,Khunthabandha,Cabbage,Other,FAQ,16/04/2025,1500,2500,2000
+Odisha,Boudh,Khunthabandha,Cucumbar(Kheera),Other,FAQ,16/04/2025,3000,3800,3500
+Odisha,Boudh,Khunthabandha,"Water Melon",Other,Medium,16/04/2025,0,0,800
+Odisha,Dhenkanal,Hindol,Drumstick,Drumstick,FAQ,16/04/2025,3000,3500,3200
+Odisha,Dhenkanal,Hindol,"Pointed gourd (Parval)",Other,FAQ,16/04/2025,6000,7000,6500
+Odisha,Dhenkanal,Hindol,Tomato,Tomato,Non-FAQ,16/04/2025,1800,2000,1900
+Odisha,Dhenkanal,Kamakhyanagar,Cabbage,Cabbage,FAQ,16/04/2025,1400,2000,1500
+Odisha,Gajapati,Kasinagar,Brinjal,Other,FAQ,16/04/2025,1500,2000,2000
+Odisha,Gajapati,Parlakhemundi,Maize,Other,Non-FAQ,16/04/2025,2100,2300,2200
+Odisha,Ganjam,Bhanjanagar,Carrot,Carrot,FAQ,16/04/2025,3000,3200,3100
+Odisha,Ganjam,Bhanjanagar,Cauliflower,"African Sarson",FAQ,16/04/2025,2300,2500,2400
+Odisha,Ganjam,Bhanjanagar,Colacasia,Colacasia,FAQ,16/04/2025,2000,2200,2100
+Odisha,Ganjam,Bhanjanagar,"Papaya (Raw)",Other,FAQ,16/04/2025,1600,1800,1700
+Odisha,Kalahandi,Mukhiguda,Brinjal,Brinjal,FAQ,16/04/2025,800,1000,900
+Odisha,Kalahandi,Mukhiguda,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,1000,3000,2000
+Odisha,Kalahandi,Mukhiguda,Tomato,Tomato,Non-FAQ,16/04/2025,700,1500,1100
+Odisha,Mayurbhanja,Karanjia,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3500,4000,4000
+Odisha,Mayurbhanja,Karanjia,Fish,Other,FAQ,16/04/2025,18000,19000,19000
+Odisha,Mayurbhanja,Karanjia,Paddy(Dhan)(Common),Other,FAQ,16/04/2025,2300,2300,2300
+Odisha,Mayurbhanja,Karanjia,Rice,Other,FAQ,16/04/2025,3400,3500,3500
+Odisha,Sonepur,Dungurapalli,Onion,Other,Non-FAQ,16/04/2025,2500,2600,2560
+Odisha,Sonepur,Pandkital,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,5600,6000,5800
+Odisha,Sundergarh,Sargipali,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2500,3000,2800
+Odisha,Sundergarh,Sargipali,Brinjal,Other,FAQ,16/04/2025,1500,2000,1800
+Odisha,Sundergarh,Sargipali,Cabbage,Other,FAQ,16/04/2025,2000,2500,2200
+Odisha,Sundergarh,Sargipali,Capsicum,Other,FAQ,16/04/2025,5000,5500,5200
+Odisha,Sundergarh,Sargipali,Onion,Other,Non-FAQ,16/04/2025,2000,2500,2200
+Odisha,Sundergarh,Sargipali,Potato,Other,Non-FAQ,16/04/2025,800,1200,1000
+Punjab,Bhatinda,"Bhagta Bhai Ka",Banana,Other,Medium,16/04/2025,2800,2800,2800
+Punjab,Bhatinda,"Bhagta Bhai Ka",Cauliflower,Other,FAQ,16/04/2025,1000,1000,1000
+Punjab,Bhatinda,"Bhagta Bhai Ka",Pumpkin,Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Fazilka,Fazilka,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,3500,4500,4000
+Punjab,Fazilka,Fazilka,"Bitter gourd",Other,FAQ,16/04/2025,2000,4000,3000
+Punjab,Fazilka,Fazilka,"Green Chilli",Other,FAQ,16/04/2025,2000,3000,2500
+Punjab,Fazilka,Fazilka,Mango,Other,Medium,16/04/2025,8000,10000,9000
+Punjab,Fazilka,Fazilka,Tomato,Other,FAQ,16/04/2025,800,1500,1000
+Punjab,Fazilka,Jalalabad,Apple,Other,Large,16/04/2025,10500,11000,10700
+Punjab,Fazilka,Jalalabad,Chikoos(Sapota),Other,Large,16/04/2025,3400,3500,3450
+Punjab,Fazilka,Jalalabad,Mango,Other,Large,16/04/2025,5000,5500,5300
+Punjab,Fazilka,Jalalabad,"Onion Green","Onion Green",FAQ,16/04/2025,2000,2000,2000
+Punjab,Fazilka,Jalalabad,"Sweet Potato","Sweet Potato",FAQ,16/04/2025,5000,5000,5000
+Punjab,Ferozpur,Zira,Capsicum,Capsicum,FAQ,16/04/2025,800,1000,900
+Punjab,Ferozpur,Zira,Cauliflower,Cauliflower,FAQ,16/04/2025,600,800,700
+Punjab,Ferozpur,Zira,Papaya,Other,Large,16/04/2025,6000,7000,6500
+Punjab,Ferozpur,Zira,Pumpkin,Pumpkin,FAQ,16/04/2025,900,1500,1300
+Punjab,Ferozpur,Zira,Tomato,Local,FAQ,16/04/2025,1200,1600,1400
+Punjab,Gurdaspur,Gurdaspur,Apple,Apple,Medium,16/04/2025,7000,8000,7500
+Punjab,Gurdaspur,Gurdaspur,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,5000,5500,5200
+Punjab,Gurdaspur,Gurdaspur,Cabbage,Other,FAQ,16/04/2025,700,900,800
+Punjab,Gurdaspur,Gurdaspur,Coriander(Leaves),Other,FAQ,16/04/2025,2000,2500,2200
+Punjab,Gurdaspur,Gurdaspur,Onion,Other,FAQ,16/04/2025,1400,1600,1500
+Punjab,Gurdaspur,Gurdaspur,Pomegranate,Other,Medium,16/04/2025,8000,8500,8200
+Punjab,Gurdaspur,Kalanaur,"Green Chilli","Green Chilly",FAQ,16/04/2025,3500,3500,3500
+Punjab,Hoshiarpur,"Garh Shankar","Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,3000,3300,3200
+Punjab,Hoshiarpur,"Garh Shankar",Capsicum,Capsicum,FAQ,16/04/2025,700,1000,800
+Punjab,Hoshiarpur,"Garh Shankar",Cauliflower,Cauliflower,FAQ,16/04/2025,700,1200,800
+Punjab,Hoshiarpur,"Garh Shankar","Field Pea","Field Pea",FAQ,16/04/2025,3000,4000,3500
+Punjab,Hoshiarpur,"Garh Shankar","Green Chilli","Green Chilly",FAQ,16/04/2025,2000,2500,2300
+Punjab,Hoshiarpur,"Garh Shankar",Mango,Other,Medium,16/04/2025,6500,8000,7000
+Punjab,Hoshiarpur,"Garh Shankar",Onion,Other,FAQ,16/04/2025,1100,1400,1200
+Punjab,Hoshiarpur,"GarhShankar (Kotfatuhi)",Banana,Other,Medium,16/04/2025,2000,2500,2300
+Punjab,Hoshiarpur,"GarhShankar (Kotfatuhi)",Onion,Other,FAQ,16/04/2025,1100,1400,1200
+Punjab,Hoshiarpur,"GarhShankar (Kotfatuhi)",Potato,Other,FAQ,16/04/2025,500,600,550
+Punjab,Hoshiarpur,Mukerian,Apple,Apple,Medium,16/04/2025,12000,15000,13000
+Punjab,Hoshiarpur,Mukerian,Banana,"Banana - Ripe",Medium,16/04/2025,2500,3200,2800
+Punjab,Hoshiarpur,Mukerian,Ginger(Dry),Vegitable-fresh,FAQ,16/04/2025,4200,4800,4500
+Punjab,Hoshiarpur,Mukerian,"Tender Coconut","Tender Coconut",Medium,16/04/2025,550,650,600
+Punjab,Hoshiarpur,Mukerian,Tomato,Tomato,Non-FAQ,16/04/2025,1200,1500,1300
+Punjab,Jalandhar,Mehatpur,Brinjal,Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Jalandhar,Mehatpur,Cucumbar(Kheera),Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Jalandhar,Mehatpur,Pumpkin,Other,FAQ,16/04/2025,2000,2000,2000
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Potato,Other,FAQ,16/04/2025,800,800,800
+Punjab,Jalandhar,"Phillaur(Apra Mandi)",Raddish,Other,FAQ,16/04/2025,1000,1000,1000
+Punjab,Ludhiana,Doraha,Onion,Other,Non-FAQ,16/04/2025,1700,2000,1950
+Punjab,Ludhiana,Doraha,"Sponge gourd",Other,FAQ,16/04/2025,1400,1400,1400
+Punjab,Ludhiana,Ludhiana,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,1700,2700,2200
+Punjab,Ludhiana,Ludhiana,"Bitter gourd",Other,FAQ,16/04/2025,1300,2000,1600
+Punjab,Ludhiana,Ludhiana,Cauliflower,Other,FAQ,16/04/2025,200,800,500
+Punjab,Ludhiana,Ludhiana,Cucumbar(Kheera),Other,FAQ,16/04/2025,300,1100,600
+Punjab,Ludhiana,Ludhiana,Guava,Other,Medium,16/04/2025,1500,3000,2300
+Punjab,Ludhiana,Ludhiana,Pomegranate,Other,Medium,16/04/2025,3000,7000,5000
+Punjab,Ludhiana,Ludhiana,"Water Melon",Other,Medium,16/04/2025,1000,2000,1500
+Punjab,Ludhiana,Sahnewal,Tomato,Tomato,FAQ,16/04/2025,1750,1750,1750
+Punjab,Sangrur,Ahmedgarh,"Bottle gourd",Other,FAQ,16/04/2025,1000,1200,1200
+Punjab,Tarntaran,Patti,Banana,Other,Medium,16/04/2025,4000,5000,4500
+Punjab,Tarntaran,Patti,Capsicum,Other,FAQ,16/04/2025,1200,1600,1400
+Punjab,Tarntaran,Patti,Carrot,Other,FAQ,16/04/2025,800,1000,900
+Punjab,Tarntaran,Patti,Ginger(Dry),Other,FAQ,16/04/2025,4000,5000,4500
+Punjab,Tarntaran,Patti,"Round gourd",Other,FAQ,16/04/2025,1200,1600,1400
+Punjab,Tarntaran,Tarantaran,"Green Chilli",Other,FAQ,16/04/2025,2000,2500,2200
+Rajasthan,Barmer,Barmer,"Guar Seed(Cluster Beans Seed)",Other,FAQ,16/04/2025,5000,5100,5050
+Rajasthan,Beawar,Beawar,"Cummin Seed(Jeera)",Other,FAQ,16/04/2025,21000,25000,23000
+Rajasthan,Beawar,Beawar,Wheat,Other,FAQ,16/04/2025,2300,2600,2450
+Rajasthan,Churu,Sadulpur,"Bajra(Pearl Millet/Cumbu)",Local,FAQ,16/04/2025,2200,2300,2250
+Rajasthan,Dausa,Lalsot,Mustard,Other,FAQ,16/04/2025,5800,6150,6000
+Rajasthan,Dungarpur,Dungarpur,Onion,"1st Sort",FAQ,16/04/2025,2000,2500,2250
+Rajasthan,Hanumangarh,Rawatsar,"Barley (Jau)",Other,FAQ,16/04/2025,1745,2040,2000
+Rajasthan,"Jaipur Rural",Bassi,"Barley (Jau)",Other,Non-FAQ,16/04/2025,2000,2240,2100
+Rajasthan,Jalore,Jalore,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,2500,3000,2800
+Rajasthan,Jalore,Jalore,Cucumbar(Kheera),Other,FAQ,16/04/2025,1000,1200,1100
+Rajasthan,Jalore,Jalore,Garlic,Other,FAQ,16/04/2025,6000,7000,6500
+Rajasthan,Jalore,Jalore,"Green Chilli",Other,FAQ,16/04/2025,1200,1500,1300
+Rajasthan,Jalore,Jalore,"Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,1500,2000,1800
+Rajasthan,Jalore,Jalore,"Water Melon","Water Melon",Medium,16/04/2025,1000,1200,1100
+Rajasthan,Jodhpur,"Jodhpur (F&V)",Mango,Hapus(Alphaso),Medium,16/04/2025,8000,12000,10000
+Rajasthan,"Jodhpur Rural","Ositan Mathania","Isabgul (Psyllium)","Isabgul (Psyllium)",FAQ,16/04/2025,13000,15000,14000
+Telangana,Hyderabad,"Mahboob Manison","Dry Chillies","2nd Sort",FAQ,16/04/2025,5000,8000,7000
+Telangana,Hyderabad,"Mahboob Manison",Onion,"1st Sort",FAQ,16/04/2025,1100,1400,1300
+Telangana,Karimnagar,Huzzurabad,Paddy(Dhan)(Common),1001,FAQ,16/04/2025,2300,2300,2300
+Telangana,Karimnagar,Huzzurabad,Paddy(Dhan)(Common),MTU-1010,FAQ,16/04/2025,2320,2320,2320
+Telangana,Khammam,Bhadrachalam,Paddy(Dhan)(Common),"Samba Masuri",FAQ,16/04/2025,2320,2320,2320
+Telangana,Medak,Gajwel,Maize,"Deshi Red",FAQ,16/04/2025,2100,2300,2200
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Bitter gourd","Bitter Gourd",FAQ,16/04/2025,3500,3500,3500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","French Beans (Frasbean)","French Beans (Frasbean)",FAQ,16/04/2025,6500,6500,6500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)","Green Chilli","Green Chilly",FAQ,16/04/2025,3500,3500,3500
+Telangana,"Ranga Reddy","Mehndipatnam(Rythu Bazar)",Tomato,Deshi,Non-FAQ,16/04/2025,1500,1500,1500
+Tripura,"North Tripura",Dasda,Onion,Onion,FAQ,16/04/2025,2500,2700,2600
+Tripura,"North Tripura",Dasda,Rice,Masuri,FAQ,16/04/2025,3400,3600,3500
+Tripura,Sepahijala,Sonamura,Cock,Boiler/Firm(White),FAQ,16/04/2025,140,350,250
+Tripura,Sepahijala,Sonamura,Fish,Katla(Big),FAQ,16/04/2025,28000,30000,29000
+Tripura,Sepahijala,Sonamura,"Green Chilli","Green Chilly",FAQ,16/04/2025,3000,3500,3200
+Tripura,Sepahijala,Sonamura,Rice,Coarse,FAQ,16/04/2025,3700,3900,3800
+"Uttar Pradesh",Agra,Fatehabad,Brinjal,Round,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Agra,Fatehabad,Tomato,Deshi,FAQ,16/04/2025,400,500,450
+"Uttar Pradesh",Aligarh,Charra,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,1300,1500,1400
+"Uttar Pradesh",Aligarh,Charra,Potato,Desi,FAQ,16/04/2025,1000,1200,1100
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Onion,Red,Non-FAQ,16/04/2025,1500,1600,1550
+"Uttar Pradesh",Ambedkarnagar,Akbarpur,Tomato,Hybrid,Non-FAQ,16/04/2025,450,550,480
+"Uttar Pradesh",Badaun,Shahaswan,Apple,Other,Medium,16/04/2025,6800,7200,7000
+"Uttar Pradesh",Badaun,Shahaswan,Brinjal,Brinjal,FAQ,16/04/2025,950,1050,1000
+"Uttar Pradesh",Ballia,Vilthararoad,Gur(Jaggery),Other,FAQ,16/04/2025,4000,4200,4100
+"Uttar Pradesh",Ballia,Vilthararoad,Rice,III,FAQ,16/04/2025,2000,2200,2100
+"Uttar Pradesh",Bijnor,Kiratpur,Papaya,Papaya,Medium,16/04/2025,2100,2200,2150
+"Uttar Pradesh",Bulandshahar,Gulavati,"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,900,1100,1000
+"Uttar Pradesh",Bulandshahar,Gulavati,Onion,Red,FAQ,16/04/2025,1900,2100,2000
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Bhindi(Ladies Finger)",Bhindi,FAQ,16/04/2025,2000,2200,2100
+"Uttar Pradesh",Bulandshahar,Sikarpur,Cauliflower,Cauliflower,FAQ,16/04/2025,800,900,850
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Karbuja(Musk Melon)",Karbhuja,Medium,16/04/2025,1800,2000,1900
+"Uttar Pradesh",Bulandshahar,Sikarpur,Lemon,Lemon,FAQ,16/04/2025,6000,6200,6100
+"Uttar Pradesh",Bulandshahar,Sikarpur,Onion,Red,FAQ,16/04/2025,900,1050,1000
+"Uttar Pradesh",Bulandshahar,Sikarpur,Pumpkin,Pumpkin,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Bulandshahar,Sikarpur,Raddish,Raddish,FAQ,16/04/2025,700,800,750
+"Uttar Pradesh",Bulandshahar,Sikarpur,"Sponge gourd","Sponge gourd",FAQ,16/04/2025,2400,2500,2450
+"Uttar Pradesh",Bulandshahar,Siyana,Apple,"Red  Gold",Medium,16/04/2025,6100,6300,6200
+"Uttar Pradesh",Bulandshahar,Siyana,Colacasia,Colacasia,FAQ,16/04/2025,600,700,650
+"Uttar Pradesh",Bulandshahar,Siyana,Onion,Red,FAQ,16/04/2025,1100,1200,1150
+"Uttar Pradesh",Bulandshahar,Siyana,Papaya,Papaya,Medium,16/04/2025,900,1000,950
+"Uttar Pradesh",Etah,Aliganj,"Bajra(Pearl Millet/Cumbu)",Hybrid,Non-FAQ,16/04/2025,2150,2165,2155
+"Uttar Pradesh",Etawah,Bharthna,Onion,Red,FAQ,16/04/2025,1720,1920,1820
+"Uttar Pradesh",Etawah,Jasvantnagar,Potato,Potato,FAQ,16/04/2025,1250,1450,1350
+"Uttar Pradesh",Firozabad,Sirsaganj,Pumpkin,Pumpkin,FAQ,16/04/2025,1000,1100,1050
+"Uttar Pradesh",Hathras,Haathras,Onion,Red,FAQ,16/04/2025,1380,1580,1480
+"Uttar Pradesh",Kaushambi,Manjhanpur,Potato,Desi,FAQ,16/04/2025,1015,1160,1080
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Brinjal,Other,FAQ,16/04/2025,1403,1484,1460
+"Uttar Pradesh","Khiri (Lakhimpur)",Maigalganj,Tomato,Local,FAQ,16/04/2025,1630,1685,1655
+"Uttar Pradesh",Maharajganj,Anandnagar,Apple,Delicious,Medium,16/04/2025,7000,8000,7500
+"Uttar Pradesh",Maharajganj,Anandnagar,"Green Chilli","Green Chilly",FAQ,16/04/2025,2400,2800,2600
+"Uttar Pradesh",Maharajganj,Anandnagar,Rice,III,FAQ,16/04/2025,2600,3200,2800
+"Uttar Pradesh",Maharajganj,Anandnagar,Wheat,Dara,FAQ,16/04/2025,2450,2450,2450
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Apple,Delicious,Medium,16/04/2025,7590,7900,7600
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,Cauliflower,Cauliflower,FAQ,16/04/2025,800,1000,900
+"Uttar Pradesh",Mau(Maunathbhanjan),Kopaganj,"Green Chilli","Green Chilly",FAQ,16/04/2025,1300,1500,1400
+"Uttar Pradesh",Rampur,Tanda(Rampur),"Jack Fruit","Jack Fruit",Medium,16/04/2025,1200,1240,1220
+"Uttar Pradesh",Rampur,Vilaspur,Banana,"Banana - Ripe",Medium,16/04/2025,2000,2500,2300
+"Uttar Pradesh",Saharanpur,Gangoh,Potato,Desi,FAQ,16/04/2025,850,1050,950
+"Uttar Pradesh",Saharanpur,Gangoh,Raddish,Raddish,FAQ,16/04/2025,500,600,550
+"Uttar Pradesh",Sambhal,Bhehjoi,"Black Gram (Urd Beans)(Whole)","Black Gram (Whole)",Non-FAQ,16/04/2025,7000,7400,7200
+"Uttar Pradesh",Sambhal,Bhehjoi,Wheat,Dara,Non-FAQ,16/04/2025,2465,2490,2470
+"Uttar Pradesh",Sambhal,Sambhal,Apple,Delicious,Medium,16/04/2025,8500,9350,9000
+"Uttar Pradesh",Shravasti,Payagpur,Tomato,Deshi,FAQ,16/04/2025,500,700,600
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Gur(Jaggery),Yellow,FAQ,16/04/2025,3000,3200,3100
+"Uttar Pradesh",Sitapur,"Hargaon (Laharpur)",Onion,Nasik,FAQ,16/04/2025,1300,1400,1350
+Uttrakhand,Dehradoon,Vikasnagar,Brinjal,Other,FAQ,16/04/2025,700,1000,1000
+Uttrakhand,Dehradoon,Vikasnagar,Ginger(Green),Other,FAQ,16/04/2025,1800,1800,1800
+Uttrakhand,Dehradoon,Vikasnagar,"Green Chilli",Other,FAQ,16/04/2025,1000,1200,1200
+Uttrakhand,Dehradoon,Vikasnagar,Tomato,Other,Non-FAQ,16/04/2025,700,800,800
+Uttrakhand,Haridwar,"Haridwar Union","Mousambi(Sweet Lime)",Mousambi,Medium,16/04/2025,2800,3600,3200
+Uttrakhand,Haridwar,"Haridwar Union",Pomegranate,Pomogranate,Large,16/04/2025,4500,8000,5500
+Uttrakhand,Haridwar,"Haridwar Union",Potato,Potato,FAQ,16/04/2025,700,1000,800
+Uttrakhand,Haridwar,"Haridwar Union",Tomato,Deshi,FAQ,16/04/2025,600,850,750
+Uttrakhand,Haridwar,Roorkee,Banana,Other,Large,16/04/2025,800,1200,1000
+Uttrakhand,Haridwar,Roorkee,"Bhindi(Ladies Finger)",Other,FAQ,16/04/2025,1200,2200,1600
+"West Bengal",Bankura,Bishnupur(Bankura),"Bottle gourd","Bottle Gourd",FAQ,16/04/2025,800,1200,1000
+"West Bengal",Bankura,Khatra,Paddy(Dhan)(Common),"Swarna Masuri (New)",FAQ,16/04/2025,2260,2320,2300
+"West Bengal",Bankura,Khatra,Rice,Common,FAQ,16/04/2025,3500,3600,3550
+"West Bengal",Bankura,Khatra,"Sweet Pumpkin","Sweet Pumpkin",FAQ,16/04/2025,800,1200,900
+"West Bengal",Bankura,Khatra,Tomato,Tomato,Non-FAQ,16/04/2025,800,1200,1000
+"West Bengal",Coochbehar,Coochbehar,Tomato,Other,FAQ,16/04/2025,500,590,550
+"West Bengal",Coochbehar,Dinhata,"Bitter gourd","Bitter Gourd",FAQ,16/04/2025,2500,3000,2800
+"West Bengal",Coochbehar,Pundibari,Cauliflower,Other,FAQ,16/04/2025,500,600,550
+"West Bengal",Coochbehar,Toofanganj,Brinjal,Brinjal,FAQ,16/04/2025,1700,2000,1800
+"West Bengal",Coochbehar,Toofanganj,Cucumbar(Kheera),Other,FAQ,16/04/2025,1400,1800,1600
+"West Bengal",Hooghly,Sheoraphuly,"Bitter gourd",Other,FAQ,16/04/2025,2800,3200,3000
+"West Bengal",Hooghly,Sheoraphuly,"Green Chilli",Other,FAQ,16/04/2025,3600,4000,3800
+"West Bengal",Hooghly,Sheoraphuly,Onion,Nasik,FAQ,16/04/2025,2000,2200,2100
+"West Bengal",Hooghly,Sheoraphuly,"Pointed gourd (Parval)","Pointed gourd (Parval)",FAQ,16/04/2025,3400,3800,3600
+"West Bengal",Medinipur(W),Ghatal,Cucumbar(Kheera),Cucumbar,FAQ,16/04/2025,3700,3900,3800
+"West Bengal",Medinipur(W),Ghatal,"Sweet Pumpkin",Other,FAQ,16/04/2025,1350,1450,1400

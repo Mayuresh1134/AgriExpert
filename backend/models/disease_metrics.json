@@ -1,0 +1,496 @@
+{
+ "images": {
+  "plantvillage": {
+   "train": 43470,
+   "val": 5403,
+   "test": 5432
+  },
+  "plantdoc": {
+   "train": 2027,
+   "val": 315,
+   "test": 236
+  },
+  "paddy": {
+   "train": 7280,
+   "val": 1557,
+   "test": 1570
+  }
+ },
+ "classes": 48,
+ "backbone": "MobileNetV2 pretrained on ImageNet (ONNX Model Zoo), frozen",
+ "head": "1280 -> 512 -> 48 neural network, trained on features of 3 datasets",
+ "test_note": "Test images were never used for training or tuning. PlantVillage: a random 10% hold-out (same leaves can appear in several photos, so this number is optimistic). PlantDoc: the dataset's own test split. Paddy Doctor: the repository's test split.",
+ "results": {
+  "A. PlantVillage only (lab photos)": {
+   "plantvillage": {
+    "top1": 98.4,
+    "top3": 99.9,
+    "top1_crop_known": 98.7,
+    "top3_crop_known": 100.0,
+    "images": 5432
+   },
+   "plantdoc": {
+    "top1": 19.1,
+    "top3": 38.6,
+    "top1_crop_known": 43.6,
+    "top3_crop_known": 80.5,
+    "images": 236
+   },
+   "paddy": null
+  },
+  "B. Lab + field photos (used in the app)": {
+   "plantvillage": {
+    "top1": 99.0,
+    "top3": 100.0,
+    "top1_crop_known": 99.1,
+    "top3_crop_known": 100.0,
+    "images": 5432
+   },
+   "plantdoc": {
+    "top1": 55.5,
+    "top3": 81.4,
+    "top1_crop_known": 72.9,
+    "top3_crop_known": 92.8,
+    "images": 236
+   },
+   "paddy": {
+    "top1": 96.8,
+    "top3": 99.7,
+    "top1_crop_known": 96.8,
+    "top3_crop_known": 99.7,
+    "images": 1570
+   }
+  }
+ },
+ "confidence_on_field_photos": [
+  {
+   "min_confidence": 0.0,
+   "answered_pct": 100.0,
+   "correct_pct": 91.4
+  },
+  {
+   "min_confidence": 0.4,
+   "answered_pct": 97.2,
+   "correct_pct": 93.5
+  },
+  {
+   "min_confidence": 0.5,
+   "answered_pct": 95.2,
+   "correct_pct": 94.4
+  },
+  {
+   "min_confidence": 0.6,
+   "answered_pct": 92.9,
+   "correct_pct": 95.3
+  },
+  {
+   "min_confidence": 0.7,
+   "answered_pct": 91.1,
+   "correct_pct": 96.0
+  },
+  {
+   "min_confidence": 0.8,
+   "answered_pct": 87.9,
+   "correct_pct": 97.2
+  }
+ ],
+ "temperature": 0.6,
+ "per_class": {
+  "apple_black_rot": {
+   "plantvillage": {
+    "n": 67,
+    "correct_pct": 100.0
+   }
+  },
+  "apple_cedar_rust": {
+   "plantvillage": {
+    "n": 35,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 10,
+    "correct_pct": 70.0
+   }
+  },
+  "apple_healthy": {
+   "plantvillage": {
+    "n": 175,
+    "correct_pct": 99.4
+   },
+   "plantdoc": {
+    "n": 9,
+    "correct_pct": 66.7
+   }
+  },
+  "apple_scab": {
+   "plantvillage": {
+    "n": 67,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 10,
+    "correct_pct": 70.0
+   }
+  },
+  "blueberry_healthy": {
+   "plantvillage": {
+    "n": 136,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 11,
+    "correct_pct": 72.7
+   }
+  },
+  "cherry_healthy": {
+   "plantvillage": {
+    "n": 85,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 10,
+    "correct_pct": 20.0
+   }
+  },
+  "cherry_powdery_mildew": {
+   "plantvillage": {
+    "n": 124,
+    "correct_pct": 99.2
+   }
+  },
+  "citrus_greening": {
+   "plantvillage": {
+    "n": 528,
+    "correct_pct": 99.8
+   }
+  },
+  "grape_black_rot": {
+   "plantvillage": {
+    "n": 124,
+    "correct_pct": 98.4
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 75.0
+   }
+  },
+  "grape_esca": {
+   "plantvillage": {
+    "n": 143,
+    "correct_pct": 100.0
+   }
+  },
+  "grape_healthy": {
+   "plantvillage": {
+    "n": 40,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 12,
+    "correct_pct": 91.7
+   }
+  },
+  "grape_leaf_blight": {
+   "plantvillage": {
+    "n": 113,
+    "correct_pct": 100.0
+   }
+  },
+  "maize_common_rust": {
+   "plantvillage": {
+    "n": 128,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 10,
+    "correct_pct": 100.0
+   }
+  },
+  "maize_gray_leaf_spot": {
+   "plantvillage": {
+    "n": 59,
+    "correct_pct": 88.1
+   },
+   "plantdoc": {
+    "n": 4,
+    "correct_pct": 25.0
+   }
+  },
+  "maize_healthy": {
+   "plantvillage": {
+    "n": 106,
+    "correct_pct": 100.0
+   }
+  },
+  "maize_northern_leaf_blight": {
+   "plantvillage": {
+    "n": 103,
+    "correct_pct": 96.1
+   },
+   "plantdoc": {
+    "n": 12,
+    "correct_pct": 41.7
+   }
+  },
+  "peach_bacterial_spot": {
+   "plantvillage": {
+    "n": 218,
+    "correct_pct": 100.0
+   }
+  },
+  "peach_healthy": {
+   "plantvillage": {
+    "n": 34,
+    "correct_pct": 97.1
+   },
+   "plantdoc": {
+    "n": 9,
+    "correct_pct": 77.8
+   }
+  },
+  "pepper_bacterial_spot": {
+   "plantvillage": {
+    "n": 105,
+    "correct_pct": 99.0
+   },
+   "plantdoc": {
+    "n": 9,
+    "correct_pct": 11.1
+   }
+  },
+  "pepper_healthy": {
+   "plantvillage": {
+    "n": 157,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 50.0
+   }
+  },
+  "potato_early_blight": {
+   "plantvillage": {
+    "n": 93,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 37.5
+   }
+  },
+  "potato_healthy": {
+   "plantvillage": {
+    "n": 8,
+    "correct_pct": 87.5
+   }
+  },
+  "potato_late_blight": {
+   "plantvillage": {
+    "n": 106,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 37.5
+   }
+  },
+  "raspberry_healthy": {
+   "plantvillage": {
+    "n": 29,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 7,
+    "correct_pct": 100.0
+   }
+  },
+  "soybean_healthy": {
+   "plantvillage": {
+    "n": 505,
+    "correct_pct": 99.8
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 50.0
+   }
+  },
+  "squash_powdery_mildew": {
+   "plantvillage": {
+    "n": 181,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 6,
+    "correct_pct": 66.7
+   }
+  },
+  "strawberry_healthy": {
+   "plantvillage": {
+    "n": 55,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 100.0
+   }
+  },
+  "strawberry_leaf_scorch": {
+   "plantvillage": {
+    "n": 114,
+    "correct_pct": 99.1
+   }
+  },
+  "tomato_bacterial_spot": {
+   "plantvillage": {
+    "n": 215,
+    "correct_pct": 98.6
+   },
+   "plantdoc": {
+    "n": 9,
+    "correct_pct": 11.1
+   }
+  },
+  "tomato_early_blight": {
+   "plantvillage": {
+    "n": 96,
+    "correct_pct": 94.8
+   },
+   "plantdoc": {
+    "n": 9,
+    "correct_pct": 33.3
+   }
+  },
+  "tomato_healthy": {
+   "plantvillage": {
+    "n": 150,
+    "correct_pct": 98.7
+   },
+   "plantdoc": {
+    "n": 8,
+    "correct_pct": 37.5
+   }
+  },
+  "tomato_late_blight": {
+   "plantvillage": {
+    "n": 180,
+    "correct_pct": 98.3
+   },
+   "plantdoc": {
+    "n": 10,
+    "correct_pct": 50.0
+   }
+  },
+  "tomato_leaf_mold": {
+   "plantvillage": {
+    "n": 112,
+    "correct_pct": 95.5
+   },
+   "plantdoc": {
+    "n": 6,
+    "correct_pct": 16.7
+   }
+  },
+  "tomato_mosaic_virus": {
+   "plantvillage": {
+    "n": 32,
+    "correct_pct": 100.0
+   },
+   "plantdoc": {
+    "n": 10,
+    "correct_pct": 0.0
+   }
+  },
+  "tomato_septoria_leaf_spot": {
+   "plantvillage": {
+    "n": 172,
+    "correct_pct": 98.8
+   },
+   "plantdoc": {
+    "n": 11,
+    "correct_pct": 81.8
+   }
+  },
+  "tomato_spider_mites": {
+   "plantvillage": {
+    "n": 173,
+    "correct_pct": 97.7
+   }
+  },
+  "tomato_target_spot": {
+   "plantvillage": {
+    "n": 138,
+    "correct_pct": 93.5
+   }
+  },
+  "tomato_yellow_leaf_curl": {
+   "plantvillage": {
+    "n": 526,
+    "correct_pct": 99.4
+   },
+   "plantdoc": {
+    "n": 6,
+    "correct_pct": 83.3
+   }
+  },
+  "rice_bacterial_leaf_blight": {
+   "paddy": {
+    "n": 73,
+    "correct_pct": 95.9
+   }
+  },
+  "rice_bacterial_leaf_streak": {
+   "paddy": {
+    "n": 57,
+    "correct_pct": 96.5
+   }
+  },
+  "rice_bacterial_panicle_blight": {
+   "paddy": {
+    "n": 52,
+    "correct_pct": 98.1
+   }
+  },
+  "rice_blast": {
+   "paddy": {
+    "n": 262,
+    "correct_pct": 97.3
+   }
+  },
+  "rice_brown_spot": {
+   "paddy": {
+    "n": 146,
+    "correct_pct": 93.8
+   }
+  },
+  "rice_dead_heart": {
+   "paddy": {
+    "n": 217,
+    "correct_pct": 99.1
+   }
+  },
+  "rice_downy_mildew": {
+   "paddy": {
+    "n": 93,
+    "correct_pct": 97.8
+   }
+  },
+  "rice_healthy": {
+   "paddy": {
+    "n": 266,
+    "correct_pct": 96.6
+   }
+  },
+  "rice_hispa": {
+   "paddy": {
+    "n": 240,
+    "correct_pct": 97.1
+   }
+  },
+  "rice_tungro": {
+   "paddy": {
+    "n": 164,
+    "correct_pct": 95.1
+   }
+  }
+ }
+}

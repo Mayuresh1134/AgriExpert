@@ -1,0 +1,131 @@
+{
+ "data": {
+  "crops": 166,
+  "crops_with_forecast": 70,
+  "monthly_prices": 19609,
+  "first_month": "2002-02",
+  "last_full_month": "2026-10"
+ },
+ "test": {
+  "method": "trained on months up to 2023-10; forecasts made from each of the next 36 months",
+  "validation": "how much of the model's predicted change to keep was chosen on the 36 months before 2023-10",
+  "share_of_predicted_change_kept": {
+   "1": 0.75,
+   "2": 1.0,
+   "3": 1.0,
+   "4": 1.0,
+   "5": 1.0,
+   "6": 1.0
+  },
+  "median_error_pct_by_months_ahead": {
+   "1": {
+    "no_change": 6.3,
+    "seasonal": 6.9,
+    "model": 6.3,
+    "forecasts": 2170
+   },
+   "2": {
+    "no_change": 10.3,
+    "seasonal": 10.6,
+    "model": 9.9,
+    "forecasts": 2108
+   },
+   "3": {
+    "no_change": 12.5,
+    "seasonal": 13.3,
+    "model": 12.2,
+    "forecasts": 2046
+   },
+   "4": {
+    "no_change": 14.8,
+    "seasonal": 15.8,
+    "model": 13.6,
+    "forecasts": 1984
+   },
+   "5": {
+    "no_change": 16.9,
+    "seasonal": 16.4,
+    "model": 14.7,
+    "forecasts": 1922
+   },
+   "6": {
+    "no_change": 18.1,
+    "seasonal": 18.0,
+    "model": 16.2,
+    "forecasts": 1860
+   }
+  },
+  "direction_right_pct": {
+   "1": 72.5,
+   "3": 75.6,
+   "6": 75.1
+  },
+  "per_crop_3_months_ahead": {
+   "bajra": {
+    "model": 5.8,
+    "no_change": 4.2
+   },
+   "banana": {
+    "model": 11.6,
+    "no_change": 10.9
+   },
+   "gram": {
+    "model": 3.3,
+    "no_change": 6.7
+   },
+   "coriander": {
+    "model": 7.6,
+    "no_change": 6.4
+   },
+   "cotton": {
+    "model": 3.6,
+    "no_change": 3.2
+   },
+   "garlic": {
+    "model": 16.0,
+    "no_change": 28.7
+   },
+   "groundnut": {
+    "model": 5.9,
+    "no_change": 3.5
+   },
+   "jowar": {
+    "model": 10.3,
+    "no_change": 11.4
+   },
+   "maize": {
+    "model": 5.5,
+    "no_change": 5.5
+   },
+   "mustard": {
+    "model": 4.6,
+    "no_change": 6.4
+   },
+   "onion": {
+    "model": 25.1,
+    "no_change": 31.5
+   },
+   "potato": {
+    "model": 16.4,
+    "no_change": 12.6
+   },
+   "sesame": {
+    "model": 7.0,
+    "no_change": 10.5
+   },
+   "soybean": {
+    "model": 4.2,
+    "no_change": 5.4
+   },
+   "tomato": {
+    "model": 21.3,
+    "no_change": 29.4
+   },
+   "wheat": {
+    "model": 3.1,
+    "no_change": 4.5
+   }
+  }
+ },
+ "training_rows": 66624
+}
